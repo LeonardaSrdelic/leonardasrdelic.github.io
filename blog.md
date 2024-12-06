@@ -3,10 +3,6 @@ layout: page
 title: "Blog"
 ---
 
-# Blog
-
-Here are my recent blog posts:
-
 <ul>
   {% for post in site.posts %}
     <li>
