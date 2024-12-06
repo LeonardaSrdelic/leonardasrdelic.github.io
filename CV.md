@@ -113,7 +113,7 @@ Economist-Statistician and Sustainability Research Group Member
 
 **Srdelic, L., Švaljek, S. (2024)**. Analiza tržišnih trendova europskog sustava trgovanja dozvolama za emisije stakleničkih plinova. 
 *Fiscus 13, ISSN 1849-9309.* 
-[Read here](https://doi.org/10.3326/ao.2024.139](https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf)
+[Read here](https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf)
  
 **Srdelic, L. (2024)**. Okolišni porezi u Hrvatskoj i Europskoj uniji. 
 *Osvrti Instituta za javne financije, 17 (139), 1 – 18*. 
