@@ -26,9 +26,10 @@ Economist-Statistician and Sustainability Research Group Member
 ## Education
 
 **PhD in Economics**  | *Graduated: 2022*  
-  Facoltà di Economia "Richard M. Goodwin",
-    Dipartimento di Economia Politica e Statistica,
-    Università degli Studi di Siena, Italia [Visit University Website](https://www.unisi.it/)  
+Facoltà di Economia "Richard M. Goodwin",  
+Dipartimento di Economia Politica e Statistica,  
+Università degli Studi di Siena, Italia  
+[Visit University Website](https://www.unisi.it/)
   
 **Master's Degree in Economics**  
   University of Zagreb | *Graduated: 2017*
