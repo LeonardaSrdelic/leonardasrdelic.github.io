@@ -83,17 +83,12 @@ Researcher
 
 ## Conferences
 
-- **International Scientific Conference "Economic Meetings"**  
+**International Scientific Conference "Economic Meetings"**  
   *Scientific Society of Economists, Rijeka, Croatia*  
   *Nov 15–16, 2024*  
   [Conference Program](https://zde.hr/wp-content/uploads/2024/11/Program_Ekonomski-susreti_2024-1.pdf)
 
-- **28th Dubrovnik Economic Conference**  
-  *Organized by Croatian National Bank, Dubrovnik, Croatia*  
-  *2022*  
-  [Event Details](https://www.hnb.hr/en/-/the-15th-young-economists-seminar)
-
-- **15th Young Economists Seminar**  
+**15th Young Economists Seminar to the 28th Dubrovnik Economic Conference**  
   *Organized by Croatian National Bank, Dubrovnik, Croatia*  
   *2022*  
   [Seminar Details](https://www.hnb.hr/en/-/the-15th-young-economists-seminar)
