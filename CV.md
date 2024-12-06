@@ -17,7 +17,9 @@ title: ""
 ## Professional Experience
 
 **Institute of Public Finance** | *Feb 2024 - Present*  
-Researcher
+*Zagreb, Croatia*  
+Researcher  
+[Visit University Website]([https://www.unisi.it/](https://www.ijf.hr/hr))
 
 **ATD SOLUCIJE, d.o.o.** | *Nov 2023 - Feb 2024*  
 Advisor for Climate Risk Modelling
