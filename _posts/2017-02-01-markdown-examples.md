@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "Title 2"
 layout: post
 ---
 
@@ -27,11 +27,11 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 
 ### Multiline
 
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
+> ...
 >
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
+> ...
 >
-> – _Hal Incandenza_
+> – _..._
 
 ## Horizontal Rule
 
@@ -48,23 +48,6 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 
 ## Code
 
-Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
-
-````
-```javascript
-function foo () {
-    return "bar";
-}
-```
-````
-
-This would be rendered as:
-
-```javascript
-function foo () {
-    return "bar";
-}
-```
 
 ## Lists
 
