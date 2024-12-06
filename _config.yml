@@ -22,10 +22,15 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external: # shows a footer with social links - for available icons see fontawesome.com/icons
-- {title: Mail, icon: envelope, url: "mailto:leonarda.srdelic@ijf.hr"}
-- {title: LinkedIn, icon: fa-brands fa-linkedin, url: "https://www.linkedin.com/in/leonarda-srdelic/"}
-- {title: Subscribe, icon: rss, url: "/feed.xml"}
-
+  - title: Mail
+    icon: fa-solid fa-envelope
+    url: "mailto:leonarda.srdelic@ijf.hr"
+  - title: LinkedIn
+    icon: fa-brands fa-linkedin
+    url: "https://www.linkedin.com/in/leonarda-srdelic/"
+  - title: Subscribe
+    icon: fa-solid fa-rss
+    url: "/feed.xml"
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
