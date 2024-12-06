@@ -18,11 +18,8 @@ Researcher
 **ATD SOLUCIJE, d.o.o.** | *Nov 2023 - Feb 2024*  
 Advisor for Climate Risk Modelling
 
-**Croatian National Bank** | *Sep 2022 - Oct 2023*  
+**Croatian National Bank** | *Jul 2020 - Oct 2023*  
 Economist-Statistician and Sustainability Research Group Member
-
-**Croatian National Bank** | *Jul 2020 - Sep 2022*  
-Researcher
 
 ---
 
