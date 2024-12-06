@@ -28,10 +28,11 @@ Research Economist
 
 ## Education
 
-**PhD in Economics**  
-  University of Siena, Italy | *Graduated: 2022*  
-  Joint Doctoral Program in Economics offered by Tuscan universities.
-
+**PhD in Economics**  | *Graduated: 2022*  
+  Facoltà di Economia "Richard M. Goodwin", Dipartimento di Economia Politica e Statistica, 
+  Università degli Studi di Siena, Italia  
+  [Visit University Website](https://www.unisi.it/)  
+  
 **Master's Degree in Economics**  
   University of Zagreb | *Graduated: 2017*
 
@@ -82,17 +83,20 @@ Research Economist
 
 ## Conferences
 
-**International Scientific Conference "Economic Meetings"**
+- **International Scientific Conference "Economic Meetings"**  
   *Scientific Society of Economists, Rijeka, Croatia*  
-  *Nov 15–16, 2024*
-  
-**28th Dubrovnik Economic Conference**  
+  *Nov 15–16, 2024*  
+  [Conference Program](https://zde.hr/wp-content/uploads/2024/11/Program_Ekonomski-susreti_2024-1.pdf)
+
+- **28th Dubrovnik Economic Conference**  
   *Organized by Croatian National Bank, Dubrovnik, Croatia*  
-  *2022*
-  
-**15th Young Economists Seminar**  
+  *2022*  
+  [Event Details](https://www.hnb.hr/en/-/the-15th-young-economists-seminar)
+
+- **15th Young Economists Seminar**  
   *Organized by Croatian National Bank, Dubrovnik, Croatia*  
-  *2022*
+  *2022*  
+  [Seminar Details](https://www.hnb.hr/en/-/the-15th-young-economists-seminar)
   
 ---
 
