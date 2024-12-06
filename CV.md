@@ -113,6 +113,7 @@ Research Economist
 **Research**: Experience with macro, micro, and firm-level data.  
 **Languages**: English (Full professional proficiency), Italian (Elementary), Croatian (Native)
 
+---
 
 ## Relevant Publications
 
