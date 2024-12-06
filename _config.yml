@@ -1,7 +1,7 @@
 encoding: utf-8
 title: "Leonarda Srdelić"
 author: "Leonarda Srdelić"
-description: "Društvene mreže"
+description: "Social media"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Naslovna"}
+  - {file: "index.md", title: "Homepage", icon: home}
   - {file: "blog.md", title: "Blog"}
   - {file: "CV.md", title: "Curriculum Vitae"}
 
