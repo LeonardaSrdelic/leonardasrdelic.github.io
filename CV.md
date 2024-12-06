@@ -31,11 +31,11 @@ Dipartimento di Economia Politica e Statistica,
 Università degli Studi di Siena, Italia  
 [Visit University Website](https://www.unisi.it/)
   
-**Master's Degree in Economics**  
-  University of Zagreb | *Graduated: 2017*
+**Master's Degree in Economics**  | *Graduated: 2017*
+  University of Zagreb 
 
-**Bachelor's Degree in Economics**  
-  University of Zagreb | *Graduated: 2016*
+**Bachelor's Degree in Economics**  | *Graduated: 2016*
+  University of Zagreb 
 
 ---
 
