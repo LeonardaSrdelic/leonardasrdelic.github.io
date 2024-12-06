@@ -28,14 +28,14 @@ Research Economist
 
 ## Education
 
-- **PhD in Economics**  
+**PhD in Economics**  
   University of Siena, Italy | *Graduated: 2022*  
   Joint Doctoral Program in Economics offered by Tuscan universities.
 
-- **Master's Degree in Economics**  
+**Master's Degree in Economics**  
   University of Zagreb | *Graduated: 2017*
 
-- **Bachelor's Degree in Economics**  
+**Bachelor's Degree in Economics**  
   University of Zagreb | *Graduated: 2016*
 
 ---
