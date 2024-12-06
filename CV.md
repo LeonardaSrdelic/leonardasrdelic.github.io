@@ -80,13 +80,37 @@ Research Economist
 
 ---
 
-## Skills
+## Conferences
 
-- **Programming**: Python, R, VBA, LaTeX, GitHub  
-- **Languages**: English (Professional), Italian (Elementary), Croatian (Native)  
-- **Data Analysis**: Applied quantitative methods, econometric modeling  
+**International Scientific Conference "Economic Meetings"**
+  *Scientific Society of Economists, Rijeka, Croatia*  
+  *Nov 15–16, 2024*
+**28th Dubrovnik Economic Conference**  
+  *Organized by Croatian National Bank, Dubrovnik, Croatia*  
+  *2022*
+**15th Young Economists Seminar**  
+  *Organized by Croatian National Bank, Dubrovnik, Croatia*  
+  *2022*
+  
+---
+
+## Awards and Honors
+
+**PEGASO Scholarship for Research**  |*Nov 2017 - Jul 2020*  
+  Financed by Tuscan Universities, Italy.
+
+**Scholarship for the Best Full-Time Student-Parent**  |*2016*  
+  Financed by the Croatian non-profit association *'Hrvatska moze bolje'*.
 
 ---
+
+## Skills
+
+**Programming**: Python, R, VBA Excel, LaTeX, GitHub  
+**Data Analysis**: Proficient in applied quantitative methods and data analysis techniques.  
+**Research**: Experience with macro, micro, and firm-level data.  
+**Languages**: English (Full professional proficiency), Italian (Elementary), Croatian (Native)
+
 
 ## Publications
 
@@ -95,8 +119,3 @@ Research Economist
 - **Other Publications**: [Google Scholar](https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en)
 
 ---
-
-## Awards and Honors
-
-- PEGASO Scholarship for Research | *2017 - 2020*  
-- Scholarship for Best Student-Parent | *2016*
