@@ -21,12 +21,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "O meni"}
 
 
-  external:
+external:
   - title: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
+    icon: fab fa-linkedin
     url: "https://www.linkedin.com/in/leonarda-srdelic/"
   - title: Mail
-    icon: <i class="fa-solid fa-envelope"></i>
+    icon: fas fa-envelope
     url: "mailto:leonarda.srdelic@ijf.hr"
 
 comments:
