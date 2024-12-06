@@ -85,9 +85,11 @@ Research Economist
 **International Scientific Conference "Economic Meetings"**
   *Scientific Society of Economists, Rijeka, Croatia*  
   *Nov 15–16, 2024*
+  
 **28th Dubrovnik Economic Conference**  
   *Organized by Croatian National Bank, Dubrovnik, Croatia*  
   *2022*
+  
 **15th Young Economists Seminar**  
   *Organized by Croatian National Bank, Dubrovnik, Croatia*  
   *2022*
