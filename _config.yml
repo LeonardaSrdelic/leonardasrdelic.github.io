@@ -29,7 +29,7 @@ external: # shows a footer with social links - for available icons see fontaweso
   - title: LinkedIn
     icon: fa-brands fa-linkedin
     url: "https://www.linkedin.com/in/leonarda-srdelic-a2348217a/?originalSubdomain=hr"
-   - title: Subscribe
+  - title: Subscribe
     icon: fa-solid fa-rss
     url: "/subscribe/"
 
