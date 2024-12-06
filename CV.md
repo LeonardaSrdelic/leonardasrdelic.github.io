@@ -6,7 +6,7 @@ title: ""
 # Leonarda Srdelic
 
 <div style="text-align: center;">
-  <img src="assets/photo.JPG" alt="Leonarda Srdelic" style="width: 200px; border-radius: 50%;">
+  <img src="assets/photo.JPG" style="width: 200px; border-radius: 50%;">
 </div>
 
 📧 [leonardas.srdelic@ijf.hr](mailto:leonardas.srdelic@ijf.hr)  
