@@ -114,10 +114,23 @@ Research Economist
 **Languages**: English (Full professional proficiency), Italian (Elementary), Croatian (Native)
 
 
-## Publications
+## Relevant Publications
 
-- **Srdelic, L. (2024)**. Overview of climate projections for Croatia and their impact on the economy. [Read more](https://hrcak.srce.hr/file/460189)  
-- **Srdelic, L., Davila-Fernandez, M. (2023)**. International trade and economic growth in Croatia. [Read more](https://www.sciencedirect.com/science/article/pii/S0954349X23001492)  
-- **Other Publications**: [Google Scholar](https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en)
+- **Srdelic, L. (2024)**. Overview of climate projections for Croatia and their impact on the economy and financial system.  
+  *Oeconomica Jadertina 1/2024.* (In Croatian)  
+  [Read here](https://hrcak.srce.hr/file/460189)
 
----
+- **Srdelic, L. (2024)**. Transition risks of climate change: An analysis of greenhouse gas emissions in Croatia and the Euro Area.  
+  *Oeconomica Jadertina 1/2024.* (In Croatian)  
+  [Read here](https://hrcak.srce.hr/file/460187)
+
+- **Srdelic, L., Davila-Fernandez, M. (2023)**. International trade and economic growth in Croatia.  
+  *Structural Change and Economic Dynamics, Volume 68, March 2024, Pages 240-258.*  
+  [Read here](https://www.sciencedirect.com/science/article/pii/S0954349X23001492)
+
+- **Srdelic, L., Davila-Fernandez, M. (2022)**. Demographic transition and economic growth in 6-EU member states.  
+  *Munich Personal RePEC Archive Working Papers.* (Cambridge Journal of Economics, accepted, not published yet)  
+  [Read here](https://mpra.ub.uni-muenchen.de/112188/)
+
+- **Other Publications**:  
+  Visit my [Google Scholar profile](https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en).
