@@ -3,5 +3,6 @@ layout: page
 title: "CV"
 ---
 
-<iframe src="assets/CV.pdf"
+<iframe src="assets/CV.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
+
 
