@@ -40,13 +40,13 @@ Economist-Statistician and Sustainability Research Group Member
 
 ## Additional Education
 
-**HQ25.04 - Climate in Macroeconomic Frameworks**  |*Feb 3–7, 2025*  
+**HQ25.04 - Climate in Macroeconomic Frameworks**  | *Feb 3–7, 2025*  
   *International Monetary Fund (IMF), Washington, D.C.*
 
-**Sustainability and Climate Risk (SCR)**  |*2024*  
+**Sustainability and Climate Risk (SCR)**  | *2024*  
   *Global Association of Risk Professionals (GARP), online*
 
-**Macroeconomics of Climate Change**  |*2022–2023*  
+**Macroeconomics of Climate Change**  | *2022–2023*  
   *IMF Institute for Capacity Development (ICD), Online Courses*
   - Green Public Finance  
   - Climate Risks for the Financial Sector  
@@ -55,10 +55,10 @@ Economist-Statistician and Sustainability Research Group Member
   - Mitigation Strategies  
   - Science, Economics, and Policies  
 
-**Output Decomposition and Forecasting**  |*2022*  
+**Output Decomposition and Forecasting**  | *2022*  
   *Irina Panovska, Croatian Science Foundation, Zagreb*
 
-**Joint Vienna Institute (IMF), Online Courses**  |*2020–2022*  
+**Joint Vienna Institute (IMF), Online Courses**  | *2020–2022*  
   - Balance of Payments and International Investment Position Statistics  
   - Macroeconomic Forecasting  
   - Foreign Direct Investment Policies  
@@ -70,7 +70,7 @@ Economist-Statistician and Sustainability Research Group Member
 **National Association of State Boards of Accountancy (NASBA), Online Course**  |*2020*  
   - Learning VBA in Excel  
 
-**DataCamp and LinkedIn Learning, Online Courses**  |*2019*  
+**DataCamp and LinkedIn Learning, Online Courses**  | *2019*  
   - Learning the R Tidyverse  
   - Introduction to Data Science  
   - Programming Foundations: Fundamentals  
@@ -80,7 +80,7 @@ Economist-Statistician and Sustainability Research Group Member
 
 ## Conferences
 
-**International Scientific Conference "Economic Meetings"**  |*Nov 15–16, 2024*  
+**International Scientific Conference "Economic Meetings"**  | *Nov 15–16, 2024*  
   *Scientific Society of Economists, Rijeka, Croatia*  
   [Conference Program](https://zde.hr/wp-content/uploads/2024/11/Program_Ekonomski-susreti_2024-1.pdf)
 
@@ -92,10 +92,10 @@ Economist-Statistician and Sustainability Research Group Member
 
 ## Awards and Honors
 
-**PEGASO Scholarship for Research**  |*Nov 2017 - Jul 2020*  
+**PEGASO Scholarship for Research**  | *Nov 2017 - Jul 2020*  
   Financed by Tuscan Universities, Italy.
 
-**Scholarship for the Best Full-Time Student-Parent**  |*2016*  
+**Scholarship for the Best Full-Time Student-Parent**  | *2016*  
   Financed by the Croatian non-profit association *'Hrvatska moze bolje'*.
 
 ---
