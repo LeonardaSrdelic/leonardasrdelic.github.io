@@ -6,7 +6,7 @@ title: ""
 # Leonarda Srdelic
 
 📧 [leonardas.srdelic@ijf.hr](mailto:leonardas.srdelic@ijf.hr)  
-🌐 [LinkedIn](https://www.linkedin.com/in/leonarda-srdelic-a2348217a/) | [ORCID](https://orcid.org/0000-0002-4079-8198) | [ResearchGate](https://www.researchgate.net/profile/Leonarda-Srdelic)
+🌐 [LinkedIn](https://www.linkedin.com/in/leonarda-srdelic-a2348217a/) | [ORCID](https://orcid.org/0000-0002-4079-8198) | [ResearchGate](https://www.researchgate.net/profile/Leonarda-Srdelic) | [Google Scholar Profile](https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en)
 
 ---
 
