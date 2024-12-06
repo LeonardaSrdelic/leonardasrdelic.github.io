@@ -6,8 +6,9 @@ title: ""
 # Leonarda Srdelic
 
 <div style="text-align: center;">
-  <img class="profile-photo" src="assets/photo.JPG" alt="Leonarda Srdelic">
+  <img src="assets/photo.JPG" alt="Leonarda Srdelic" style="width: 200px; border-radius: 50%;">
 </div>
+
 
 📧 [leonardas.srdelic@ijf.hr](mailto:leonardas.srdelic@ijf.hr)  
 🌐 [LinkedIn](https://www.linkedin.com/in/leonarda-srdelic-a2348217a/) | [ORCID](https://orcid.org/0000-0002-4079-8198) | [Google Scholar](https://scholar.google.com)
