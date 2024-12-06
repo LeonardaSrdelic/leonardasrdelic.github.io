@@ -115,7 +115,7 @@ Economist-Statistician and Sustainability Research Group Member
  
 **Srdelic, L. (2024)**. Okolišni porezi u Hrvatskoj i Europskoj uniji. *Osvrti Instituta za javne financije, 17 (139), 1 – 18*. [Read here](https://doi.org/10.3326/ao.2024.139)
   
-**Srdelic, L., Barišić, R. (2024)**. Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve. Ekonomska misao i praksa* [Read here]([https://doi.org/10.3326/ao.2024.139](https://mpra.ub.uni-muenchen.de/122841/))
+**Srdelic, L., Barišić, R. (2024)**. Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve. *Ekonomska misao i praksa, accepted, not published yet* [Read here]([https://doi.org/10.3326/ao.2024.139](https://mpra.ub.uni-muenchen.de/122841/))
    
 **Srdelic, L. (2024)**. Tranzicijski rizici klimatskih promjena: Analiza emisija stakleničkih plinova u Hrvatskoj i europodručju. *Oeconomica Jadertina 1/2024*. [Read here](https://doi.org/10.15291/oec.4433)
   
