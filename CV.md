@@ -3,8 +3,4 @@ layout: page
 title: "CV"
 ---
 
-# My Curriculum Vitae
-
-You can download my CV using the link below:
-
-[Download CV](CV.pdf)
+<iframe src="CV.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
