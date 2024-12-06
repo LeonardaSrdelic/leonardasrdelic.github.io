@@ -9,8 +9,6 @@ title: ""
   <img src="assets/photo.JPG" alt="Leonarda Srdelic" style="width: 150px; border-radius: 50%;">
 </div>
 
-![Leonarda Srdelic](assets/photo.JPG)
-
 📧 [leonardas.srdelic@ijf.hr](mailto:leonardas.srdelic@ijf.hr)  
 🌐 [LinkedIn](https://www.linkedin.com/in/leonarda-srdelic-a2348217a/) | [ORCID](https://orcid.org/0000-0002-4079-8198) | [Google Scholar](https://scholar.google.com)
 
