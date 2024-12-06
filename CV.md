@@ -41,13 +41,13 @@ Economist-Statistician and Sustainability Research Group Member
 ## Additional Education
 
 **HQ25.04 - Climate in Macroeconomic Frameworks**  | *Feb 3–7, 2025*  
-  **International Monetary Fund (IMF), Washington, D.C.**
+  *International Monetary Fund (IMF), Washington, D.C.*
 
 **Sustainability and Climate Risk (SCR)**  |*2024*  
-  **Global Association of Risk Professionals (GARP), online**
+  *Global Association of Risk Professionals (GARP), online*
 
 **Macroeconomics of Climate Change**  |*2022–2023*  
-  **IMF Institute for Capacity Development (ICD), Online Courses**  
+  *IMF Institute for Capacity Development (ICD), Online Courses*
   - Green Public Finance  
   - Climate Risks for the Financial Sector  
   - Economics of Adaptation  
@@ -56,7 +56,7 @@ Economist-Statistician and Sustainability Research Group Member
   - Science, Economics, and Policies  
 
 **Output Decomposition and Forecasting**  |*2022*  
-  **Irina Panovska, Croatian Science Foundation, Zagreb**
+  *Irina Panovska, Croatian Science Foundation, Zagreb*
 
 **Joint Vienna Institute (IMF), Online Courses**  |*2020–2022*  
   - Balance of Payments and International Investment Position Statistics  
