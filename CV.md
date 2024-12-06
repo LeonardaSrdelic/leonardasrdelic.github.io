@@ -16,8 +16,7 @@ title: ""
 
 ## Professional Experience
 
-**Institute of Public Finance** | *Feb 2024 - Present*  
-*Zagreb, Croatia*  
+**Institute of Public Finance**, *Zagreb, Croatia* | *Feb 2024 - Present*  
 Researcher  
 [Visit Website](https://www.ijf.hr/hr)
 
