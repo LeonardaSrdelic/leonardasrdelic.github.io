@@ -20,10 +20,14 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Naslovna"}
   - {file: "README.md", title: "O meni"}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:leonarda.srdelic@ijf.hr"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/feed/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+  external:
+  - title: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    url: "https://www.linkedin.com/in/leonarda-srdelic/"
+  - title: Mail
+    icon: <i class="fa-solid fa-envelope"></i>
+    url: "mailto:leonarda.srdelic@ijf.hr"
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
