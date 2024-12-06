@@ -12,21 +12,17 @@ title: ""
 
 ## Professional Experience
 
-### Researcher
 **Institute of Public Finance** | *Feb 2024 - Present*  
-Developing and analyzing environmental fiscal policies with a focus on the EU Emissions Trading System (ETS) and carbon pricing. Designing equitable tax revenue recycling models and modeling climate risks.
+Researcher
 
-### Advisor for Climate Risk Modelling
 **ATD SOLUCIJE, d.o.o.** | *Nov 2023 - Feb 2024*  
-Developed ESG Geo mapping tools aligned with ISO 14091 and ECB guidelines, assessing physical climate risks on banking collaterals.
+Advisor for Climate Risk Modelling
 
-### Economist-Statistician and Sustainability Research Group Member
 **Croatian National Bank** | *Sep 2022 - Oct 2023*  
-Specialized in Balance of Payments data analysis and contributed to the NGFS Macro Models Subgroup for transition modeling.
+Economist-Statistician and Sustainability Research Group Member
 
-### Research Economist
 **Croatian National Bank** | *Jul 2020 - Sep 2022*  
-Conducted macroeconomic analysis on international trade, capital flows, and productivity.
+Research Economist
 
 ---
 
