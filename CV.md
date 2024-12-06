@@ -40,7 +40,7 @@ Economist-Statistician and Sustainability Research Group Member
 
 ## Additional Education
 
-**HQ25.04 - Climate in Macroeconomic Frameworks**  | *Feb 3–7, 2025*  
+**HQ25.04 - Climate in Macroeconomic Frameworks**  |*Feb 3–7, 2025*  
   *International Monetary Fund (IMF), Washington, D.C.*
 
 **Sustainability and Climate Risk (SCR)**  |*2024*  
@@ -80,14 +80,12 @@ Economist-Statistician and Sustainability Research Group Member
 
 ## Conferences
 
-**International Scientific Conference "Economic Meetings"**  
+**International Scientific Conference "Economic Meetings"**  |*Nov 15–16, 2024*  
   *Scientific Society of Economists, Rijeka, Croatia*  
-  *Nov 15–16, 2024*  
   [Conference Program](https://zde.hr/wp-content/uploads/2024/11/Program_Ekonomski-susreti_2024-1.pdf)
 
-**15th Young Economists Seminar to the 28th Dubrovnik Economic Conference**  
-  *Organized by Croatian National Bank, Dubrovnik, Croatia*  
-  *2022*  
+**15th Young Economists Seminar to the 28th Dubrovnik Economic Conference**  |*2022* 
+  *Organized by Croatian National Bank, Dubrovnik, Croatia*   
   [Seminar Details](https://www.hnb.hr/en/-/the-15th-young-economists-seminar)
   
 ---
