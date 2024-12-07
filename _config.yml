@@ -1,7 +1,7 @@
 encoding: utf-8
 title: "Personal Webpage"
 author: "Leonarda Srdelić"
-description: "Social media"
+description: "Subscribe"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
