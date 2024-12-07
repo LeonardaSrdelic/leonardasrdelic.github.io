@@ -90,7 +90,7 @@ Università degli Studi di Siena, Italia
   *Scientific Society of Economists, Rijeka, Croatia*  
   [Conference Program](https://zde.hr/wp-content/uploads/2024/11/Program_Ekonomski-susreti_2024-1.pdf)
 
-**15th Young Economists Seminar to the 28th Dubrovnik Economic Conference**  |*2022* 
+**15th Young Economists Seminar to the 28th Dubrovnik Economic Conference**  |*2022*   
   *Organized by Croatian National Bank, Dubrovnik, Croatia*   
   [Seminar Details](https://www.hnb.hr/en/-/the-15th-young-economists-seminar)
   
