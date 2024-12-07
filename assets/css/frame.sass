@@ -4,15 +4,15 @@
 @import index, font, basic, layout, classes
 
 html
-  background: lighten($dark, 70%)
+  background: #f0f0f0  // Postavljanje specifične svjetlije boje
   padding: 0 calc(38% - 22em)
 
 body
-  box-shadow: 0 0 .3em lighten($dark, 65%)
+  box-shadow: none  // Uklanjanje sjene za čišći izgled
 
 body > header, body > footer
-  background: lighten($dark, 5%)
-  color: $light
+  background: #ddd  // Svjetlija siva za header i footer
+  color: #333  // Tamniji tekst za bolju čitljivost
 
 @media (min-width: 32em)
   body > header, body > article, body > footer
@@ -20,8 +20,8 @@ body > header, body > footer
 
 @media (prefers-color-scheme: dark)
   html
-    background: darken($dark, 4%)
+    background: #333  // Tamna pozadina za tamni način
   body > header, body > footer
-    background: $dark
+    background: #222  // Još tamnija pozadina za header i footer
   body, body > header, body > footer
-    box-shadow: 0 0 0 1px lighten($dark, 8%)
+    box-shadow: 0 0 0 1px #444  // Svjetliji obrub za kontrast
