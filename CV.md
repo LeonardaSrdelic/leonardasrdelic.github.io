@@ -129,11 +129,11 @@ Università degli Studi di Siena, Italia
 *Ekonomska misao i praksa* (accepted, not published yet).  
 [Read here](https://doi.org/10.3326/ao.2024.139)
    
-**Srdelic, L. (2024)**. Tranzicijski rizici klimatskih promjena: Analiza emisija stakleničkih plinova u Hrvatskoj i europodručju.   
+**Srdelic, L. (2024)**. Transition Risks of Climate Change: An Analysis of Greenhouse Gas Emissions in Croatia and the Euro Area.   
 *Oeconomica Jadertina 1/2024*.  
 [Read here](https://doi.org/10.15291/oec.4433)
   
-**Srdelic, L. (2024)**. Makroekonomija klimatskih promjena: Pregled klimatskih projekcija i utjecaja na gospodarstvo i financijski sustav Hrvatske.   
+**Srdelic, L. (2024)**. Overview of Physical Climate Risks and Their Impact on the Economy and Financial System of Croatia.   
 *Oeconomica Jadertina 1/2024*.  
 [Read here](https://doi.org/10.15291/oec.4434)
   
