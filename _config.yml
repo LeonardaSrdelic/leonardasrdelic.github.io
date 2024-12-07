@@ -4,6 +4,7 @@ author: "Leonarda Srdelić"
 description: "Subscribe"
 permalink: /:title/
 lang: "en"
+icon: ⚛️
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -42,6 +43,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "Blog"}
   - {file: "CV.md", title: "Curriculum Vitae"}
 
+# Dimensions
+max_width: 930px
 
 external: # shows a footer with social links - for available icons see fontawesome.com/icons
   - title: Mail
