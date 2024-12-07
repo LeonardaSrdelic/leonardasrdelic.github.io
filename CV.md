@@ -50,7 +50,7 @@ Università degli Studi di Siena, Italia
   *International Monetary Fund (IMF), Washington, D.C.*
 
 **Sustainability and Climate Risk (SCR)**  | *2024*  
-  *Global Association of Risk Professionals (GARP), online*
+  *Global Association of Risk Professionals (GARP)*
 
 **Macroeconomics of Climate Change**  | *2022–2023*  
   *IMF Institute for Capacity Development (ICD), Online Courses*
