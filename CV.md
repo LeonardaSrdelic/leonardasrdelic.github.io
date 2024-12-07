@@ -23,7 +23,7 @@ Researcher
 Advisor for Climate Risk Modelling
 
 **Croatian National Bank** | *Jul 2020 - Oct 2023*  
-Economist-Statistician and Sustainability Research Group Member
+Economist-Statistician and NGFS Member
 
 ---
 
