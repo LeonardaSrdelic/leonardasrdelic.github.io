@@ -41,7 +41,7 @@ University of Zagreb
 [Visit University Website](https://www.efzg.unizg.hr/en)
 
 **Bachelor's Degree in Economics**  | *Graduated: 2016*  
-  Faculty of economics and business 
+  Faculty of economics and business   
   University of Zagreb 
 
 ---
