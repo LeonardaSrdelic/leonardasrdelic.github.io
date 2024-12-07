@@ -121,9 +121,9 @@ Università degli Studi di Siena, Italia
 *Fiscus 13, ISSN 1849-9309.*  
 [Read here](https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf)
  
-**Srdelic, L. (2024)**. Okolišni porezi u Hrvatskoj i Europskoj uniji.     
-*Osvrti Instituta za javne financije, 17 (139), 1 – 18*.  
-[Read here](https://doi.org/10.3326/ao.2024.139)
+**Srdelic, L. (2024)**. Environmental taxes in Croatia and the European Union.     
+*Institute of public finance notes, 17 (139), 1 – 18*.  
+[Read here](https://doi.org/10.3326/in.2024.139)
   
 **Srdelic, L., Barišić, R. (2024)**. Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve.   
 *Ekonomska misao i praksa* (accepted, not published yet).  
