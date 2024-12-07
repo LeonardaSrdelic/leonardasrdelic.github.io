@@ -25,6 +25,7 @@ Advisor for Climate Risk Modelling
 **Croatian National Bank** | *Jul 2020 - Oct 2023*  
 Economist-Statistician and NGFS Member  
 [Visit Website](https://www.hnb.hr/en/home)
+
 ---
 
 ## Education
