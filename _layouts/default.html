@@ -48,7 +48,9 @@
   <header>
     <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
     {% include menu.html menu=pages %}
-  </header>
+    <!-- Theme Toggle Button -->
+    <button id="theme-toggle">Toggle Theme</button>
+</header>
   
   {{ content }}
   
