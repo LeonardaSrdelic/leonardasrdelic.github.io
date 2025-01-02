@@ -23,6 +23,8 @@ external: # shows a footer with social links - for available icons see fontaweso
     url: "https://www.linkedin.com/in/leonarda-srdelic-a2348217a/?originalSubdomain=hr"
 
 
+google_analytics: G-MNWHH06E2E # Replace UA-XXXXX-Y with your actual GA tracking ID
+
 
 # Build settings
 markdown: kramdown
