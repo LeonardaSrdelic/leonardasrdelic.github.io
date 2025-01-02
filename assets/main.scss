@@ -62,14 +62,14 @@
   
   .subscribe-form h3 {
     margin-bottom: 10px;
-    font-size: 18px;
+    font-size: 15px;
   }
   
   .subscribe-form input {
     padding: 8px;
     border: 1px solid #ddd;
     border-radius: 4px;
-    font-size: 14px;
+    font-size: 12px;
     margin-right: 10px;
   }
   
@@ -80,7 +80,7 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 14px;
+    font-size: 12px;
   }
   
   .subscribe-form button:hover {
@@ -164,23 +164,33 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    background-color: #fff; /* Bijela pozadina za bolju vidljivost */
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Lagana sjena za isticanje */
+    position: absolute;
+    top: 50px; /* Visina navigacije */
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    display: none; /* Sakrij izbornik dok nije aktivan */
   }
 
   .menu-icon {
     display: block;
     cursor: pointer;
+    padding: 10px;
   }
 
   .nav-trigger {
     display: none;
   }
 
-  .nav-trigger:checked ~ .trigger {
-    display: block;
+  .nav-trigger:checked ~ .site-nav {
+    display: flex; /* Prikazuje navigaciju kad je aktivan */
   }
 
   .trigger {
-    display: none;
+    display: flex;
     flex-direction: column;
     gap: 10px;
     width: 100%;
@@ -188,10 +198,26 @@
 
   .dropdown-content {
     display: none;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    background-color: #f9f9f9; /* Lagana pozadina za dropdown */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative; /* Zadržava poziciju unutar izbornika */
   }
 
   .dropdown:hover .dropdown-content {
-    display: block;
-    position: relative;
+    display: flex;
+  }
+
+  .dropdown a {
+    padding: 8px 0;
+    font-size: 16px;
+    text-decoration: none;
+    color: #333;
+  }
+
+  .dropdown a:hover {
+    color: #007acc; /* Istakni link pri hoveru */
   }
 }
