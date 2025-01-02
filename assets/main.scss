@@ -161,28 +161,29 @@
 /* Responzivna navigacija sa strane za mobilne uređaje */
 @media (max-width: 768px) {
   .site-nav {
-    display: none; /* Sakrij navigaciju dok nije aktivna */
-    flex-direction: column;
-    position: fixed;
-    top: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    background-color: #fff; /* Bijela pozadina za bolju vidljivost */
+    list-style: none;
+    padding: 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Lagana sjena za isticanje */
+    position: absolute;
+    top: 50px; /* Visina navigacije */
     left: 0;
-    height: 100%;
-    width: 75%; /* Navigacija zauzima 75% širine ekrana */
-    background-color: #fff;
+    right: 0;
     z-index: 1000;
-    padding: 20px;
-    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); /* Dodaj laganu sjenu */
-    overflow-y: auto; /* Omogućuje skrolanje ako sadržaj prelazi visinu ekrana */
+    display: none; /* Sakrij izbornik dok nije aktivan */
   }
 
   .menu-icon {
-    display: block; /* Prikazuje ikonu menija */
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    z-index: 1100; /* Viši z-index kako bi bila iznad svega */
+    display: none; /* Skriveno na većim ekranima */
     cursor: pointer;
     font-size: 24px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 1001;
   }
 
   .nav-trigger {
@@ -190,20 +191,23 @@
   }
 
   .nav-trigger:checked ~ .site-nav {
-    display: flex; /* Prikazuje navigaciju kad je ikona menija aktivna */
+    display: flex; /* Prikazuje navigaciju kad je aktivan */
   }
 
   .trigger {
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 10px;
   }
 
   .dropdown-content {
     display: none;
     flex-direction: column;
-    background-color: #f9f9f9;
+    align-items: flex-start;
     padding: 10px;
+    background-color: #f9f9f9; /* Lagana pozadina za dropdown */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative; /* Zadržava poziciju unutar izbornika */
   }
 
   .dropdown:hover .dropdown-content {
@@ -211,14 +215,13 @@
   }
 
   .dropdown a {
-    padding: 10px;
+    padding: 8px 0;
     font-size: 16px;
-    color: #333;
     text-decoration: none;
+    color: #333;
   }
 
   .dropdown a:hover {
-    color: #007acc;
+    color: #007acc; /* Istakni link pri hoveru */
   }
 }
-
