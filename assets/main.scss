@@ -1,0 +1,160 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/* Stilizacija za društvene mreže */
+.social-media-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+.social-media-list li {
+  display: inline-block;
+}
+
+.social-media-list a {
+  text-decoration: none;
+  color: #007acc;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  transition: color 0.3s ease;
+}
+
+.social-media-list a:hover {
+  color: #005f99;
+}
+
+.social-media-list i {
+  font-size: 20px;
+}
+
+.site-footer .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .footer-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .footer-col-left {
+    flex: 1 1 50%;
+  }
+  
+  .footer-col-right {
+    flex: 1 1 50%;
+    text-align: right;
+  }
+  
+  .subscribe-form {
+    display: inline-block;
+    text-align: right;
+  }
+  
+  .subscribe-form h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .subscribe-form input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-right: 10px;
+  }
+  
+  .subscribe-form button {
+    padding: 8px 12px;
+    background-color: #007acc;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .subscribe-form button:hover {
+    background-color: #005f99;
+  }
+  
+  /* Dropdown styles */
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: #333;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .publications img {
+    width: 100%; /* Podesi širinu prema kontejneru */
+    height: auto; /* Održava proporcije slike */
+    max-width: 200px; /* Postavlja maksimalnu širinu */
+    max-height: 280px; /* Postavlja maksimalnu visinu */
+    display: block;
+    margin: 0 auto;
+  }
+  table img {
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    max-height: 280px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .table-title {
+    max-width: 150px; /* Ograničava širinu teksta */
+    word-wrap: break-word; /* Omogućava prelamanje riječi */
+    text-align: center; /* Poravnanje teksta */
+    margin: 0 auto; /* Centriranje teksta */
+    font-size: 14px; /* Prilagodba veličine fonta */
+  }
+  
+  .publications {
+    width: 300px; /* ili druga dimenzija po izboru */
+    height: auto; /* Održava proporcije slike */
+    object-fit: contain; /* Sprečava izobličenja */
+  }
+  
+  .portfolio-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain; /* Ensures images maintain their aspect ratio */
+    width: 400px; /* Set to desired width for consistency */
+    height: 300px; /* Optional: Set to maintain consistent dimensions */
+  }
+  

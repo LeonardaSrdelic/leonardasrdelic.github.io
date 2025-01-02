@@ -1,0 +1,12 @@
+<ul class="social-media-list">
+  {%- for link in site.external -%}
+    {%- if link.title != "Mail" and link.title != "LinkedIn" -%}
+    <li>
+      <a href="{{ link.url | escape }}" target="_blank" rel="noopener noreferrer">
+        <i class="{{ link.icon }}"></i> {{ link.title }}
+      </a>
+    </li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>
+

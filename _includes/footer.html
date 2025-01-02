@@ -1,0 +1,36 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="footer-row">
+      <!-- Kontakt informacije (lijevo) -->
+      <div class="footer-col footer-col-left">
+        <ul class="contact-list">
+          {%- for link in site.external -%}
+          <li>
+            <a href="{{ link.url | escape }}" target="_blank" rel="noopener noreferrer">
+              <i class="{{ link.icon }}"></i> {{ link.title }}
+            </a>
+          </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+
+      <!-- Forma za pretplatu (desno) -->
+      <div class="footer-col footer-col-right">
+        <div class="subscribe-form">
+          <h3>Subscribe to my newsletter</h3>
+          <form action="https://formspree.io/f/manykggk" method="POST">
+            <input type="email" name="email" placeholder="Your email address" required>
+            <button type="submit">Subscribe</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+

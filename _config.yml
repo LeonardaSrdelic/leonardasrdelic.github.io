@@ -1,38 +1,51 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
-email: your-email@example.com
+title: Leonarda Srdelić
+permalink: /:title/
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://leonardasrdelic.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog # the base hostname & protocol for your site, e.g. http://example.com
+icon: fa-solid fa-house
+
+languages:
+  - hr
+  - en
+defaultLang: hr
+languageNames:
+  hr: Hrvatski
+  en: English
+exclude_from_localizations: ["assets", "favicon.ico"]
+
+external: # shows a footer with social links - for available icons see fontawesome.com/icons
+  - title: Mail
+    icon: fa-solid fa-envelope
+    url: "mailto:leonardasrdelic@windowslive.com"
+  - title: LinkedIn
+    icon: fa-brands fa-linkedin
+    url: "https://www.linkedin.com/in/leonarda-srdelic-a2348217a/?originalSubdomain=hr"
+
+
 
 # Build settings
-theme: minima
+markdown: kramdown
+theme: null  # Više ne koristite Minima kao gem-temu
 plugins:
+  - jekyll-archives
+  - jekyll-email-protect
   - jekyll-feed
+  - jekyll-get-json
+  - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll-paginate-v2
+  - jekyll-regex-replace
+  - jekyll-scholar
+  - jekyll-sitemap
+  - jekyll-tabs
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
