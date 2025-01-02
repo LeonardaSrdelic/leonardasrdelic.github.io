@@ -16,6 +16,7 @@ Location: Central Velebit, Budakovo Hill
 ---
 
 ### **Explore My Work**
+- [Curriculum Vitae](/cv/)
 - [Portfolio](/portfolio/)
 - [Publications](/publications-by-theme/)
 - [Contact Me](mailto:leonardasrdelic@windowslive.com)
