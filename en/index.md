@@ -13,7 +13,7 @@ I am passionate about exploring, whether it's through hiking in nature or diving
 ![Nature Exploration](/assets/IMG_0847.JPG)
 Location: Central Velebit, Budakovo Hill
 
----
+
 
 ### **Explore My Work**
 - [Curriculum Vitae](/cv/)

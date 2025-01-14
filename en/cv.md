@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curriculum Vitae
+title: CV
 lang: en
 permalink: /cv/
 ---

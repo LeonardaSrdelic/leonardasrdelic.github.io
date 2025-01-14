@@ -129,10 +129,7 @@
     }
 
     .page-link {
-      flex-shrink: 0;
       display: inline-block;
-      margin: 0;
-      padding: 5px 10px;
       text-align: left;
 
       &:not(:last-child) {
