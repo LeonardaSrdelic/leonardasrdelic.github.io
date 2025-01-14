@@ -21,4 +21,3 @@ Location: Central Velebit, Budakovo Hill
 - [Publications](/publications-by-theme/)
 - [Contact Me](mailto:leonardasrdelic@windowslive.com)
 
----

@@ -26,6 +26,9 @@ external: # shows a footer with social links - for available icons see fontaweso
 google_analytics: G-MNWHH06E2E # Replace UA-XXXXX-Y with your actual GA tracking ID
 environment: production
 
+sass:
+  sass_dir: _sass
+  style: compressed # or expanded based on your preference
 
 # Build settings
 markdown: kramdown

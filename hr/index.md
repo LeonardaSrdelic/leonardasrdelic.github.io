@@ -21,4 +21,3 @@ Lokacija: Srednji Velebit, Budakovo brdo
 - [Publikacije](/hr/publications-by-theme/)
 - [Kontaktiraj me](mailto:leonardasrdelic@windowslive.com)  
 
----

@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+layout: null
 ---
 
 @import "minima";
@@ -35,193 +35,162 @@
 }
 
 .site-footer .wrapper {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-  }
-  
-  .footer-row {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-  }
-  
-  .footer-col-left {
-    flex: 1 1 50%;
-  }
-  
-  .footer-col-right {
-    flex: 1 1 50%;
-    text-align: right;
-  }
-  
-  .subscribe-form {
-    display: inline-block;
-    text-align: right;
-  }
-  
-  .subscribe-form h3 {
-    margin-bottom: 10px;
-    font-size: 15px;
-  }
-  
-  .subscribe-form input {
-    padding: 8px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    font-size: 12px;
-    margin-right: 10px;
-  }
-  
-  .subscribe-form button {
-    padding: 8px 12px;
-    background-color: #007acc;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 12px;
-  }
-  
-  .subscribe-form button:hover {
-    background-color: #005f99;
-  }
-  
-  /* Dropdown styles */
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.footer-col-left {
+  flex: 1 1 50%;
+}
+
+.footer-col-right {
+  flex: 1 1 50%;
+  text-align: right;
+}
+
+.subscribe-form {
+  display: inline-block;
+  text-align: right;
+}
+
+.subscribe-form h3 {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.subscribe-form input {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 12px;
+  margin-right: 10px;
+}
+
+.subscribe-form button {
+  padding: 8px 12px;
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.subscribe-form button:hover {
+  background-color: #005f99;
+}
+
+
+
+/* Dropdown styles */
+/* Osnovni stilovi za dropdown kontejner */
 .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 200px;
-    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-    z-index: 1;
-  }
-  
-  .dropdown-content a {
-    color: #333;
-    padding: 10px 15px;
-    text-decoration: none;
-    display: block;
-  }
-  
-  .dropdown-content a:hover {
-    background-color: #f1f1f1;
-  }
-  
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
+  position: relative;
+  display: inline-block;
+}
 
-  .publications img {
-    width: 100%; /* Podesi širinu prema kontejneru */
-    height: auto; /* Održava proporcije slike */
-    max-width: 200px; /* Postavlja maksimalnu širinu */
-    max-height: 280px; /* Postavlja maksimalnu visinu */
-    display: block;
-    margin: 0 auto;
-  }
-  table img {
-    width: 100%;
-    height: auto;
-    max-width: 200px;
-    max-height: 280px;
-    display: block;
-    margin: 0 auto;
-  }
-  
-  .table-title {
-    max-width: 150px; /* Ograničava širinu teksta */
-    word-wrap: break-word; /* Omogućava prelamanje riječi */
-    text-align: center; /* Poravnanje teksta */
-    margin: 0 auto; /* Centriranje teksta */
-    font-size: 14px; /* Prilagodba veličine fonta */
-  }
-  
-  .publications {
-    width: 300px; /* ili druga dimenzija po izboru */
-    height: auto; /* Održava proporcije slike */
-    object-fit: contain; /* Sprečava izobličenja */
-  }
-  
-  .portfolio-img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    object-fit: contain; /* Ensures images maintain their aspect ratio */
-    width: 400px; /* Set to desired width for consistency */
-    height: 300px; /* Optional: Set to maintain consistent dimensions */
-  }
-  
-/* Responzivna navigacija sa strane za mobilne uređaje */
+/* Stilovi za sadržaj dropdowna */
+.dropdown-content {
+  display: none; /* Sakrijte sadržaj dok se ne aktivira */
+  position: absolute;
+  top: 100%; /* Postavi ispod dropdown triggera */
+  left: 0; /* Poravnaj s lijevom stranom triggera */
+  background-color: #ffffff; /* Bijela pozadina */
+  min-width: 118px; /* Minimalna širina dropdowna */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Lagana sjena za isticanje */
+  z-index: 1; /* Osiguraj da dropdown bude iznad drugih elemenata */
+  opacity: 0; /* Početno nevidljiv za tranziciju */
+  transition: opacity 0.3s ease-in-out; /* Animacija za prikaz */
+  border: 1px solid #cccccc; /* Suptilni obrub */
+}
+
+/* Stiliziranje linkova unutar dropdowna */
+.dropdown-content a {
+  color: #333333; /* Boja teksta */
+  padding: 10px 15px; /* Padding za bolju klikabilnost */
+  text-decoration: none; /* Ukloni podcrtavanje */
+  display: block; /* Block display za zauzimanje cijele širine */
+  background-color: transparent; /* Transparentna pozadina linkova */
+}
+
+/* Hover i fokus stanja za linkove */
+.dropdown-content a:hover,
+.dropdown-content a:focus {
+  background-color: #f1f1f1; /* Svetlija pozadina na hover ili fokus */
+}
+
+/* Prikazivanje dropdown sadržaja na hover ili fokus na trigger element */
+.dropdown:hover .dropdown-content,
+.dropdown:focus-within .dropdown-content {
+  display: block;
+  opacity: 1; /* Učini vidljivim */
+}
+
+
+
+
+
 @media (max-width: 768px) {
-  .site-nav {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    background-color: #fff; /* Bijela pozadina za bolju vidljivost */
-    list-style: none;
-    padding: 0;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Lagana sjena za isticanje */
-    position: absolute;
-    top: 50px; /* Visina navigacije */
-    left: 0;
-    right: 0;
-    z-index: 1000;
-    display: none; /* Sakrij izbornik dok nije aktivan */
+  .site-footer .wrapper, .footer-row {
+      flex-direction: column;
+      align-items: center;
   }
 
-  .menu-icon {
-    display: none; /* Skriveno na većim ekranima */
-    cursor: pointer;
-    font-size: 24px;
-    position: absolute;
-    top: 15px;
-    left: 15px;
-    z-index: 1001;
+  .footer-col {
+      text-align: center;
+      padding: var(--footer-spacing) 0;
   }
 
-  .nav-trigger {
-    display: none;
+  .footer-col-left, .footer-col-right {
+      width: 100%;
   }
+}
 
-  .nav-trigger:checked ~ .site-nav {
-    display: flex; /* Prikazuje navigaciju kad je aktivan */
-  }
+.publications img {
+  width: 100%; /* Podesi širinu prema kontejneru */
+  height: auto; /* Održava proporcije slike */
+  max-width: 200px; /* Postavlja maksimalnu širinu */
+  max-height: 280px; /* Postavlja maksimalnu visinu */
+  display: block;
+  margin: 0 auto;
+}
 
-  .trigger {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  }
+table img {
+  width: 100%;
+  height: auto;
+  max-width: 200px;
+  max-height: 280px;
+  display: block;
+  margin: 0 auto;
+}
 
-  .dropdown-content {
-    display: none;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 10px;
-    background-color: #f9f9f9; /* Lagana pozadina za dropdown */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    position: relative; /* Zadržava poziciju unutar izbornika */
-  }
+.table-title {
+  max-width: 150px; /* Ograničava širinu teksta */
+  word-wrap: break-word; /* Omogućava prelamanje riječi */
+  text-align: center; /* Poravnanje teksta */
+  margin: 0 auto; /* Centriranje teksta */
+  font-size: 14px; /* Prilagodba veličine fonta */
+}
 
-  .dropdown:hover .dropdown-content {
-    display: flex;
-  }
+.publications {
+  width: 300px; /* ili druga dimenzija po izboru */
+  height: auto; /* Održava proporcije slike */
+  object-fit: contain; /* Sprečava izobličenja */
+}
 
-  .dropdown a {
-    padding: 8px 0;
-    font-size: 16px;
-    text-decoration: none;
-    color: #333;
-  }
-
-  .dropdown a:hover {
-    color: #007acc; /* Istakni link pri hoveru */
-  }
+.portfolio-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  object-fit: contain; /* Ensures images maintain their aspect ratio */
+  width: 400px; /* Set to desired width for consistency */
+  height: 300px; /* Optional: Set to maintain consistent dimensions */
 }

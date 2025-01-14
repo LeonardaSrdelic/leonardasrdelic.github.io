@@ -1,13 +1,9 @@
-/**
- * Site header
- */
- .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
+// Site header styling
+.site-header {
+  border-top: 10px solid $grey-color-dark;
+  border-bottom: 5px solid $grey-color-light;
+  min-height: $spacing-unit;
+  position: relative; // Positioning context for the mobile navigation icon
 }
 
 .site-title {
@@ -17,51 +13,44 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
+  color: $grey-color-dark; // Ensures color consistency
 }
 
 .language-switcher {
-  float: right;
-  position: relative; /* Omogućuje pravilno pozicioniranje dropdown-a */
-  margin-top: 15px; /* Poravnanje s navigacijom */
-  margin-left: 20px; /* Razmak od navigacijskih linkova */
+  margin-left: 20px; /* Dodaje razmak između "English" i prethodnih stavki */
+  display: inline-block; 
 
   .dropdown-button {
     background-color: #007acc;
     color: white;
-    padding: 8px 12px;
     font-size: 14px;
     border: none;
     cursor: pointer;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-  }
+    border-radius: 10px;
+    padding: 10px 15px;
+    transition: all 0.3s ease;
 
-  .dropdown-button:hover {
-    background-color: #005f99;
+    &:hover {
+      background-color: #005f99;
+    }
   }
 
   .dropdown-content {
-    display: none; /* Skriveno dok se ne aktivira */
-    position: absolute; /* Pozicioniranje relativno na .language-switcher */
+    display: none; /* Sakriveno dok nije aktivno */
+    position: absolute; /* Koristite apsolutno pozicioniranje */
+    top: 100%; /* Postavite ispod gumba */
     right: 0; /* Poravnanje s desnom stranom gumba */
-    top: calc(100% + 5px); /* Pozicija ispod gumba */
     background-color: white;
-    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-    min-width: 120px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    min-width: 150px;
     border-radius: 5px;
-    z-index: 1;
 
     a {
       color: #007acc;
-      padding: 8px 12px;
+      padding: 12px 15px; // Comfortable padding
       text-decoration: none;
       display: block;
-      transition: background-color 0.3s ease;
+      transition: background-color 0.3s ease; // Smooth background color transition
 
       &:hover {
         background-color: rgba(0, 122, 204, 0.1);
@@ -70,19 +59,16 @@
   }
 
   &:hover .dropdown-content {
-    display: block; /* Prikazuje dropdown kada je gumb hoverovan */
+    display: block; // Displays the dropdown on hover
   }
 }
-
-
-
 
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -90,23 +76,24 @@
   }
 
   .page-link {
+    display: inline-block; 
     color: $text-color;
     line-height: $base-line-height;
-
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
+    padding: 5px 10px;
+    &:last-child {
+      margin-right: 20px; // No right margin on the last item
     }
   }
 
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
-    right: $spacing-unit * 0.5;
+    right: $spacing-unit;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
+    margin-left: 20px;
 
     label[for="nav-trigger"] {
       display: block;
@@ -142,9 +129,11 @@
     }
 
     .page-link {
-      display: block;
-      margin-left: 20px;
+      flex-shrink: 0;
+      display: inline-block;
+      margin: 0;
       padding: 5px 10px;
+      text-align: left;
 
       &:not(:last-child) {
         margin-right: 0;
