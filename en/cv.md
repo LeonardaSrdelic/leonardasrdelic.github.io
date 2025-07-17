@@ -136,7 +136,6 @@ University of Zagreb
 **Srdelić, L., Barišić, R. (2025)**. Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve.   
 *Economic Thought and Practice, 34 (2025), 1; 85-105.*
 [WP](https://mpra.ub.uni-muenchen.de/122841/1/MPRA_paper_122841.pdf)
-
 [Published v.](https://hrcak.srce.hr/file/479113)
 
 **Srdelić, L. (2025)**. Energy price subsidies and the green transition – clash of the titans?     

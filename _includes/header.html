@@ -40,6 +40,10 @@
           </div>
         </div>
 
+        <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/mediji' | relative_url }}{% else %}{{ '/mediji/' | relative_url }}{% endif %}">
+          {% if page.lang == 'hr' %}Iz Medija{% else %}In the Media {% endif %}
+        </a>
+
         <!-- Jezični prekidač -->
         <div class="language-switcher">
           {% if page.lang == "hr" %}
