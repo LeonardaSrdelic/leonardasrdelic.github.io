@@ -5,7 +5,8 @@ lang: en
 permalink: /cv/
 ---
 
-![Leonarda Srdelic](/assets/IMG_1517_LS.jpg)
+<img src="/assets/IMG_1517_LS.jpg" alt="Leonarda Srdelic" style="width: 40%; border-radius: 8px;">
+
 
 
 📧 [leonarda.srdelic@ijf.hr](mailto:leonardas.srdelic@ijf.hr)  
