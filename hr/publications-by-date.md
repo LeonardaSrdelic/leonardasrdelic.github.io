@@ -4,12 +4,22 @@ title: Publications by date
 lang: hr
 permalink: /hr/publications-by-date/
 ---
+### **2025**
+
+1. **Srdelić, L., & Davila-Fernandez, M. (2025).** “Demographic transition and economic growth: Insights from the dynamic trade-multiplier.”  *Cambridge Journal of Economics*, 49(4), July 2025, 755–795.  
+[![CJE](/assets/cje.png){:class="publications"}](https://doi.org/10.1093/cje/beaf014)
+
+
+2. **Srdelić, L. & Barišić, R. (2025).** “Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve.” *Economic Thought and Practice*, 34(1), 85–105.  
+   [![ekc](/assets/ekc.png){:class="publications"}](https://mpra.ub.uni-muenchen.de/122841/1/MPRA_paper_122841.pdf)  
+   [🔗 Published version](https://doi.org/10.17818/EMIP/2025/9)
+
+3. **Srdelić L. (2025)** "Subvencije cijena energenata i zelena tranzicija – sudar titana?" *Osvrti Instituta za javne financije, 18 (2025), 142; 1-13.*  
+   [![IPF Notes](/assets/ipf_2025.png){:class="publications"}](https://repozitorij.ijf.hr/islandora/object/ijf%3A1154/datastream/FILE0/view)
+   
 ### **2024.**
 
-1. **Srdelić, L., Barišić, R. (2024)**. "Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve". *Ekonomska misao i praksa*  
-   [![Kuznets Curve](/assets/ekc.png){:class="publications"}](https://mpra.ub.uni-muenchen.de/122841/1/MPRA_paper_122841.pdf)  
-   [Published version](https://doi.org/10.17818/EMIP/2025/9)
-   
+
 2.  **Srdelić (2024.)** *"Korištenje prihoda EU ETS-a"*  
    [![ETS Revenues](/assets/ekc-prihodi.png){:class="publications"}](https://arhivanalitika.hr/blog/financira-li-se-prihodima-od-prodaje-emisijskih-dozvola-energetska-tranzicija-ili-odrzava-status-quo/)
    
@@ -27,8 +37,3 @@ permalink: /hr/publications-by-date/
 
 7. **Srdelić, L., Davila-Fernandez, M. (2024)**. "International trade and economic growth in Croatia". *Structural Change and Economic Dynamics, Volume 68, March 2024, Pages 240-258*  
    [![International Trade](/assets/sced.png){:class="publications"}](https://doi.org/10.1016/j.strueco.2023.10.018)
-
-### **2022.**
-
-1. **Srdelić, L., Davila-Fernandez, M. (2022)**. "Demographic transition and economic growth in 6-EU member states". *Munich Personal RePEC Archive Working Papers* (Accepted in *Cambridge Journal of Economics*, not yet published).  
-   [![Demographic Transition](/assets/demo.png){:class="publications"}](https://www.hnb.hr/documents/20182/4135487/srdelic-davila-fernandez.pdf/a2981882-20a2-12a9-f316-333a0d29d2af?t=1655983994673)

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Iz medija
+title: Iz medija 
 lang: hr
-permalink: hr/mediji/
+permalink: /hr/mediji/
 ---
+
+U izradi.

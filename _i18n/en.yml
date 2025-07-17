@@ -1,3 +1,6 @@
 home: "Home"
 cv: "CV"
 publications: "Publications"
+nav:
+  mediji: Media
+

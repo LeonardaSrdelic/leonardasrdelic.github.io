@@ -16,14 +16,14 @@ permalink: /hr/cv/
 
 **Institut za javne financije**, *Zagreb, Hrvatska* | *Veljača 2024. - Trenutno*  
 Znanstveni suradnik  
-[Posjeti web stranicu](https://www.ijf.hr/hr)
+[🔗Posjeti web stranicu](https://www.ijf.hr/hr)
 
 **ATD SOLUCIJE, d.o.o.** | *Studeni 2023. - Siječanj 2024.*  
 Savjetnik za modeliranje klimatskih rizika
 
 **Hrvatska narodna banka** | *Srpanj 2020. - Listopad 2023.*  
 Stručna suradnica  
-[Posjeti web stranicu](https://www.hnb.hr/en/home)
+[🔗Posjeti web stranicu](https://www.hnb.hr/en/home)
 
 ---
 
@@ -33,12 +33,12 @@ Stručna suradnica
 Facoltà di Economia "Richard M. Goodwin",  
 Dipartimento di Economia Politica e Statistica,  
 Università degli Studi di Siena, Italia  
-[Posjeti web stranicu](https://www.unisi.it/)
+[🔗Posjeti web stranicu](https://www.unisi.it/)
   
 **Sveučilišni diplomski studij 'Ekonomija'**  | *Diplomirala: 2017.*  
 Ekonomski fakultet Zagreb  
 Sveučilište u Zagrebu   
-[Posjeti web stranicu](https://www.efzg.unizg.hr/en)
+[🔗Posjeti web stranicu](https://www.efzg.unizg.hr/en)
 
 **Sveučilišni preddiplomski studij 'Ekonomija'**  | *Diplomirala: 2016.*  
 Ekonomski fakultet Zagreb   
@@ -94,15 +94,15 @@ Sveučilište u Zagrebu
 
 **Point Zero Forum**  | *Svi 05-07, 2024*  
   *GFTN and the Swiss State Secretariat for International Finance*
-  [Program](https://www.pointzeroforum.com/programme/2025-themes)
+  [🔗Program](https://www.pointzeroforum.com/programme/2025-themes)
 
 **Međunarodna znanstvena konferencija "Ekonomski susreti"**  | *Stu 15–16, 2024*  
   *Znanstveno društvo ekonomista, Rijeka, Hrvatska*  
-  [Program](https://zde.hr/wp-content/uploads/2024/11/Program_Ekonomski-susreti_2024-1.pdf)
+  [🔗Program](https://zde.hr/wp-content/uploads/2024/11/Program_Ekonomski-susreti_2024-1.pdf)
 
 **15th Young Economists Seminar to the 28th Dubrovnik Economic Conference**  |*2022*   
   *Hrvatska narodna banka, Dubrovnik, Hrvatska*   
-  [Detalji](https://www.hnb.hr/en/-/the-15th-young-economists-seminar)
+  [🔗Detalji](https://www.hnb.hr/en/-/the-15th-young-economists-seminar)
   
 ---
 
@@ -129,45 +129,45 @@ Sveučilište u Zagrebu
 
 **Srdelić, L., Davila-Fernandez, M. (2025)**. Demographic transition and economic growth: Insights from the dynamic trade-multiplier.   
 *Cambridge Journal of Economics, Volume 49, Issue 4, July 2025, Pages 755–795.*
-[Dostupno ovdje](https://doi.org/10.1093/cje/beaf014)
+[🔗Dostupno ovdje](https://doi.org/10.1093/cje/beaf014)
 
 **Srdelić, L., Barišić, R. (2025)**. Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve.   
 *Ekonomska misao i praksa, 34 (2025), 1; 85-105.*. 
-[WP](https://mpra.ub.uni-muenchen.de/122841/1/MPRA_paper_122841.pdf)
-[Published v.](https://doi.org/10.17818/EMIP/2025/9)
+[🔗WP](https://mpra.ub.uni-muenchen.de/122841/1/MPRA_paper_122841.pdf)
+[🔗Published v.](https://doi.org/10.17818/EMIP/2025/9)
 
 **Srdelić, L. (2025)**. Subvencije cijena energenata i zelena tranzicija – sudar titana?     
 *Osvrti Instituta za javne financije, 18 (2025), 142, 1 – 13*.  
-[Dostupno ovdje](https://doi.org/10.3326/ao.2025.142)
+[🔗Dostupno ovdje](https://doi.org/10.3326/ao.2025.142)
 
 **Srdelić, L., Švaljek, S. (2024)**. Analiza tržišnih trendova europskog sustava trgovanja dozvolama za emisije stakleničkih plinova.   
 *Fiscus 13, ISSN 1849-9309.*  
-[Dostupno ovdje](https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf)
+[🔗Dostupno ovdje](https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf)
  
 **Srdelić, L. (2024)**. Okolišni porezi u Hrvatskoj i Europskoj uniji.     
 *Osvrti Instituta za javne financije, 17 (2024), 139, 1 – 18*.  
-[Dostupno ovdje](https://doi.org/10.3326/ao.2024.139)
+[🔗Dostupno ovdje](https://doi.org/10.3326/ao.2024.139)
 
 **Srdelić, L. (2024)**. Climate macroeconomic modelling handbook. Technical document.     
 *Network for Greening the Financial System, October 2024*.  
-[Dostupno ovdje](https://www.ngfs.net/system/files/2025-01/NGFS_Climate%20macroeconomic%20modelling%20handbook_v2_0.pdf)
+[🔗Dostupno ovdje](https://www.ngfs.net/system/files/2025-01/NGFS_Climate%20macroeconomic%20modelling%20handbook_v2_0.pdf)
 
 **Srdelić, L. (2024)**. Tranzicijski rizici klimatskih promjena: Analiza emisija stakleničkih plinova u Hrvatskoj i europodručju.   
 *Oeconomica Jadertina 1/2024*. 
-[WP](https://mpra.ub.uni-muenchen.de/121318/) 
-[Published v](https://doi.org/10.15291/oec.4433)
+[🔗WP](https://mpra.ub.uni-muenchen.de/121318/) 
+[🔗Published v](https://doi.org/10.15291/oec.4433)
   
 **Srdelić, L. (2024)**. Makroekonomija klimatskih promjena: Pregled klimatskih projekcija i utjecaja na gospodarstvo i financijski sustav Hrvatske.   
 *Oeconomica Jadertina 1/2024*.  
-[WP](https://mpra.ub.uni-muenchen.de/121319/)
-[Published v](https://doi.org/10.15291/oec.4434)
+[🔗WP](https://mpra.ub.uni-muenchen.de/121319/)
+[🔗Published v](https://doi.org/10.15291/oec.4434)
   
 **Srdelić, L., Davila-Fernandez, M. (2024)**. International trade and economic growth in Croatia.   
 *Structural Change and Economic Dynamics, Volume 68, March 2024, Pages 240-258*.  
-[Dostupno ovdje](https://doi.org/10.1016/j.strueco.2023.10.018)
+[🔗Dostupno ovdje](https://doi.org/10.1016/j.strueco.2023.10.018)
 
   
-**Ostale publikacije**: [Google Scholar Profile](https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en)
+**Ostale publikacije**: [🔗Google Scholar Profile](https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en)
 
 ---
 

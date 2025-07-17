@@ -1,6 +1,8 @@
 ---
 layout: default
-title: In the Media 
+title: In the Media
 lang: en
-permalink: /media/
+permalink: /mediji/
 ---
+
+To be added

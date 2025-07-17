@@ -8,7 +8,6 @@ permalink: /en/
 ## Welcome to My Personal Webpage
 
 ### About Me
-I am passionate about exploring, whether it's through hiking in nature or diving into data and research.
 
 My professional work focuses on analysing climate change mitigation and adaptation policies. This includes the European Emissions Trading System (EU ETS 1 and 2), the Carbon Border Adjustment Mechanism (CBAM), environmental taxes, redistribution policies, EU funding mechanisms, and investments in climate-resilient infrastructure and technologies.
 
