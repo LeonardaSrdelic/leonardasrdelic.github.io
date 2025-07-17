@@ -53,6 +53,10 @@ University of Zagreb
 **HQ25.04 - Climate in Macroeconomic Frameworks**  | *Feb 3–7, 2025*  
   *International Monetary Fund (IMF), Washington, D.C.*
 
+**IMF Institute for Capacity Development (ICD), Online Courses**  | *2025*  
+- Inclusive Growth - Fiscal Policy
+- Projecting Public Debt - The Public Debt Dynamics Tool
+
 **Sustainability and Climate Risk (SCR)**  | *2024*  
   *Global Association of Risk Professionals (GARP)*
 
@@ -90,6 +94,10 @@ University of Zagreb
 
 ## Conferences
 
+**Point Zero Forum**  | *Svi 05-07, 2024*  
+  *GFTN and the Swiss State Secretariat for International Finance*
+  [Program](https://www.pointzeroforum.com/programme/2025-themes)
+
 **International Scientific Conference "Economic Meetings"**  | *Nov 15–16, 2024*  
   *Scientific Society of Economists, Rijeka, Croatia*  
   [Conference Program](https://zde.hr/wp-content/uploads/2024/11/Program_Ekonomski-susreti_2024-1.pdf)
@@ -112,7 +120,7 @@ University of Zagreb
 
 ## Skills
 
-**Programming**: Python, R, VBA Excel, LaTeX, GitHub  
+**Programming**: Python, R, VBA Excel, LaTeX, Git, GitHub, Jekyll 
 **Data Analysis**: Proficient in applied quantitative methods and data analysis techniques.  
 **Research**: Experience with macro, micro, and firm-level data.  
 **Languages**: English (Full professional proficiency), Italian (Elementary), Croatian (Native)
@@ -121,19 +129,31 @@ University of Zagreb
 
 ## Relevant Publications
 
+**Srdelić, L., Davila-Fernandez, M. (2025)**. Demographic transition and economic growth: Insights from the dynamic trade-multiplier.   
+*Cambridge Journal of Economics, Volume 49, Issue 4, July 2025, Pages 755–795.*
+[Read here](https://doi.org/10.1093/cje/beaf014)
+
+**Srdelić, L., Barišić, R. (2025)**. Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve.   
+*Economic Thought and Practice, 34 (2025), 1; 85-105.*. 
+[WP](https://mpra.ub.uni-muenchen.de/122841/1/MPRA_paper_122841.pdf)
+[Published v.](https://hrcak.srce.hr/file/479113)
+
+**Srdelić, L. (2025)**. Energy price subsidies and the green transition – clash of the titans?     
+*Institute of public finance notes, 18 (2025), 142, 1 – 13.*.  
+[Dostupno ovdje](https://doi.org/10.3326/in.2025.142)
+
 **Srdelić, L., Švaljek, S. (2024)**. Analiza tržišnih trendova europskog sustava trgovanja dozvolama za emisije stakleničkih plinova.   
 *Fiscus 13, ISSN 1849-9309.*  
 [Read here](https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf)
  
 **Srdelić, L. (2024)**. Environmental taxes in Croatia and the European Union.     
-*Institute of public finance notes, 17 (139), 1 – 18*.  
+*Institute of public finance notes, 17 (2024), 139; 1-18.*.  
 [Read here](https://doi.org/10.3326/in.2024.139)
-  
-**Srdelić, L., Barišić, R. (2024)**. Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve.   
-*Ekonomska misao i praksa*. 
-[WP](https://mpra.ub.uni-muenchen.de/122841/1/MPRA_paper_122841.pdf)
-[Published v.](https://doi.org/10.17818/EMIP/2025/9)
    
+**Srdelić, L. (2024)**. Climate macroeconomic modelling handbook. Technical document.     
+*Network for Greening the Financial System, October 2024*.  
+[Read here](https://www.ngfs.net/system/files/2025-01/NGFS_Climate%20macroeconomic%20modelling%20handbook_v2_0.pdf)
+
 **Srdelić, L. (2024)**. Transition Risks of Climate Change: An Analysis of Greenhouse Gas Emissions in Croatia and the Euro Area.   
 *Oeconomica Jadertina 1/2024*.  
 [Read here](https://doi.org/10.15291/oec.4433)
@@ -145,10 +165,18 @@ University of Zagreb
 **Srdelić, L., Davila-Fernandez, M. (2024)**. International trade and economic growth in Croatia.   
 *Structural Change and Economic Dynamics, Volume 68, March 2024, Pages 240-258*.  
 [Read here](https://doi.org/10.1016/j.strueco.2023.10.018)
-  
-**Srdelić, L., Davila-Fernandez, M. (2022)**. Demographic transition and economic growth in 6-EU member states.   
-*Munich Personal RePEC Archive Working Papers*. (Accepted in *Cambridge Journal of Economics*, not yet published).  
-[Read here](https://www.bing.com/ck/a?!&&p=650ffa3de7486b7967624380ea0a94f5e2f9f734afc9da28655ba8824b3d175bJmltdHM9MTczNDM5MzYwMA&ptn=3&ver=2&hsh=4&fclid=1cae414f-f3fe-667d-3923-5403f2276761&psq=demographic+transition+and+economic+growth+srdeli%c4%87&u=a1aHR0cHM6Ly93d3cuaG5iLmhyL2RvY3VtZW50cy8yMDE4Mi80MTM1NDg3L3NyZGVsaWMtZGF2aWxhLWZlcm5hbmRlei5wZGYvYTI5ODE4ODItMjBhMi0xMmE5LWYzMTYtMzMzYTBkMjlkMmFmP3ZlcnNpb249MS4wJnQ9MTY1NTk4Mzk5NDY3MyZkb3dubG9hZD10cnVl&ntb=1)
 
   
 **Other Publications**: [Google Scholar Profile](https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en)
+
+---
+## Relevant Projects
+
+**LIFT: Leveraging Inter-Firm Transactions, OECD**
+*Using VAT transaction data between firms for policy analysis*
+
+OECD member countries are increasingly interested in policies that support firms in responding to disruptions caused by climate change, the digital transition, or shocks in foreign supply chains. Firms are increasingly fragmenting their production processes into multiple stages carried out by different domestic or foreign firms. This can amplify potential shocks and complicate the design of business support measures—especially their targeting—as the risk of spillovers grows with stronger inter-firm linkages.
+
+The project aims to (1) support the monitoring of supply shocks across domestic production networks and uncover hidden interdependencies, and (2) leverage transaction data to understand spillover effects in the design of industrial policies.
+
+---
