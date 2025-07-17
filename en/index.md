@@ -5,7 +5,7 @@ lang: en
 permalink: /en/
 ---
 
-## Welcome to My Page
+## Welcome to My Personal Webpage
 
 ### About Me
 I am passionate about exploring, whether it's through hiking in nature or diving into data and research.
@@ -16,7 +16,6 @@ I develop top-down climate stress tests that evaluate how physical and transitio
 
 Additionally, I conduct bottom-up stress tests based on geospatial data sourced from Copernicus and IPCC WG1. By linking these datasets with georeferenced asset and portfolio distributions, I assess their exposure to climate-related risks. I also calculate carbon footprints and create various econometric and analytical models in climate economics and fiscal policy.
 
-Welcome to my personal website! Here I share my projects, publications, and insights into climate change, sustainable growth, and the economic policies shaping our future.
 
 ![Nature Exploration](/assets/IMG_0847.JPG)
 Location: Central Velebit, Budakovo Hill

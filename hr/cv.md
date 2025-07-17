@@ -48,10 +48,10 @@ Sveučilište u Zagrebu
 
 ## Usavršavanja
 
-**HQ25.04 - Climate in Macroeconomic Frameworks**  | *Feb 3–7, 2025*  
+**HQ25.04 - Climate in Macroeconomic Frameworks**  | *Feb 3–7, 2025.*  
   *International Monetary Fund (IMF), Washington, D.C.*
 
-**IMF Institute for Capacity Development (ICD), Online Courses**  | *2025*  
+**IMF Institute for Capacity Development (ICD), Online Courses**  | *2025.*  
 - Inclusive Growth - Fiscal Policy
 - Projecting Public Debt - The Public Debt Dynamics Tool
 
@@ -174,9 +174,11 @@ Sveučilište u Zagrebu
 ### Odabrani Projekti ###
 
 **LIFT: Leveraging Inter-Firm Transactions, OECD**
+
 *Korištenje podataka o PDV transakcijama između poduzeća za analizu politika*
 
 Zemlje članice OECD-a sve su više zainteresirane za politike koje pomažu poduzećima u odgovoru na poremećaje uzrokovane klimatskim promjenama, digitalnom tranzicijom ili šokovima u stranim opskrbnim lancima. Poduzeća sve više dijele proizvodne procese na veći broj faza koje provode različita domaća ili strana poduzeća. To može pojačati potencijalne šokove i dodatno zakomplicirati oblikovanje mjera potpore poduzećima, osobito njihovo ciljanje, budući da se rizik od prelijevanja povećava s jačanjem međupoduzećnih veza.
 
 Projekt ima za cilj (1) pomoći u praćenju šokova u opskrbi kroz domaću proizvodnu mrežu i otkrivanju skrivenih međuovisnosti i (2) iskoristiti podatke o transakcijama za razumijevanje efekata prelijevanja prilikom osmišljavanja industrijskih politika.
+
 ---

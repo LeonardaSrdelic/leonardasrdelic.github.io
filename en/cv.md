@@ -94,7 +94,7 @@ University of Zagreb
 
 ## Conferences
 
-**Point Zero Forum**  | *Svi 05-07, 2024*  
+**Point Zero Forum**  | *May 05-07, 2025*  
   *GFTN and the Swiss State Secretariat for International Finance*
   [Program](https://www.pointzeroforum.com/programme/2025-themes)
 
@@ -130,12 +130,13 @@ University of Zagreb
 ## Relevant Publications
 
 **Srdelić, L., Davila-Fernandez, M. (2025)**. Demographic transition and economic growth: Insights from the dynamic trade-multiplier.   
-*Cambridge Journal of Economics, Volume 49, Issue 4, July 2025, Pages 755–795.*
+*Cambridge Journal of Economics, 49 (4), July 2025, 755–795.*
 [Read here](https://doi.org/10.1093/cje/beaf014)
 
 **Srdelić, L., Barišić, R. (2025)**. Does economic growth reduce or increase pollution? An examination of Croatia’s sector-specific Environmental Kuznets Curve.   
-*Economic Thought and Practice, 34 (2025), 1; 85-105.*. 
+*Economic Thought and Practice, 34 (2025), 1; 85-105.*
 [WP](https://mpra.ub.uni-muenchen.de/122841/1/MPRA_paper_122841.pdf)
+
 [Published v.](https://hrcak.srce.hr/file/479113)
 
 **Srdelić, L. (2025)**. Energy price subsidies and the green transition – clash of the titans?     
@@ -173,6 +174,7 @@ University of Zagreb
 ## Relevant Projects
 
 **LIFT: Leveraging Inter-Firm Transactions, OECD**
+
 *Using VAT transaction data between firms for policy analysis*
 
 OECD member countries are increasingly interested in policies that support firms in responding to disruptions caused by climate change, the digital transition, or shocks in foreign supply chains. Firms are increasingly fragmenting their production processes into multiple stages carried out by different domestic or foreign firms. This can amplify potential shocks and complicate the design of business support measures—especially their targeting—as the risk of spillovers grows with stronger inter-firm linkages.
