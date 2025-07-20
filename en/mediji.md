@@ -5,4 +5,4 @@ lang: en
 permalink: /mediji/
 ---
 
-To be added
+> **Media articles and TV appearances are available in Croatian only.**

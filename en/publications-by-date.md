@@ -28,6 +28,9 @@ permalink: /publications-by-date/
 5. **Srdelić, L. (2024)**. "Environmental taxes in Croatia and the European Union". *Institute of Public Finance Notes, 17 (139), 1 – 18*  
    [![Environmental Taxes](/assets/okol.png){:class="publications"}](https://doi.org/10.3326/in.2024.139)
 
+6. **Srdelić, L., et al. (2024.)**. "Climate macroeconomic modelling handbook". *NGFS 2024.*  
+   [![ngfs](/assets/ngfs.png){:class="publications"}](https://www.ngfs.net/system/files/2025-01/NGFS_Climate%20macroeconomic%20modelling%20handbook_v2_0.pdf)
+
 6. **Srdelić, L. (2024)**. "Transition Risks of Climate Change: An Analysis of Greenhouse Gas Emissions in Croatia and the Euro Area". *Oeconomica Jadertina 1/2024*  
    [![Transition Risks](/assets/tranz.png){:class="publications"}](https://doi.org/10.15291/oec.4433)
 

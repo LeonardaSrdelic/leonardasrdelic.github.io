@@ -7,17 +7,17 @@ permalink: /publications-by-theme/
 
 ### **Economics of climate change**
 
-| [![8](/assets/ipf_2025.png){:class="publications"}](https://repozitorij.ijf.hr/islandora/object/ijf%3A1156/datastream/FILE0/view) |  |
+| [![8](/assets/ipf_2025.png){:class="publications"}](https://repozitorij.ijf.hr/islandora/object/ijf%3A1156/datastream/FILE0/view) | [![6](/assets/ekc.png){:class="publications"}](https://hrcak.srce.hr/file/479113) |
 |:----------------------------------------------------------------:|:---------------------------------------------------------------:|
-| *Srdelić (2025)*<br>Energy price subsidies |  |
+| *Srdelić (2025)*<br>Energy price subsidies | *Srdelić & Barišić (2025)*<br>Environmental Kuznets Curve|
 
 | [![5](/assets/ekc-prihodi.png){:class="publications"}](https://arhivanalitika.hr/blog/financira-li-se-prihodima-od-prodaje-emisijskih-dozvola-energetska-tranzicija-ili-odrzava-status-quo/) | [![1](/assets/eu_ets.png){:class="publications"}](https://hrcak.srce.hr/file/465846) |
 |:----------------------------------------------------------------:|:-----------------------------------------------------------:|
 | *Srdelić (2024)*<br>EU ETS revenues use | *Srdelić & Švaljek (2024)*<br>EU ETS |
 
-| [![2](/assets/tranz.png){:class="publications"}](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433) | [![6](/assets/ekc.png){:class="publications"}](https://mpra.ub.uni-muenchen.de/122841/1/MPRA_paper_122841.pdf) |
+| [![2](/assets/tranz.png){:class="publications"}](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4433) | [![7](/assets/ngfs.png){:class="publications"}](https://www.ngfs.net/system/files/2025-01/NGFS_Climate%20macroeconomic%20modelling%20handbook_v2_0.pdf) |
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|
-| *Srdelić (2024)*<br>Transition risks of CC | *Srdelić & Barišić (2025)*<br>Environmental Kuznets Curve|
+| *Srdelić (2024)*<br>Transition risks of CC | *NGFS (Srdelić et al., 2024)*<br>Climate macroeconomic modelling handbook|
 
 
 | [![3](/assets/makro.png){:class="publications"}](https://morepress.unizd.hr/journals/index.php/oeconomicajadertina/article/view/4434) | [![4](/assets/okol.png){:class="publications"}](https://repozitorij.ijf.hr/islandora/object/ijf:969) |
