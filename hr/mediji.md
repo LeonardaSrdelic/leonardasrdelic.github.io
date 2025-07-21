@@ -8,21 +8,26 @@ permalink: /hr/mediji/
 ## TV gostovanje
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ggG3J4X-0uA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-
+(videozapis počinje na 1:55)
 --- 
   
 ## Novinski članci
 
+1. **Glas Slavonije Magazin (12.07.2025.)**  
+   _"Nema sektora koji nije pogođen promjenama: Klimatski ekstremi prijete gospodarstvu i financijskoj stabilnosti"_  
+   [PDF članak](/assets/magazin.pdf) | [Online članak](https://www.glas-slavonije.hr/magazin/2025/07/18/leonarda-srdelic-nema-sektora-koji-nije-pogoden-klimatskim-promjenama-705757/)
 
-1. **Slobodna Dalmacija (6. 5. 2025.)**  
+
+
+1. **Slobodna Dalmacija (06.05.2025.)**  
    _"Hrvati plaćaju upola nižu cijenu struje od prosjeka Europske unije, a to će potrajati – evo u čemu je tajna"_  
    [![SLOBODNA](/assets/media/SLOBODNA.png)](https://slobodnadalmacija.hr/vijesti/hrvatska/hrvati-placaju-upola-nizu-cijenu-struje-od-prosjeka-europske-unije-a-to-ce-potrajati-evo-u-cemu-je-tajna-1473702)
 
-2. **Jutarnji list (5. 5. 2025.)**  
+2. **Jutarnji list (05.05.2025.)**  
    _"Treba ukinuti opće subvencioniranje energenata"_  
    [![jutarnji.png](/assets/media/jutarnji.png)](https://novac.jutarnji.hr/novac/aktualno/hrvati-placaju-upola-nizu-cijenu-struje-od-prosjeka-europske-unije-evo-u-cemu-je-tajna-15580572)
 
-3. **Poslovni dnevnik (5. 5. 2025.)**  
+3. **Poslovni dnevnik (05.05.2025.)**  
    _"Treba ukinuti opću subvenciju energenata, njihovo dugoročno zadržavanje stvara niz negativnih učinaka. Stav znanstvenice podržava Hrvatska udruga poslodavaca (HUP) iz koje poručuju da su univerzalne subvencije, uvedene zbog energetske krize uzrokovane ratom u Ukrajini, bile potrebne za stabilizaciju cijena. “No njihovo dugoročno zadržavanje stvara niz negativnih učinaka”, upozoravaju."_  
    [![pd.png](/assets/media/pd.png)](https://www.poslovni.hr/trzista/treba-ukinuti-opcu-subvenciju-energenata-4481932)  
    [![pd2.png](/assets/media/pd2.png)](https://www.poslovni.hr/trzista/treba-ukinuti-opcu-subvenciju-energenata-4481932)

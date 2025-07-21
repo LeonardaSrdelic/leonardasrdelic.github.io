@@ -181,4 +181,3 @@ Zemlje članice OECD-a sve su više zainteresirane za politike koje pomažu podu
 
 Projekt ima za cilj (1) pomoći u praćenju šokova u opskrbi kroz domaću proizvodnu mrežu i otkrivanju skrivenih međuovisnosti i (2) iskoristiti podatke o transakcijama za razumijevanje efekata prelijevanja prilikom osmišljavanja industrijskih politika.
 
----
