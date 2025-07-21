@@ -11,13 +11,25 @@ permalink: /portfolio/
 
 ## 1. Spatial and Wildfire Risk Analyses
 
-### Wildfire Risk by Cadastral Municipalities
+<!--
+<div style="margin-bottom:2.5rem;">
+  <h2 style="margin-bottom:0.7em;">Rizik od požara po katastarskim općinama</h2>
+  <div style="border-radius:14px; overflow:hidden; box-shadow: 0 2px 12px #e8e8e8;">
+    <iframe src="/assets/portfolio/KO%20zonalna%20po%C5%BEari.html"
+      width="100%" height="600" style="border:0; border-radius:14px; display:block;"></iframe>
+  </div>
+</div>
+-->
 
-<iframe src="/assets/portfolio/KO%20zonalna%20po%C5%BEari.html" width="100%" height="600"></iframe>
+<!-- PRIKAZ GEOREFERENCIRANJA (ostaje vidljiv) -->
+<div style="margin-bottom:2.5rem;">
+  <h2 style="margin-bottom:0.7em;">Primjer georeferenciranja</h2>
+  <div style="border-radius:14px; overflow:hidden; box-shadow: 0 2px 12px #e8e8e8;">
+    <iframe src="/assets/portfolio/georeferenciranje_kolaterali_karlovac.html"
+      width="100%" height="600" style="border:0; border-radius:14px; display:block;"></iframe>
+  </div>
+</div>
 
-### Example of Georeferencing
-
-<iframe src="/assets/portfolio/georeferenciranje_kolaterali_karlovac.html" width="100%" height="600"></iframe>
 
 ---
 

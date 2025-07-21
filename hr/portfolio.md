@@ -13,11 +13,25 @@ permalink: /hr/portfolio/
 
 ### Rizik od požara po katastarskim općinama
 
-<iframe src="/assets/portfolio/KO%20zonalna%20po%C5%BEari.html" width="100%" height="600"></iframe>
+<!--
+<div style="margin-bottom:2.5rem;">
+  <h2 style="margin-bottom:0.7em;">Rizik od požara po katastarskim općinama</h2>
+  <div style="border-radius:14px; overflow:hidden; box-shadow: 0 2px 12px #e8e8e8;">
+    <iframe src="/assets/portfolio/KO%20zonalna%20po%C5%BEari.html"
+      width="100%" height="600" style="border:0; border-radius:14px; display:block;"></iframe>
+  </div>
+</div>
+-->
 
-### Primjer georeferenciranja
+<!-- PRIKAZ GEOREFERENCIRANJA (ostaje vidljiv) -->
+<div style="margin-bottom:2.5rem;">
+  <h2 style="margin-bottom:0.7em;">Primjer georeferenciranja</h2>
+  <div style="border-radius:14px; overflow:hidden; box-shadow: 0 2px 12px #e8e8e8;">
+    <iframe src="/assets/portfolio/georeferenciranje_kolaterali_karlovac.html"
+      width="100%" height="600" style="border:0; border-radius:14px; display:block;"></iframe>
+  </div>
+</div>
 
-<iframe src="/assets/portfolio/georeferenciranje_kolaterali_karlovac.html" width="100%" height="600"></iframe>
 
 ---
 
@@ -80,7 +94,7 @@ Satelitska snimka snimljena na Božić 2024. pokazuje da su neki od nas uživali
 </div>
 
 <div style="margin-top:1.2em;">
-U mom novom radu <b>"Pregled klimatskih projekcija za Hrvatsku i njihovih utjecaja na gospodarstvo i financijski sustav"</b> pročitajte koje su hrvatske regije najizloženije klimatskim rizicima, kako bi klimatske promjene mogle redefinirati makroekonomske varijable i kako upravljati tim rizicima.<br>
+U mom radu <b>"Pregled klimatskih projekcija za Hrvatsku i njihovih utjecaja na gospodarstvo i financijski sustav"</b> pročitajte koje su hrvatske regije najizloženije klimatskim rizicima, kako bi klimatske promjene mogle redefinirati makroekonomske varijable i kako upravljati tim rizicima.<br>
 <a href="https://hrcak.srce.hr/file/460189" target="_blank"><b>[Pročitaj rad na Hrčku &rarr;]</b></a>
 </div>
 
