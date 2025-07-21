@@ -11,15 +11,16 @@ permalink: /portfolio/
 
 ## 1. Spatial and Wildfire Risk Analyses
 
-<!--
-<div style="margin-bottom:2.5rem;">
-  <h2 style="margin-bottom:0.7em;">Rizik od požara po katastarskim općinama</h2>
-  <div style="border-radius:14px; overflow:hidden; box-shadow: 0 2px 12px #e8e8e8;">
-    <iframe src="/assets/portfolio/KO%20zonalna%20po%C5%BEari.html"
-      width="100%" height="600" style="border:0; border-radius:14px; display:block;"></iframe>
-  </div>
+## Wildfire risk by cadastral municipalities
+
+<div style="margin:24px 0;">
+  <iframe src="https://687e32c8f2e31f28e314a0d1--pozar.netlify.app/" width="100%" height="750" style="border:1px solid #ccc; border-radius:12px;"></iframe>
 </div>
--->
+
+<div style="color:#b45212; margin-bottom:22px;">
+  <b>Note:</b> The map loads from an external source and, due to its size, it may take up to <b>one minute</b> to appear. Please be patient!
+</div>
+
 
 <!-- PRIKAZ GEOREFERENCIRANJA (ostaje vidljiv) -->
 <div style="margin-bottom:2.5rem;">

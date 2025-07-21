@@ -11,26 +11,16 @@ permalink: /hr/portfolio/
 
 ## 1. Prostorne i požarne analize
 
-### Rizik od požara po katastarskim općinama
+## Rizik od požara po katastarskim općinama
 
-<!--
-<div style="margin-bottom:2.5rem;">
-  <h2 style="margin-bottom:0.7em;">Rizik od požara po katastarskim općinama</h2>
-  <div style="border-radius:14px; overflow:hidden; box-shadow: 0 2px 12px #e8e8e8;">
-    <iframe src="/assets/portfolio/KO%20zonalna%20po%C5%BEari.html"
-      width="100%" height="600" style="border:0; border-radius:14px; display:block;"></iframe>
-  </div>
+<div style="margin:24px 0;">
+  <iframe src="https://687e32c8f2e31f28e314a0d1--pozar.netlify.app/" width="100%" height="750" style="border:1px solid #ccc; border-radius:12px;"></iframe>
 </div>
--->
 
-<!-- PRIKAZ GEOREFERENCIRANJA (ostaje vidljiv) -->
-<div style="margin-bottom:2.5rem;">
-  <h2 style="margin-bottom:0.7em;">Primjer georeferenciranja</h2>
-  <div style="border-radius:14px; overflow:hidden; box-shadow: 0 2px 12px #e8e8e8;">
-    <iframe src="/assets/portfolio/georeferenciranje_kolaterali_karlovac.html"
-      width="100%" height="600" style="border:0; border-radius:14px; display:block;"></iframe>
-  </div>
+<div style="color:#b45212; margin-bottom:22px;">
+  <b>Napomena:</b> Karta se učitava iz vanjskog izvora i zbog veličine datoteke može trebati do <b>jedne minute</b> da se prikaže. Molimo pričekajte!
 </div>
+
 
 
 ---
