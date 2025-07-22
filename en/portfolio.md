@@ -22,9 +22,9 @@ permalink: /portfolio/
 </div>
 
 
-<!-- PRIKAZ GEOREFERENCIRANJA (ostaje vidljiv) -->
+<!-- GEOREFERENCING EXAMPLE (still visible) -->
 <div style="margin-bottom:2.5rem;">
-  <h2 style="margin-bottom:0.7em;">Primjer georeferenciranja</h2>
+  <h2 style="margin-bottom:0.7em;">Georeferencing Example</h2>
   <div style="border-radius:14px; overflow:hidden; box-shadow: 0 2px 12px #e8e8e8;">
     <iframe src="/assets/portfolio/georeferenciranje_kolaterali_karlovac.html"
       width="100%" height="600" style="border:0; border-radius:14px; display:block;"></iframe>

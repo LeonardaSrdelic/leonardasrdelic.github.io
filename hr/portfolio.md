@@ -18,9 +18,18 @@ permalink: /hr/portfolio/
 </div>
 
 <div style="color:#b45212; margin-bottom:22px;">
-  <b>Napomena:</b> Karta se učitava iz vanjskog izvora i zbog veličine datoteke može trebati do <b>jedne minute</b> da se prikaže. Molimo pričekajte!
+  <b>Napomena:</b> Karta se učitava iz vanjskog izvora i zbog veličine datoteke može trebati do <b>jedne minute</b> da se prikaže.<br>
+  <span style="color:#a00;">Za najbolje iskustvo, preporučujemo pregledavanje na desktop ili laptop računalu. Na mobilnim uređajima učitavanje može trajati znatno dulje.</span>
 </div>
 
+<!-- PRIKAZ GEOREFERENCIRANJA (ostaje vidljiv) -->
+<div style="margin-bottom:2.5rem;">
+  <h2 style="margin-bottom:0.7em;">Primjer georeferenciranja</h2>
+  <div style="border-radius:14px; overflow:hidden; box-shadow: 0 2px 12px #e8e8e8;">
+    <iframe src="/assets/portfolio/georeferenciranje_kolaterali_karlovac.html"
+      width="100%" height="600" style="border:0; border-radius:14px; display:block;"></iframe>
+  </div>
+</div>
 
 
 ---
