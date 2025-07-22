@@ -1,13 +1,12 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
   <div class="wrapper">
-    <div class="footer-row">
-      <!-- Kontakt informacije (lijevo) -->
-      <div class="footer-col footer-col-left">
-        <ul class="contact-list">
+    <div class="footer-row" style="display:flex; flex-wrap:wrap; justify-content:space-between; align-items:flex-start;">
+      <!-- Lijeva kolona: kontakti -->
+      <div class="footer-col footer-col-left" style="min-width:200px; max-width:300px;">
+        <ul class="contact-list" style="list-style:none; padding-left:0;">
           {%- for link in site.external -%}
-          <li>
+          <li style="margin-bottom:8px;">
             <a href="{{ link.url | escape }}" target="_blank" rel="noopener noreferrer">
               <i class="{{ link.icon }}"></i> {{ link.title }}
             </a>
@@ -15,22 +14,25 @@
           {%- endfor -%}
         </ul>
       </div>
-
-      <!-- Forma za pretplatu (desno) -->
-      <div class="footer-col footer-col-right">
-        <div class="subscribe-form">
-          <h3>Subscribe to my newsletter</h3>
-          <form action="https://formspree.io/f/manykggk" method="POST">
-            <input type="email" name="email" placeholder="Your email address" required>
-            <button type="submit">Subscribe</button>
-          </form>
+      <!-- Desna kolona: newsletter -->
+      <div class="footer-col footer-col-right" style="min-width:260px; max-width:380px; text-align:center;">
+        <div class="subscribe-form" style="margin-bottom:0;">
+          <div style="margin-bottom:18px; font-size:1.08em;">
+            Pratite novosti, analize i stručne komentare direktno na e-mail.
+          </div>
+          <a href="https://leonardasrdelic.substack.com/subscribe"
+             target="_blank"
+             style="display:inline-block; padding:16px 38px; background:#f37726; color:#fff; font-weight:bold; border-radius:10px; text-decoration:none; font-size:1.2em;">
+            Pretplatite se
+          </a>
         </div>
       </div>
     </div>
+    <!-- Copyright ispod, centrirano -->
+    <div style="text-align:center; margin-top:28px; font-size:1em; color:#999;">
+      &copy; {{ site.time | date: "%Y" }} Leonarda Srdelić.<br>
+      Sva prava pridržana. |
+      <a href="https://leonardasrdelic.github.io/hr/" style="color:#367bc1;">Početna</a>
+    </div>
   </div>
 </footer>
-
-
-
-
-
