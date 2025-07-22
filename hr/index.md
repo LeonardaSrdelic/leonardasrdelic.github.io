@@ -6,81 +6,71 @@ permalink: /hr/
 description: Dobrodošli na moju početnu stranicu!
 ---
 
-<div style="display:flex; flex-wrap:wrap; gap:2.5rem; justify-content:space-between;">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; justify-content:center; align-items:flex-start; margin-top:3rem;">
 
+  <!-- LIJEVI BLOK: Slika + O meni -->
+  <div style="flex: 1 1 500px; max-width: 600px;">
 
+    <img src="/assets/IMG_0847.JPG" alt="Priroda" style="width:100%; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.1); margin-bottom:1rem;">
+    <p style="color:#666; font-size:0.95rem; margin-bottom:2rem;">Lokacija: Srednji Velebit, Budakovo brdo</p>
 
-<!-- O MENI BLOK -->
-<div style="margin-top:2.8rem; text-align:center;">
-  <img src="/assets/IMG_0847.JPG" alt="Nature Exploration" style="max-width:620px; width:97%; border-radius:16px; box-shadow: 0 2px 14px #b4c9b6;">
-  <br>
-  <span style="color:#777;">Lokacija: Srednji Velebit, Budakovo brdo</span>
-</div>
+    <div style="background:#f9f9f9; border-radius:12px; padding:1.5rem 1.7rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
+      <h2 style="margin-top:0; font-size:1.4rem;">O meni</h2>
+      <p>
+        U svom profesionalnom radu bavim se politikama ublažavanja i prilagodbe klimatskim promjenama (EU ETS, CBAM, okolišni porezi, redistribucija, EU fondovi). Modeliram klimatske stres testove i procjenjujem utjecaj prirodnih katastrofa na javne financije, fiskalnu održivost i ekonomske tokove.
+      </p>
+      <p>
+        Koristim geoprostorne i ekonometrijske alate za procjenu klimatskih rizika – od izračuna ugljičnog otiska i georeferenciranja imovine do izrade analitičkih modela.
+      </p>
+      <p>
+        Kad ne radim, najčešće sam negdje vani – na planini, u trčanju, rolanju, odbojci na pijesku ili za stolnim tenisom. Obožavam i skijanje i fotografiju. Ravnotežu nalazim u prirodi i kretanju, a inspiraciju u krajolicima koje nastojim štititi kroz svoj rad.
+      </p>
+    </div>
+  </div>
 
-<div style="flex:1 1 300px; min-width:300px; max-width:460px; background:#f7f7fa; border-radius:18px; padding:2rem 2rem 1.3rem 2rem; box-shadow:0 2px 8px #eee;">
-  <h2 style="margin-top:0">O meni</h2>
-  <p>
-    U svom profesionalnom radu analiziram politike ublažavanja i prilagodbe na klimatske promjene (EU ETS, CBAM, okolišni porezi, redistribucija, EU fondovi, klimatska infrastruktura).
-    <br><br>
-    Također, modeliram klimatske stres testove i računam utjecaj prirodnih katastrofa na javne financije, fiskalnu održivost i ekonomske tokove. Bavim se i georeferenciranjem imovine, izračunom ugljičnog otiska te izradom ekonometrijskih i analitičkih modela u klimatskoj ekonomici.
-  </p>
-</div>
+  <!-- DESNI BLOK: Novosti, Istraži, Publikacije -->
+  <div style="flex: 1 1 350px; display:flex; flex-direction:column; gap:1.5rem; max-width:400px;">
 
-<!-- NOVOSTI BLOK -->
-<div style="flex:1 1 270px; min-width:270px; max-width:400px; background:#eaf4fb; border-radius:18px; padding:2rem 1.5rem 1rem 1.5rem; box-shadow:0 2px 8px #e5edf7;">
-  <h2 style="margin-top:0">📰 Novosti</h2>
-  <ul style="padding-left:1em; margin-bottom:0;">
-    <li>
-      <b>18. 7. 2025.</b> – <a href="https://www.glas-slavonije.hr/magazin/2025/07/18/leonarda-srdelic-nema-sektora-koji-nije-pogoden-klimatskim-promjenama-705757/" target="_blank">Intervju u Glas Slavonije: "Nema sektora koji nije pogođen klimatskim promjenama"</a>
-    </li>
-    <li>
-      <b>6. 5. 2025.</b> – <a href="https://slobodnadalmacija.hr/vijesti/hrvatska/hrvati-placaju-upola-nizu-cijenu-struje-od-prosjeka-europske-unije-a-to-ce-potrajati-evo-u-cemu-je-tajna-1473702" target="_blank">Članak u Slobodnoj Dalmaciji: "Hrvati plaćaju upola nižu cijenu struje od prosjeka EU"</a>
-    </li>
-    <li>
-      <b>5. 5. 2025.</b> – <a href="https://www.poslovni.hr/trzista/treba-ukinuti-opcu-subvenciju-energenata-4481932" target="_blank">Komentar u Poslovnom dnevniku: "Treba ukinuti opću subvenciju energenata"</a>
-    </li>
-    <li>
-      <b>30. 4. 2025.</b> – <a href="https://youtu.be/ggG3J4X-0uA" target="_blank">TV Gostovanje</a>
-    </li>
-    <!-- Dodaj nove novosti ovako -->
-  </ul>
-  <div style="margin-top:1em; font-size:1em;">
-    <a href="/hr/mediji/"><b>Prikaži više &rarr;</b></a>
+    <!-- NOVOSTI -->
+    <div style="background:#f3f6fb; border-radius:12px; padding:1.5rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
+      <h2 style="margin-top:0; font-size:1.3rem;">📰 Novosti</h2>
+      <ul style="padding-left:1.2em; margin-bottom:0;">
+        <li><b>18. 7. 2025.</b> – <a href="https://www.glas-slavonije.hr/magazin/2025/07/18/leonarda-srdelic-nema-sektora-koji-nije-pogoden-klimatskim-promjenama-705757/" target="_blank">Intervju u Glas Slavonije</a></li>
+        <li><b>6. 5. 2025.</b> – <a href="https://slobodnadalmacija.hr" target="_blank">Članak u Slobodnoj Dalmaciji</a></li>
+        <li><b>5. 5. 2025.</b> – <a href="https://poslovni.hr" target="_blank">Komentar u Poslovnom dnevniku</a></li>
+        <li><b>30. 4. 2025.</b> – <a href="https://youtu.be/ggG3J4X-0uA" target="_blank">TV gostovanje</a></li>
+      </ul>
+      <div style="margin-top:1em;">
+        <a href="/hr/mediji/"><b>Prikaži više →</b></a>
+      </div>
+    </div>
+
+    <!-- ISTRAŽI -->
+    <div style="background:#f5f7f1; border-radius:12px; padding:1.5rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
+      <h2 style="margin-top:0; font-size:1.3rem;">🔗 Istraži</h2>
+      <ul style="list-style:none; padding:0; margin:0;">
+        <li><a href="/hr/cv/"><b>Životopis</b></a></li>
+        <li><a href="/hr/portfolio/"><b>Portfolio</b></a></li>
+        <li><a href="/hr/publications-by-theme/"><b>Publikacije</b></a></li>
+      </ul>
+    </div>
+
+    <!-- PUBLIKACIJE -->
+    <div style="background:#fff6ed; border-radius:12px; padding:1.5rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
+      <h2 style="margin-top:0; font-size:1.3rem;">📚 Publikacije</h2>
+      <ul style="padding-left:1.2em; margin-bottom:0;">
+        <li><a href="https://doi.org/10.1093/cje/beaf014" target="_blank"><b>Demographic transition and economic growth</b> (2025)</a></li>
+        <li style="margin-top:8px;"><a href="https://repozitorij.ijf.hr" target="_blank"><b>Subvencije cijena energenata i zelena tranzicija</b> (2025)</a></li>
+        <li style="margin-top:8px;"><a href="https://arhivanalitika.hr" target="_blank"><b>Korištenje prihoda EU ETS-a</b> (2024)</a></li>
+        <li style="margin-top:8px;"><a href="https://zde.hr" target="_blank"><b>Analiza tržišnih trendova EU ETS</b> (2024)</a></li>
+      </ul>
+      <div style="margin-top:1em;">
+        <a href="/hr/publications-by-theme/"><b>Prikaži sve publikacije →</b></a>
+      </div>
+    </div>
+
   </div>
 </div>
-
-<!-- ISTRAŽI BLOK -->
-<div style="flex:1 1 180px; min-width:180px; max-width:280px; background:#f4f7ed; border-radius:18px; padding:2rem 1.2rem 1rem 1.2rem; box-shadow:0 2px 8px #e0ecd5;">
-  <h2 style="margin-top:0">🔗 Istraži</h2>
-  <ul style="list-style:none; padding:0; margin:0;">
-    <li><a href="/hr/cv/"><b>Životopis</b></a></li>
-    <li><a href="/hr/portfolio/"><b>Portfolio</b></a></li>
-    <li><a href="/hr/publications-by-theme/"><b>Publikacije</b></a></li>
-  </ul>
-</div>
-
-<!-- PUBLIKACIJE BLOK -->
-<div style="flex:1 1 280px; min-width:220px; max-width:400px; background:#fff7ed; border-radius:18px; padding:2rem 1.4rem 1rem 1.4rem; box-shadow:0 2px 8px #f2d7b0;">
-  <h2 style="margin-top:0">📚 Publikacije</h2>
-  <ul style="padding-left:1em; margin-bottom:0;">
-    <li>
-      <a href="https://doi.org/10.1093/cje/beaf014" target="_blank"><b>Demographic transition and economic growth</b> (2025)</a>
-    </li>
-    <li style="margin-top:10px;">
-      <a href="https://repozitorij.ijf.hr/islandora/object/ijf%3A1154/datastream/FILE0/view" target="_blank"><b>Subvencije cijena energenata i zelena tranzicija</b> (2025)</a>
-    </li>
-    <li style="margin-top:10px;">
-      <a href="https://arhivanalitika.hr/blog/financira-li-se-prihodima-od-prodaje-emisijskih-dozvola-energetska-tranzicija-ili-odrzava-status-quo/" target="_blank"><b>Korištenje prihoda EU ETS-a</b> (2024)</a>
-    </li>
-    <li style="margin-top:10px;">
-      <a href="https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf" target="_blank"><b>Analiza tržišnih trendova EU ETS</b> (2024)</a>
-    </li>
-  </ul>
-  <div style="margin-top:1em; font-size:1em;">
-    <a href="/hr/publications-by-theme/"><b>Prikaži sve publikacije &rarr;</b></a>
-  </div>
-</div>
-
 
 
 
