@@ -11,14 +11,15 @@ permalink: /portfolio/
 
 ## 1. Spatial and Wildfire Risk Analyses
 
+<div style="color:#b45212; margin-bottom:22px; background:#fff5e6; padding:12px 18px; border-radius:8px;">
+  <strong>Note:</strong> The map loads from an external source and, due to its size, it may take up to <strong>one minute</strong> to appear. For best experience, please view on a desktop or laptop. On mobile devices, loading may take significantly longer.
+</div>
+
+
 ## Wildfire risk by cadastral municipalities
 
 <div style="margin:24px 0;">
   <iframe src="https://687e32c8f2e31f28e314a0d1--pozar.netlify.app/" width="100%" height="750" style="border:1px solid #ccc; border-radius:12px;"></iframe>
-</div>
-
-<div style="color:#b45212; margin-bottom:22px;">
-  <b>Note:</b> The map loads from an external source and, due to its size, it may take up to <b>one minute</b> to appear. Please be patient!
 </div>
 
 
@@ -57,11 +58,11 @@ NDVI is widely used in various applications, including:
 
 ### ❄️ Winter Wonderland from Space
 
-A satellite image captured on Christmas 2024 shows that some of us enjoyed a white Christmas, while others were not so lucky. Data source: Copernicus, Sentinel-3 satellite.
 
 <div style="text-align:center; margin: 16px 0;">
   <img src="/assets/portfolio/snijeg.jpeg" alt="Satellite image of snow, Christmas 2024" style="max-width: 540px; width: 90%; border-radius: 8px; box-shadow: 0 2px 8px #ccc;" />
 </div>
+Data source: Copernicus, Sentinel-3 satellite.
 
 ---
 
