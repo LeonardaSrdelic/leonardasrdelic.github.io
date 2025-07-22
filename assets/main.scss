@@ -179,11 +179,6 @@ table img {
   font-size: 14px; /* Prilagodba veličine fonta */
 }
 
-.publications {
-  width: 300px; /* ili druga dimenzija po izboru */
-  height: auto; /* Održava proporcije slike */
-  object-fit: contain; /* Sprečava izobličenja */
-}
 
 .portfolio-img {
   max-width: 100%;
@@ -203,4 +198,135 @@ table img {
   width: 97vw;
   margin-left: auto;
   margin-right: auto;
+}
+
+
+.publications-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.publication {
+  border-bottom: 1px solid #eaeaea;
+  padding: 18px 0 12px 0;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.publication:last-child {
+  border-bottom: none;
+}
+
+.pub-info {
+  flex: 1 1 70%;
+  font-size: 1.05rem;
+}
+
+.pub-title {
+  font-weight: 500;
+  margin: 2px 0 1px 0;
+  display: inline-block;
+}
+
+.pub-journal {
+  font-style: italic;
+  color: #666;
+  display: block;
+}
+
+.pub-year {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #4078c0;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.publications {
+  width: 140px;         /* možeš slobodno staviti 120-160px */
+  min-width: 120px;
+  max-width: 160px;     /* povisi prema ukusu */
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+  background: #fff;
+  display: block;
+  margin-right: 0;      /* ili po potrebi */
+}
+
+a {
+  text-decoration: none;
+  color: #2262ad;
+  transition: color 0.2s;
+}
+a:hover, a:focus {
+  color: #005f99;
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .publication {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .publications {
+    margin: 0 0 7px 0;
+    width: 70px;
+    max-width: 70px;
+  }
+}
+
+.pub-theme-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 24px;
+  margin-bottom: 32px;
+}
+
+.pub-tile {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(70,80,100,0.08);
+  text-align: center;
+  padding: 18px 10px 10px 10px;
+  transition: box-shadow 0.2s, transform 0.2s;
+  min-width: 0;
+}
+
+.pub-tile:hover, .pub-tile:focus-within {
+  box-shadow: 0 4px 16px rgba(50,80,120,0.18);
+  transform: translateY(-3px) scale(1.025);
+}
+
+.pub-tile img.publications {
+  width: 110px;
+  height: 140px;
+  object-fit: contain;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  background: #f9f9f9;
+}
+
+.pub-caption {
+  font-size: 1rem;
+  color: #223;
+  margin-top: 0px;
+  line-height: 1.3;
+}
+
+@media (max-width: 700px) {
+  .pub-theme-gallery {
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 16px;
+  }
+  .pub-tile img.publications {
+    width: 90px;
+    height: 110px;
+  }
 }
