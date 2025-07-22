@@ -8,7 +8,15 @@ description: Dobrodošli na moju početnu stranicu!
 
 <div style="display:flex; flex-wrap:wrap; gap:2.5rem; justify-content:space-between;">
 
+
+
 <!-- O MENI BLOK -->
+<div style="margin-top:2.8rem; text-align:center;">
+  <img src="/assets/IMG_0847.JPG" alt="Nature Exploration" style="max-width:820px; width:97%; border-radius:16px; box-shadow: 0 2px 14px #b4c9b6;">
+  <br>
+  <span style="color:#777;">Lokacija: Srednji Velebit, Budakovo brdo</span>
+</div>
+
 <div style="flex:1 1 300px; min-width:300px; max-width:460px; background:#f7f7fa; border-radius:18px; padding:2rem 2rem 1.3rem 2rem; box-shadow:0 2px 8px #eee;">
   <h2 style="margin-top:0">O meni</h2>
   <p>
@@ -75,8 +83,4 @@ description: Dobrodošli na moju početnu stranicu!
 
 
 
-<div style="margin-top:2.8rem; text-align:center;">
-  <img src="/assets/IMG_0847.JPG" alt="Nature Exploration" style="max-width:420px; width:97%; border-radius:16px; box-shadow: 0 2px 14px #b4c9b6;">
-  <br>
-  <span style="color:#777;">Lokacija: Srednji Velebit, Budakovo brdo</span>
-</div>
+
