@@ -194,3 +194,13 @@ table img {
   width: 400px; /* Set to desired width for consistency */
   height: 300px; /* Optional: Set to maintain consistent dimensions */
 }
+
+.wrapper,
+.site-container,
+.page-content,
+.container {
+  max-width: 1150px !important;   // ili više, npr. 1200px
+  width: 97vw;
+  margin-left: auto;
+  margin-right: auto;
+}

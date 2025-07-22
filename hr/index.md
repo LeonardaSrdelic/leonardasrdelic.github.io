@@ -12,7 +12,7 @@ description: Dobrodošli na moju početnu stranicu!
 
 <!-- O MENI BLOK -->
 <div style="margin-top:2.8rem; text-align:center;">
-  <img src="/assets/IMG_0847.JPG" alt="Nature Exploration" style="max-width:820px; width:97%; border-radius:16px; box-shadow: 0 2px 14px #b4c9b6;">
+  <img src="/assets/IMG_0847.JPG" alt="Nature Exploration" style="max-width:620px; width:97%; border-radius:16px; box-shadow: 0 2px 14px #b4c9b6;">
   <br>
   <span style="color:#777;">Lokacija: Srednji Velebit, Budakovo brdo</span>
 </div>
