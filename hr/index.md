@@ -45,15 +45,17 @@ description: Dobrodošli na moju početnu stranicu!
       </div>
     </div>
 
-    <!-- ISTRAŽI -->
-    <div style="background:#f5f7f1; border-radius:12px; padding:1.5rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
-      <h2 style="margin-top:0; font-size:1.3rem;">🔗 Istraži</h2>
-      <ul style="list-style:none; padding:0; margin:0;">
-        <li><a href="/hr/cv/"><b>Životopis</b></a></li>
-        <li><a href="/hr/portfolio/"><b>Portfolio</b></a></li>
-        <li><a href="/hr/publications-by-theme/"><b>Publikacije</b></a></li>
-      </ul>
-    </div>
+<!-- BLOG BLOK -->
+<div style="background:#e8f5fa; border-radius:12px; padding:1.5rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
+  <h2 style="margin-top:0; font-size:1.3rem;">✍️ Analize</h2>
+  <ul style="padding-left:1.2em; margin-bottom:0;">
+    <li><a href="/hr/blog/"><b>Posljednje objave</b></a></li>
+  </ul>
+  <div style="margin-top:1em;">
+    <a href="/hr/blog/"><b>Prikaži sve objave →</b></a>
+  </div>
+</div>
+
 
     <!-- PUBLIKACIJE -->
     <div style="background:#fff6ed; border-radius:12px; padding:1.5rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">

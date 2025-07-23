@@ -5,7 +5,7 @@ lang: hr
 permalink: /hr/blog/
 ---
 
-# Blog
+# Analize
 
 <div class="blog-list">
   {% for post in site.posts %}
