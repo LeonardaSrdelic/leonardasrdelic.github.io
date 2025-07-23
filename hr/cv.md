@@ -36,12 +36,15 @@ permalink: /hr/cv/
 <div style="flex:1 1 350px; min-width:270px; background:#eaf4fb; border-radius:14px; padding:0.8em 1em; box-shadow:0 2px 8px #d7e5f5; line-height:1.3;">
   <h2 style="margin-top:0; color:#1976d2; margin-bottom:0.4em;">Radno iskustvo</h2>
   <b>Institut za javne financije</b>, Zagreb | <i>Velj 2024. -</i><br>
-  Znanstvena suradnica<br>
+  Znanstvena suradnica
   <a href="https://www.ijf.hr/hr" target="_blank">🔗Web</a><br>
+  <b>Zagrebačka škola ekonomije i managementa</b>, Zagreb | <i>Velj 2025. -</i><br>
+  Vanjska predavačica
+  <a href="https://www.zsem.hr/" target="_blank">🔗Web</a><br>
   <b>ATD SOLUCIJE, d.o.o.</b> | <i>11/2023 - 1/2024</i><br>
   Savjetnica za modeliranje klimatskih rizika<br>
   <b>Hrvatska narodna banka</b> | <i>7/2020 - 10/2023</i><br>
-  Stručna suradnica<br>
+  Stručna suradnica
   <a href="https://www.hnb.hr/en/home" target="_blank">🔗Web</a>
 </div>
 
