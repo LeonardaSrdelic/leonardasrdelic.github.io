@@ -30,23 +30,37 @@ layout: default
             • autor: {{ page.author }}
           {%- endif -%}
         </p>
-        <!-- BROJAČ PREGLEDA -->
-        <p class="post-views" style="margin: 8px 0 0 0;">
-          <span id="views-count">Pregledi: ...</span>
-        </p>
-      </header>
+        <!-- Broj pregleda -->
+<p style="font-size: 0.96em; color: #bbb; margin-top: 8px; margin-bottom: 8px;">
+  Broj pregleda: vidi statistiku na 
+  <a href="https://leonarda.goatcounter.com/" target="_blank" rel="noopener" style="color: #bbb; text-decoration: underline;">
+    GoatCounter dashboardu
+  </a>
+</p>
 
-      <!-- GoatCounter JS za prikaz pregleda -->
-      <script>
-        fetch('https://leonarda.goatcounter.com/counter/' + encodeURIComponent(window.location.pathname) + '.json')
-          .then(resp => resp.json())
-          .then(data => {
-            document.getElementById('views-count').textContent = 'Pregledi: ' + data.count;
-          })
-          .catch(() => {
-            document.getElementById('views-count').textContent = 'Pregledi: N/A';
-          });
-      </script>
+<div style="margin-top: 0; margin-bottom: 12px;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ page.url }}"
+     target="_blank" rel="noopener"
+     style="margin-right:13px; vertical-align: middle;" title="Podijeli na LinkedIn">
+    <img src="{{ '/assets/linkedin-brands-solid-full.svg' | relative_url }}" alt="LinkedIn" style="width:21px; height:21px; filter: grayscale(1) brightness(1.3); opacity:0.8;">
+  </a>
+  <!-- X / Twitter -->
+  <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title | url_encode }}"
+     target="_blank" rel="noopener"
+     style="margin-right:13px; vertical-align: middle;" title="Podijeli na X">
+    <img src="{{ '/assets/x-twitter-brands-solid-full.svg' | relative_url }}" alt="X" style="width:21px; height:21px; filter: grayscale(1) brightness(1.3); opacity:0.8;">
+  </a>
+  <!-- Mail -->
+  <a href="mailto:?subject={{ page.title | uri_escape }}&body={{ site.url }}{{ page.url }}"
+     style="vertical-align: middle;" title="Pošalji mailom">
+    <img src="{{ '/assets/envelope-regular-full.svg' | relative_url }}" alt="Mail" style="width:21px; height:21px; filter: grayscale(1) brightness(1.3); opacity:0.8;">
+  </a>
+</div>
+
+
+
+      </header>
 
       <div class="post-content e-content" itemprop="articleBody">
         {{ content }}

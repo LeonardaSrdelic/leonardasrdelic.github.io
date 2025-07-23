@@ -44,7 +44,6 @@ gem 'jekyll-imagemagick'
 gem 'jekyll-email-protect'
 gem 'jekyll-jupyter-notebook'
 gem 'jekyll-link-attributes'
-gem "nokogiri", ">= 1.18.9"
 gem 'jekyll-minifier'
 gem 'jekyll-paginate-v2'
 gem 'jekyll-regex-replace'
@@ -55,3 +54,5 @@ gem 'jekyll-twitter-plugin'
 gem 'jemoji'
 
 gem 'jekyll-archives'
+gem "nokogiri", ">= 1.18.9"
+
