@@ -147,32 +147,55 @@ permalink: /hr/cv/
 </div>
 
 
-<div style="background:#f9f7f1; border-radius:16px; padding:1.2em 1.3em; box-shadow:0 2px 12px #eee; margin-bottom:2em;">
-  <h2 style="margin-top:0; color:#a47213;">Odabrane publikacije</h2>
-  <div>Srdelić, L., Davila-Fernandez, M. (2025): <a href="https://doi.org/10.1093/cje/beaf014" target="_blank"><i>Demographic transition and economic growth</i></a></div>
-  <div>Srdelić, L., Barišić, R. (2025): <a href="https://doi.org/10.17818/EMIP/2025/9" target="_blank"><i>Does economic growth reduce or increase pollution?</i></a></div>
-  <div>Srdelić, L. (2025): <a href="https://doi.org/10.3326/ao.2025.142" target="_blank"><i>Subvencije cijena energenata i zelena tranzicija</i></a></div>
-  <div>Srdelić, L., Švaljek, S. (2024): <a href="https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf" target="_blank"><i>Analiza tržišnih trendova EU ETS</i></a></div>
-  <div>Srdelić, L. (2024): <a href="https://doi.org/10.3326/ao.2024.139" target="_blank"><i>Okolišni porezi u Hrvatskoj i EU</i></a></div>
-  <details>
-    <summary style="cursor:pointer; color:#a47213; font-weight:600;">Prikaži ostale</summary>
-    <div>Srdelić, L. (2024): <a href="https://www.ngfs.net/system/files/2025-01/NGFS_Climate%20macroeconomic%20modelling%20handbook_v2_0.pdf" target="_blank"><i>Climate macroeconomic modelling handbook</i></a></div>
-    <div>Srdelić, L. (2024): <a href="https://doi.org/10.15291/oec.4433" target="_blank"><i>Tranzicijski rizici klimatskih promjena</i></a></div>
-    <div>Srdelić, L. (2024): <a href="https://doi.org/10.15291/oec.4434" target="_blank"><i>Makroekonomija klimatskih promjena</i></a></div>
-    <div>Srdelić, L., Davila-Fernandez, M. (2024): <a href="https://doi.org/10.1016/j.strueco.2023.10.018" target="_blank"><i>International trade and economic growth in Croatia</i></a></div>
-  </details>
-  <div style="margin-top:1em;">
-    <a href="https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en" target="_blank"><b>Ostale publikacije → Google Scholar</b></a>
+<!-- DVA BLOKA JEDNO PORED DRUGOG -->
+<div style="display:flex; flex-wrap:wrap; gap:2.2em; margin-bottom:2.5em;">
+
+  <!-- BLOK: Odabrane publikacije -->
+  <div style="flex:1 1 410px; min-width:300px; background:#f9f7f1; border-radius:16px; padding:1.2em 1.3em; box-shadow:0 2px 12px #eee;">
+    <h2 style="margin-top:0; color:#a47213;">Odabrane publikacije</h2>
+    <div>Srdelić, L., Davila-Fernandez, M. (2025): <a href="https://doi.org/10.1093/cje/beaf014" target="_blank"><i>Demographic transition and economic growth</i></a></div>
+    <div>Srdelić, L., Barišić, R. (2025): <a href="https://doi.org/10.17818/EMIP/2025/9" target="_blank"><i>Does economic growth reduce or increase pollution?</i></a></div>
+    <div>Srdelić, L. (2025): <a href="https://doi.org/10.3326/ao.2025.142" target="_blank"><i>Subvencije cijena energenata i zelena tranzicija</i></a></div>
+    <div>Srdelić, L., Švaljek, S. (2024): <a href="https://zde.hr/wp-content/uploads/2024/11/13.-Analiza-trzisnih-trendova-europskog-sustava-trgovanja-dozvolama-za-emisije-staklenickih-plinova-2.pdf" target="_blank"><i>Analiza tržišnih trendova EU ETS</i></a></div>
+    <div>Srdelić, L. (2024): <a href="https://doi.org/10.3326/ao.2024.139" target="_blank"><i>Okolišni porezi u Hrvatskoj i EU</i></a></div>
+    <details>
+      <summary style="cursor:pointer; color:#a47213; font-weight:600;">Prikaži ostale</summary>
+      <div>Srdelić, L. (2024): <a href="https://www.ngfs.net/system/files/2025-01/NGFS_Climate%20macroeconomic%20modelling%20handbook_v2_0.pdf" target="_blank"><i>Climate macroeconomic modelling handbook</i></a></div>
+      <div>Srdelić, L. (2024): <a href="https://doi.org/10.15291/oec.4433" target="_blank"><i>Tranzicijski rizici klimatskih promjena</i></a></div>
+      <div>Srdelić, L. (2024): <a href="https://doi.org/10.15291/oec.4434" target="_blank"><i>Makroekonomija klimatskih promjena</i></a></div>
+      <div>Srdelić, L., Davila-Fernandez, M. (2024): <a href="https://doi.org/10.1016/j.strueco.2023.10.018" target="_blank"><i>International trade and economic growth in Croatia</i></a></div>
+    </details>
+    <div style="margin-top:1em;">
+      <a href="https://scholar.google.com/citations?user=EH07ckMAAAAJ&hl=en" target="_blank"><b>Ostale publikacije → Google Scholar</b></a>
+    </div>
+  </div>
+
+  <!-- BLOK: Odabrani projekti -->
+  <div style="flex:1 1 370px; min-width:260px; background:#eaf4fb; border-radius:14px; padding:1.1em 1.4em; box-shadow:0 2px 10px #e2e6ee;">
+    <h2 style="margin-top:0; color:#1976d2;">Odabrani projekti</h2>
+    <b>LIFT: Leveraging Inter-Firm Transactions, OECD</b><br>
+    Analiza podataka o PDV transakcijama među poduzećima za praćenje supply-chain šokova i jačanje ciljanih gospodarskih politika.<br>
+    <a href="https://www.oecd.org/en/about/projects/leveraging-inter-firm-transactions.html#:~:text=LIFT%20co-ordinates%20an%20international%20network%20of%20national%20administrations%2C,in%20using%20firm-to-firm%20transaction%20data%20for%20policy%20research." target="_blank" style="font-size:0.98em;">Više o projektu</a>
   </div>
 </div>
 
-
-
-
-
-<div style="background:#eaf4fb; border-radius:14px; padding:1.1em 1.4em; box-shadow:0 2px 10px #e2e6ee; margin-bottom:2em;">
-  <h2 style="margin-top:0; color:#1976d2;">Odabrani projekti</h2>
-  <b>LIFT: Leveraging Inter-Firm Transactions, OECD</b><br>
-  Analiza podataka o PDV transakcijama među poduzećima za praćenje supply-chain šokova i jačanje ciljanih gospodarskih politika.<br>
-  <a href="https://www.oecd.org/en/about/projects/leveraging-inter-firm-transactions.html#:~:text=LIFT%20co-ordinates%20an%20international%20network%20of%20national%20administrations%2C,in%20using%20firm-to-firm%20transaction%20data%20for%20policy%20research." target="_blank" style="font-size:0.98em;">Više o projektu</a>
+<!-- BLOK: Recenzentska aktivnost (ISPOD) -->
+<div style="background:#f6f3fa; border-radius:14px; padding:1.1em 1.4em; box-shadow:0 2px 8px #ded4f7; margin-bottom:2em; display:flex; align-items:flex-start; gap:1.3em; flex-wrap:wrap;">
+  <!-- Slika certifikata -->
+  <div style="flex:0 0 180px; max-width:200px;">
+    <img src="/assets/recenzije.png" alt="Certifikat za recenzentski rad" style="width:100%; border-radius:10px; box-shadow:0 1px 8px #ccc;">
+  </div>
+  <!-- Popis časopisa -->
+  <div style="flex:1 1 220px; min-width:190px;">
+    <h2 style="margin-top:0; color:#7b3fd9;">Recenzentska aktivnost</h2>
+    <ul style="margin-bottom:0; padding-left:1.1em;">
+      <li><b>Structural Change and Economic Dynamics</b></li>
+      <li style="margin-top:0.7em;"><b>Tourism: An International Interdisciplinary Journal</b></li>
+      <li style="margin-top:0.7em;"><b>Politická ekonomie</b></li>
+      <li style="margin-top:0.7em;"><b>16th Odissey, EFZG</b>
+        <br>
+        <span style="color:#666; font-size:0.98em;">Zbornik konferencije</span>
+      </li>
+    </ul>
+  </div>
 </div>

@@ -61,16 +61,37 @@ permalink: /hr/publications-by-theme/
 
 <h3>Gospodarski rast u otvorenoj ekonomiji</h3>
 <div class="pub-theme-gallery">
+
+  <!-- SCED s SCImago widgetom -->
   <div class="pub-tile">
     <a href="https://www.sciencedirect.com/science/article/pii/S0954349X23001492?via%3Dihub" target="_blank">
-      <img src="/assets/sced.png" class="publications" alt="SCED">
-      <div class="pub-caption"><i>Srdelić & Dávila-Fernández (2024.)</i><br>Međunarodna razmjena i rast</div>
+      <span style="display:block; margin:0 auto 8px auto; max-width:85px;">
+        <a href="https://www.scimagojr.com/journalsearch.php?q=29487&amp;tip=sid&amp;exact=no" 
+           title="SCImago Journal &amp; Country Rank" 
+           style="display:inline-block;">
+          <img border="0" src="https://www.scimagojr.com/journal_img.php?id=29487" 
+               alt="SCImago Journal &amp; Country Rank" 
+               style="width:130px; height:auto;"/>
+        </a>
+      </span>
+      <div class="pub-caption">
+        <i>Srdelić & Dávila-Fernández (2024.)</i><br>
+        Međunarodna razmjena i rast
+      </div>
     </a>
   </div>
-  <div class="pub-tile">
-    <a href="https://academic.oup.com/cje/article/49/4/755/8160795?login=true" target="_blank">
-      <img src="/assets/cje.png" class="publications" alt="CJE">
-      <div class="pub-caption"><i>Srdelić & Dávila-Fernández (2025.)</i><br>Demografska tranzicija i rast</div>
-    </a>
-  </div>
+
+<!-- Drugi rad -->
+<div class="pub-tile">
+  <a href="https://academic.oup.com/cje/article/49/4/755/8160795?login=true" target="_blank">
+    <!-- SCImago widget -->
+    <img border="0" src="https://www.scimagojr.com/journal_img.php?id=21366"
+         alt="SCImago Journal & Country Rank"
+         style="width:130px; display:block; margin:0 auto 14px auto;" />
+    <div class="pub-caption">
+      <i>Srdelić & Dávila-Fernández (2025.)</i><br>
+      Demografska tranzicija i rast
+    </div>
+  </a>
 </div>
+
