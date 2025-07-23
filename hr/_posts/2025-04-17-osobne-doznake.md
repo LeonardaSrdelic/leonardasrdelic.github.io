@@ -3,7 +3,12 @@ layout: post
 title: "Osobne doznake u Hrvatskoj: trendovi, izazovi i razvojni potencijal"
 lang: hr
 date: 2025-04-17
+image: /assets/blog/1.png 
 header_image: /assets/blog/1.png
+author: 
+  name: Leonarda Srdelić
+  url: https://leonardasrdelic.github.io/hr/cv/
+  image: /assets/IMG_1517_LS.jpg
 ---
 
 Na dan 1. siječnja 2024., Hrvatska je po prvi put nakon više od deset godina zabilježila blagi porast broja stanovnika. 

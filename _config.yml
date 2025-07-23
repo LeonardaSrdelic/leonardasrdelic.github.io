@@ -22,6 +22,8 @@ exclude_from_localizations: ["assets", "favicon.ico"]
 #     icon: fa-brands fa-linkedin
 #     url: "https://www.linkedin.com/in/leonarda-srdelic-a2348217a/?originalSubdomain=hr"
 
+# Za minute čitanja
+wpm: 220  # riječi po minuti
 
 
 google_analytics: G-MNWHH06E2E # Replace UA-XXXXX-Y with your actual GA tracking ID

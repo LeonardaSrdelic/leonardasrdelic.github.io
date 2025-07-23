@@ -3,33 +3,48 @@ layout: default
 ---
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-  {% if page.header_image %}
-    <img src="{{ page.header_image | relative_url }}" alt="{{ page.title }} - zaglavlje" class="header-image" />
-  {% endif %}
-
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}
-    </p>
-  </header>
-
-<div class="post-content e-content" itemprop="articleBody">
-  {{ content }}
-  {% include donate_qr.html %}
-</div>
-
-
+  <div class="post-flex-row">
+    {% if page.header_image %}
+      <img src="{{ page.header_image | relative_url }}" alt="{{ page.title }} - zaglavlje" class="header-image" />
+    {% endif %}
+    <div style="flex:1; min-width:250px;">
+      <header class="post-header">
+        <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+        <p class="post-meta" style="margin-bottom: 0;">
+          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {{ page.date | date: "%d.%m.%Y." }}
+          </time>
+          {%- if page.author.name -%}
+            • autor:
+            {% if page.author.image %}
+              <img src="{{ page.author.image | relative_url }}"
+                   alt="{{ page.author.name }}"
+                   style="width:28px; height:28px; border-radius:50%; margin-right:6px; vertical-align:middle; display:inline-block;">
+            {% endif %}
+            {% if page.author.url %}
+              <a href="{{ page.author.url }}" target="_blank" rel="noopener noreferrer">{{ page.author.name }}</a>
+            {% else %}
+              {{ page.author.name }}
+            {% endif %}
+          {%- elsif page.author -%}
+            • autor: {{ page.author }}
+          {%- endif -%}
+        </p>
+        <!-- BROJAČ PREGLEDA -->
+        <p class="post-views" style="margin: 8px 0 18px 0;">
+          <i class="fas fa-eye" style="color: #3a7ca5; margin-right: 4px;"></i>
+          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{ page.url | absolute_url | uri_escape }}&title=Pregledi&count_bg=%233A7CA5&title_bg=%23555555&edge_flat=false"
+            alt="Pregledi" style="vertical-align:middle; height: 26px;"/>
+        </p>
+      </header>
+      <div class="post-content e-content" itemprop="articleBody">
+        {{ content }}
+        {% include donate_qr.html %}
+      </div>
+    </div>
+  </div>
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
-
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
