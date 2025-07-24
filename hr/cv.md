@@ -48,67 +48,87 @@ permalink: /hr/cv/
   <a href="https://www.hnb.hr/en/home" target="_blank">🔗Web</a>
 </div>
 
-<!-- BLOK Obrazovanje -->
-<div style="flex:1 1 350px; min-width:270px; background:#f4f7ed; border-radius:14px; padding:0.8em 1em; box-shadow:0 2px 8px #d7e5f5; line-height:1.3;">
-  <h2 style="margin-top:0; color:#468669; margin-bottom:0.4em;">Obrazovanje</h2>
-  <b>Doktorski studij ekonomije</b> | <i>Velj 2022</i><br>
-  Facoltà di Economia "Richard M. Goodwin", Siena<br>
-  <a href="https://www.unisi.it/" target="_blank">🔗Web</a><br>
-  <b>Diplomski studij 'Ekonomija'</b> | <i>2017</i><br>
-  EFZG, Sveučilište u Zagrebu <a href="https://www.efzg.unizg.hr/en" target="_blank">🔗Web</a><br>
-  <b>Preddiplomski studij 'Ekonomija'</b> | <i>2016</i><br>
-  EFZG, Sveučilište u Zagrebu
+<!-- BLOK Obrazovanje s prikazom diplome s desne strane -->
+<div style="display:flex; flex-wrap:wrap; gap:1.4em; align-items:flex-start; background:#f4f7ed; border-radius:14px; padding:0.8em 1em; box-shadow:0 2px 8px #d7e5f5; line-height:1.3;">
+  <!-- Tekstualni dio -->
+  <div style="flex:2 1 210px; min-width:200px;">
+    <h2 style="margin-top:0; color:#468669; margin-bottom:0.4em;">Obrazovanje</h2>
+    <b>Doktorski studij ekonomije</b> | <i>Velj 2022</i><br>
+    Facoltà di Economia "Richard M. Goodwin", Siena<br>
+    <a href="https://www.unisi.it/" target="_blank">🔗Web</a><br>
+    <b>Diplomski studij 'Ekonomija'</b> | <i>2017</i><br>
+    EFZG, Sveučilište u Zagrebu <a href="https://www.efzg.unizg.hr/en" target="_blank">🔗Web</a><br>
+    <b>Preddiplomski studij 'Ekonomija'</b> | <i>2016</i><br>
+    EFZG, Sveučilište u Zagrebu
+  </div>
+  <!-- SLIKA DIPLOME -->
+  <div style="flex:1 1 160px; min-width:130px; max-width:210px; display:flex; align-items:center;">
+    <img src="/assets/phd.jpeg" alt="PhD diploma" style="width:100%; border-radius:10px; box-shadow:0 2px 8px #c9d4c5;">
+  </div>
 </div>
 
-<!-- BLOK Usavršavanja -->
-<div style="flex:1 1 350px; min-width:270px; background:#fff7ed; border-radius:14px; padding:1.2em 1.3em; box-shadow:0 2px 8px #f2d7b0;">
-  <h2 style="margin-top:0; color:#a47213;">Usavršavanja</h2>
-  <div><b>IMF, Washington DC (2025)</b><br>Climate in Macroeconomic Frameworks (on-site)</div>
-  <div><b>GARP (2024)</b><br>Sustainability and Climate Risk (SCR) certifikat</div>
-  <div><b>IMF Institute, JVI, NASBA, DataCamp (2019–2025)</b><br>Online usavršavanja iz klimatskog financiranja, makroekonomije, ekonometrije i programiranja</div>
-  <details>
-    <summary style="cursor:pointer; color:#1976d2; font-weight:600; margin-top:0.7em;">Prikaži puni popis</summary>
-    <div style="margin-top:0.8em;">
-      <b>IMF Institute for Capacity Development (ICD), Online Courses (2025):</b>
-      <ul>
-        <li>Inclusive Growth - Fiscal Policy</li>
-        <li>Projecting Public Debt - The Public Debt Dynamics Tool</li>
-      </ul>
-      <b>IMF: Macroeconomics of Climate Change (2022–2023):</b>
-      <ul>
-        <li>Green Public Finance</li>
-        <li>Climate Risks for the Financial Sector</li>
-        <li>Economics of Adaptation</li>
-        <li>Transitioning to Net-zero</li>
-        <li>Mitigation Strategies</li>
-        <li>Science, Economics, and Policies</li>
-      </ul>
-      <b>Output Decomposition and Forecasting (2022)</b><br>
-      Irina Panovska, Croatian Science Foundation<br>
-      <b>Joint Vienna Institute (IMF), Online Courses (2020–2022):</b>
-      <ul>
-        <li>Balance of Payments and International Investment Position Statistics</li>
-        <li>Macroeconomic Forecasting</li>
-        <li>Foreign Direct Investment Policies</li>
-        <li>Macroeconomic Diagnostics</li>
-        <li>Econometric Modelling and Forecasting</li>
-        <li>Financial Programming and Policies, Part 2: Program Design</li>
-        <li>Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis</li>
-      </ul>
-      <b>NASBA (2020):</b>
-      <ul>
-        <li>Learning VBA in Excel</li>
-      </ul>
-      <b>DataCamp & LinkedIn Learning (2019):</b>
-      <ul>
-        <li>Learning the R Tidyverse</li>
-        <li>Introduction to Data Science</li>
-        <li>Programming Foundations: Fundamentals</li>
-        <li>Python Essential Training</li>
-      </ul>
-    </div>
-  </details>
+
+<!-- BLOK Usavršavanja sa slikama diploma s desne strane -->
+<div style="display:flex; flex-wrap:wrap; gap:1.7em; align-items:flex-start; background:#fff7ed; border-radius:14px; padding:1.2em 1.3em; box-shadow:0 2px 8px #f2d7b0; margin-bottom:1.3em;">
+
+  <!-- Tekstualni dio -->
+  <div style="flex:2 1 290px; min-width:210px;">
+    <h2 style="margin-top:0; color:#a47213;">Usavršavanja</h2>
+    <div><b>IMF, Washington DC (2025)</b><br>Climate in Macroeconomic Frameworks (on-site)</div>
+    <div><b>GARP (2024)</b><br>Sustainability and Climate Risk (SCR) certifikat</div>
+    <div><b>IMF Institute, JVI, NASBA, DataCamp (2019–2025)</b><br>Online usavršavanja iz klimatskog financiranja, makroekonomije, ekonometrije i programiranja</div>
+    <details>
+      <summary style="cursor:pointer; color:#1976d2; font-weight:600; margin-top:0.7em;">Prikaži puni popis</summary>
+      <div style="margin-top:0.8em;">
+        <b>IMF Institute for Capacity Development (ICD), Online Courses (2025):</b>
+        <ul>
+          <li>Inclusive Growth - Fiscal Policy</li>
+          <li>Projecting Public Debt - The Public Debt Dynamics Tool</li>
+        </ul>
+        <b>IMF: Macroeconomics of Climate Change (2022–2023):</b>
+        <ul>
+          <li>Green Public Finance</li>
+          <li>Climate Risks for the Financial Sector</li>
+          <li>Economics of Adaptation</li>
+          <li>Transitioning to Net-zero</li>
+          <li>Mitigation Strategies</li>
+          <li>Science, Economics, and Policies</li>
+        </ul>
+        <b>Output Decomposition and Forecasting (2022)</b><br>
+        Irina Panovska, Croatian Science Foundation<br>
+        <b>Joint Vienna Institute (IMF), Online Courses (2020–2022):</b>
+        <ul>
+          <li>Balance of Payments and International Investment Position Statistics</li>
+          <li>Macroeconomic Forecasting</li>
+          <li>Foreign Direct Investment Policies</li>
+          <li>Macroeconomic Diagnostics</li>
+          <li>Econometric Modelling and Forecasting</li>
+          <li>Financial Programming and Policies, Part 2: Program Design</li>
+          <li>Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis</li>
+        </ul>
+        <b>NASBA (2020):</b>
+        <ul>
+          <li>Learning VBA in Excel</li>
+        </ul>
+        <b>DataCamp & LinkedIn Learning (2019):</b>
+        <ul>
+          <li>Learning the R Tidyverse</li>
+          <li>Introduction to Data Science</li>
+          <li>Programming Foundations: Fundamentals</li>
+          <li>Python Essential Training</li>
+        </ul>
+      </div>
+    </details>
+  </div>
+
+  <!-- Slike diploma -->
+  <div style="flex:1 1 210px; min-width:180px; display:flex; flex-direction:column; gap:1.2em; align-items:center;">
+    <img src="/assets/garp_scr.png" alt="GARP SCR diploma" style="width:100%; max-width:260px; border-radius:10px; box-shadow:0 2px 8px #ffe088;">
+    <img src="/assets/imf_edu.png" alt="IMF edukacija diploma" style="width:100%; max-width:260px; border-radius:10px; box-shadow:0 2px 8px #bbe3ff;">
+  </div>
+
 </div>
+
 
 
 <div style="display:flex; flex-wrap:wrap; gap:1.3em; margin-bottom:1.3em;">
