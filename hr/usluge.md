@@ -2,7 +2,7 @@
 layout: default
 title: Usluge
 lang: hr
-permalink: /hr/usluge
+permalink: /hr/usluge/
 description: Profesionalno mentoriranje i podrška pri pisanju diplomskih i doktorskih radova, uključujući pomoć u metodologiji, analizi podataka i akademskom izražavanju.
 ---
 
