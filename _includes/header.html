@@ -48,6 +48,11 @@
           {% if page.lang == 'hr' %}Analize{% else %}Analyses{% endif %}
         </a>
 
+        <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/usluge/' | relative_url }}{% else %}{{ '/services/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Usluge{% else %}Services{% endif %}">
+          {% if page.lang == 'hr' %}Usluge{% else %}Services{% endif %}
+        </a>
+
+
 
         <!-- Jezični prekidač -->
         <div class="language-switcher">
