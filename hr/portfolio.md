@@ -47,7 +47,10 @@ Boje na mapi predstavljaju različite razine vegetacije:
 - **Crvene, ružičaste i blijede boje** ukazuju na manjak vegetacije ili nepokrivene, stjenovite površine  
 - **Žuto obojena područja** predstavljaju umjerenu vegetaciju ili tranziciju, poput travnatih površina ili poljoprivrednih zemljišta u ranim fazama rasta usjeva
 
-<img src="/assets/portfolio/ndvi.jpeg" alt="NDVI vegetacija Hrvatska" width="800"/>
+<img src="/assets/portfolio/ndvi.jpeg" 
+     alt="NDVI vegetacija Hrvatska" 
+     width="800" 
+     style="display: block; margin: 16px 0;" />
 
 NDVI se široko koristi u različitim aplikacijama, uključujući:
 - **Poljoprivredu** za praćenje zdravlja usjeva i predviđanje prinosa,
@@ -59,13 +62,14 @@ NDVI se široko koristi u različitim aplikacijama, uključujući:
 
 ### ❄️ Zimska čarolija viđena iz svemira
 
+<img src="/assets/portfolio/snijeg.jpeg" 
+     alt="Satelitska snimka snijega, Božić 2024." 
+     style="max-width: 540px; width: 90%; border-radius: 8px; box-shadow: 0 2px 8px #ccc; display: block; margin: 16px 0;" />
 
+<p style="font-size: 1em; margin-top: 4px;">
+  Podaci su preuzeti s Copernicus-a, Sentinel-3 satelit.
+</p>
 
-<div style="text-align:center; margin: 16px 0;">
-  <img src="/assets/portfolio/snijeg.jpeg" alt="Satelitska snimka snijega, Božić 2024." style="max-width: 540px; width: 90%; border-radius: 8px; box-shadow: 0 2px 8px #ccc;" />
-</div>
-
-Podaci su preuzeti s Copernicus-a, Sentinel-3 satelit.
 ---
 
 ## 3. Klimatske projekcije za Hrvatsku i Europu
@@ -73,12 +77,13 @@ Podaci su preuzeti s Copernicus-a, Sentinel-3 satelit.
 ### Jeste li znali? 
 
 <div style="margin-bottom:1.5em;">
-<ul>
-<li>🌊 Klimatske projekcije ukazuju na porast razine mora u cijeloj Europi, osim na sjeveru kod Švedske i Finske, gdje će se razina mora smanjiti.</li>
-<li>🌡️ Klimatske promjene donijet će najveći porast prosječne godišnje temperature u područjima poput Alpa, Dinare i Velebita.</li>
-<li>🌞 Porastom prosječne godišnje temperature očekuje se manje dana s mrazom, blaže zime i manja učestalost ekstremno niskih temperatura, što bi moglo značajno smanjiti potrebe za grijanjem tijekom zimskih mjeseci.</li>
-</ul>
+  <p>🌊 Klimatske projekcije ukazuju na porast razine mora u cijeloj Europi, osim na sjeveru kod Švedske i Finske, gdje će se razina mora smanjiti.</p>
+
+  <p>🌡️ Klimatske promjene donijet će najveći porast prosječne godišnje temperature u područjima poput Alpa, Dinare i Velebita.</p>
+
+  <p>🌞 Porastom prosječne godišnje temperature očekuje se manje dana s mrazom, blaže zime i manja učestalost ekstremno niskih temperatura, što bi moglo značajno smanjiti potrebe za grijanjem tijekom zimskih mjeseci.</p>
 </div>
+
 
 <div style="display:flex; gap:32px; align-items:flex-start; flex-wrap:wrap;">
     <div>
@@ -95,9 +100,9 @@ Podaci su preuzeti s Copernicus-a, Sentinel-3 satelit.
   </div>
 </div>
 
-<div style="margin-top:1.2em;">
-U mom radu <b>"Pregled klimatskih projekcija za Hrvatsku i njihovih utjecaja na gospodarstvo i financijski sustav"</b> pročitajte koje su hrvatske regije najizloženije klimatskim rizicima, kako bi klimatske promjene mogle redefinirati makroekonomske varijable i kako upravljati tim rizicima.<br>
-<a href="https://hrcak.srce.hr/file/460189" target="_blank"><b>[Pročitaj rad na Hrčku &rarr;]</b></a>
+<div style="margin-top:1.2em; margin-bottom:1.2em;">
+Ako te zanima detaljnije kako će klimatske promjene utjecati na hrvatske regije, makroekonomske varijable i upravljanje rizicima, pogledaj 
+<a href="https://hrcak.srce.hr/file/460189" target="_blank"><b>"Pregled klimatskih projekcija za Hrvatsku i njihovih utjecaja na gospodarstvo i financijski sustav"</b></a>.
 </div>
 
 ---

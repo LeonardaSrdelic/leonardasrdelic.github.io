@@ -20,8 +20,8 @@ permalink: /hr/cv/
     <div style="background:#f7f7fa; border-radius:18px; padding:1.8em 2em 1.1em 2em; box-shadow:0 2px 8px #e7ece7;">
       <h1 style="margin-top:0;">Leonarda Srdelić</h1>
       <p style="font-size:1.13em; color:#444; line-height:1.6;">
-        Znanstvenica s višegodišnjim iskustvom u istraživanju, modeliranju klimatskih rizika te razvoju analitičkih i ekonometrijskih alata za financijski sektor i javne institucije.
-        Poseban interes za <b>klimatske politike</b>, javne financije i utjecaj klimatskih promjena na gospodarstvo.
+Znanstvenica s višegodišnjim iskustvom u razvoju analitičkih rješenja korištenjem Excel VBA, R i Pythona, te u primjeni ekonometrijskih modela za analizu različitih makroekonomskih pitanja, financijski sektor i javne institucije.
+Poseban interes usmjeren na <b>klimatske politike</b> i utjecaj klimatskih promjena na gospodarstvo.
       </p>
     </div>
   </div>
