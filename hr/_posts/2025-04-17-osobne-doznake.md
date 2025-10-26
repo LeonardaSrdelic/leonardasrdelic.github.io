@@ -18,7 +18,10 @@ U tom kontekstu, Hrvatska se sve jasnije pozicionira kao periferno gospodarstvo 
 
 Takva struktura radnih migracija, u kojoj Hrvatska simultano izvozi i uvozi radnu snagu, ima neposredne učinke na dinamiku plaća i tržište rada u zemlji. Priljev jeftine strane radne snage ublažava pritisak na rast plaća u privatnom sektoru, dok javni sektor bilježi dvoznamenkasti rast plaća koji nije popraćen odgovarajućim rastom produktivnosti. Time se stvara neusklađenost između strukture troškova rada i stvarne učinkovitosti, što doprinosi trajno povišenim inflatornim pritiscima (HNB, Komentar o kretanju inflacije u prosincu 2024. i Kako porast plaća utječe na inflaciju).
 
-![Slika 2. Neto migracije u Hrvatskoj.](../../assets/blog/2.png)  
+![Slika 1. Broj stanovnika u Hrvatskoj tijekom godina. ](../../assets/blog/2.png)  
+*Slika 2. Neto migracije u Hrvatskoj. Izvor: izrada autorice prema podacima Eurostata*
+
+![Slika 2. Neto migracije u Hrvatskoj.](../../assets/blog/3.png)  
 *Slika 2. Neto migracije u Hrvatskoj. Izvor: izrada autorice prema podacima Svjetske banke*
 
 Platna bilanca  
