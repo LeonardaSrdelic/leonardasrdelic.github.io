@@ -24,7 +24,8 @@ Takva struktura radnih migracija, u kojoj Hrvatska simultano izvozi i uvozi radn
 ![Slika 2. Neto migracije u Hrvatskoj.](../../assets/blog/3.png)  
 *Slika 2. Neto migracije u Hrvatskoj. Izvor: izrada autorice prema podacima Svjetske banke*
 
-Platna bilanca  
+## Platna bilanca
+
 Migracije ne oblikuju samo tržište rada, već stvaraju i međunarodne financijske tokove kada iseljenici šalju novac svojim obiteljima i kontaktima u zemlji porijekla. Ovi novčani tokovi, poznati kao osobne doznake, prema metodologiji šestog izdanja Priručnika o platnoj bilanci i međunarodnoj investicijskoj poziciji (BPM6), obuhvaćaju dvije kategorije:
 
 – naknade zaposlenima – evidentirane na računu primarnog dohotka, te  
@@ -43,7 +44,7 @@ Iako se radi o formalno privatnim transferima, njihov kumulativni iznos ima jasa
 ![Slika 5. Tekući račun platne bilance i osobne doznake](../../assets/blog/6.png)  
 *Slika 5. Tekući račun platne bilance i osobne doznake. Izvor: izrada autorice prema podacima HNB-a*
 
-Digitalizacija i fiskalna integracija osobnih doznaka  
+## Digitalizacija i fiskalna integracija osobnih doznaka  
 Usporedno s rastom neto osobnih doznaka, mijenja se i način na koji se one šalju. Na svjetskoj razini sve veći udio otpada na digitalne kanale – mobilne aplikacije, fintech servise i internetske platforme – dok tradicionalni kanali poput banaka i mjenjačnica postupno gube tržišni udio. 
 
 Iako za Hrvatsku trenutno ne postoje javno dostupni podaci koji bi precizno prikazali strukturu kanala prijenosa, može se pretpostaviti da domaći obrasci djelomično prate globalne trendove. Digitalni transferi posebno su zastupljeni među mlađim migrantima te osobama koje žive u udaljenijim regijama, gdje je pristup fizičkim financijskim institucijama ograničen.
