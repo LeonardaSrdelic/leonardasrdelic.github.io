@@ -19,7 +19,7 @@ U tom kontekstu, Hrvatska se sve jasnije pozicionira kao periferno gospodarstvo 
 Takva struktura radnih migracija, u kojoj Hrvatska simultano izvozi i uvozi radnu snagu, ima neposredne učinke na dinamiku plaća i tržište rada u zemlji. Priljev jeftine strane radne snage ublažava pritisak na rast plaća u privatnom sektoru, dok javni sektor bilježi dvoznamenkasti rast plaća koji nije popraćen odgovarajućim rastom produktivnosti. Time se stvara neusklađenost između strukture troškova rada i stvarne učinkovitosti, što doprinosi trajno povišenim inflatornim pritiscima (HNB, Komentar o kretanju inflacije u prosincu 2024. i Kako porast plaća utječe na inflaciju).
 
 ![Slika 1. Broj stanovnika u Hrvatskoj tijekom godina. ](../../assets/blog/2.png)  
-*Slika 1. Neto migracije u Hrvatskoj. Izvor: izrada autorice prema podacima Eurostata*
+*Slika 1. Broj stanovnika u Hrvatskoj tijekom godina. Izvor: izrada autorice prema podacima Eurostata*
 
 ![Slika 2. Neto migracije u Hrvatskoj.](../../assets/blog/3.png)  
 *Slika 2. Neto migracije u Hrvatskoj. Izvor: izrada autorice prema podacima Svjetske banke*
@@ -32,15 +32,15 @@ Migracije ne oblikuju samo tržište rada, već stvaraju i međunarodne financij
 
 I dok s jedne strane bilježimo porast broja doseljenih stranih radnika, doznake iz inozemstva od naših iseljenika i dalje snažno rastu – i u nominalnom iznosu i u relativnom udjelu u BDP-u. Prema posljednjim dostupnim podacima Hrvatske narodne banke, u 2024. godini ukupni prihodi od osobnih doznaka iznosili su 6,3 milijarde eura, dok su rashodi prema inozemstvu iznosili 1,9 milijardi eura (Slika 3). Neto osobne doznake (razlika između prihoda iz inozemstva i rashoda prema inozemstvu) iznosile su 4,4 milijarde eura ili 5,2 % BDP-a (Slika 4). Važno je pritom naglasiti da je nešto niži udio u BDP-u u odnosu na prethodne godine posljedica snažnog nominalnog rasta BDP-a, a ne smanjenja neto doznaka.
 
-![Slika 3. Priljevi i odljevi osobnih doznaka: kretanja i struktura](../../assets/blog/3.png)  
+![Slika 3. Priljevi i odljevi osobnih doznaka: kretanja i struktura](../../assets/blog/4.png)  
 *Slika 3. Priljevi i odljevi osobnih doznaka: kretanja i struktura. Izvor: izrada autorice prema podacima Hrvatske narodne banke*
 
-![Slika 4. Osobne doznake, neto: kretanja i struktura](../../assets/blog/4.png)  
+![Slika 4. Osobne doznake, neto: kretanja i struktura](../../assets/blog/5.png)  
 *Slika 4. Osobne doznake, neto: kretanja i struktura. Izvor: izrada autorice prema podacima Hrvatske narodne banke i Eurostata*
 
 Iako se radi o formalno privatnim transferima, njihov kumulativni iznos ima jasan makroekonomski učinak, osobito u zemljama s dugotrajnim iseljavanjem i strukturnom ovisnošću o vanjskim prihodima. Njihova makroekonomska važnost vidljiva je iz činjenice da bi saldo tekućeg računa u većini promatranih godina bio negativan kada bi se isključili osobni transferi iz inozemstva (Slika 5). To dodatno potvrđuje ulogu doznaka kao ključnog stabilizacijskog mehanizma platne bilance i vanjskih priljeva u uvjetima strukturnog deficita.
 
-![Slika 5. Tekući račun platne bilance i osobne doznake](../../assets/blog/5.png)  
+![Slika 5. Tekući račun platne bilance i osobne doznake](../../assets/blog/6.png)  
 *Slika 5. Tekući račun platne bilance i osobne doznake. Izvor: izrada autorice prema podacima HNB-a*
 
 Digitalizacija i fiskalna integracija osobnih doznaka  
@@ -59,5 +59,4 @@ Primjeri takvih politika uključuju:
 
 U širem kontekstu, osobne doznake postaju više od pokazatelja migracijskih kretanja – one predstavljaju i potencijalni instrument za socioekonomski razvoj, otpornost kućanstava i stabilnost lokalnih zajednica, osobito u demografski ranjivim regijama.
 
-![Slika 6. Digitalni i tradicionalni kanali prijenosa doznaka](../../assets/blog/6.png)  
-*Slika 6. Digitalni i tradicionalni kanali prijenosa doznaka. Izvor: izrada autorice prema vlastitim procjenama i javno dostupnim izvorima*
+
