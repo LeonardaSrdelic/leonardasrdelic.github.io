@@ -40,3 +40,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "csv"
 gem "base64"
 gem "nokogiri", ">= 1.18.9"
+
+gem "observer", "~> 0.1"
+
+gem "ostruct", "~> 0.6.3"
