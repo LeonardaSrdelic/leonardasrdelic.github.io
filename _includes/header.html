@@ -1,5 +1,5 @@
 <header class="site-header" role="banner">
-  <div class="wrapper">
+  <div class="wrapper site-header-inner">
     <!-- Naslov stranice -->
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
@@ -21,10 +21,6 @@
         <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/cv/' | relative_url }}{% else %}{{ '/cv/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Životopis{% else %}CV{% endif %}">
           {% if page.lang == 'hr' %}Životopis{% else %}CV{% endif %}
         </a>
-        <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/portfolio/' | relative_url }}{% else %}{{ '/portfolio/' | relative_url }}{% endif %}" title="Portfolio">
-          {% if page.lang == 'hr' %}Portfolio{% else %}Portfolio{% endif %}
-        </a>
-        
 
         <!-- Dropdown za publikacije -->
         <div class="dropdown">
@@ -41,18 +37,21 @@
           </div>
         </div>
 
-        <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/mediji/' | relative_url }}{% else %}{{ '/mediji/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Iz medija{% else %}Media{% endif %}">
-          {% if page.lang == 'hr' %}Iz medija{% else %}Media{% endif %}
+        <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/portfolio/' | relative_url }}{% else %}{{ '/portfolio/' | relative_url }}{% endif %}" title="Portfolio">
+          {% if page.lang == 'hr' %}Portfolio{% else %}Portfolio{% endif %}
         </a>
+
         <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/blog/' | relative_url }}{% else %}{{ '/blog/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Blog{% else %}Blog{% endif %}">
           {% if page.lang == 'hr' %}Analize{% else %}Analyses{% endif %}
+        </a>
+
+        <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/mediji/' | relative_url }}{% else %}{{ '/mediji/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Iz medija{% else %}Media{% endif %}">
+          {% if page.lang == 'hr' %}Iz medija{% else %}Media{% endif %}
         </a>
 
         <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/usluge/' | relative_url }}{% else %}{{ '/services/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Usluge{% else %}Services{% endif %}">
           {% if page.lang == 'hr' %}Usluge{% else %}Services{% endif %}
         </a>
-
-
 
         <!-- Jezični prekidač -->
         <div class="language-switcher">
