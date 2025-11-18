@@ -297,11 +297,11 @@ Očuvanje fiskalne održivosti uz istodobno osiguravanje primjerene razine mirov
 
 Iako su navedene mjere politički i društveno osjetljive, neka kombinacija će biti nužna za očuvanje dugoročne fiskalne održivosti i jačanje otpornosti mirovinskog sustava, uz istodobno smanjenje rizika od siromaštva u starijoj dobi.
 
-[^auto-age]: Dob za umirovljenje automatski se revidira svakih 5 godina na temelju podataka o očekivanom trajanju života u dobi od 60 godina; porast životnog vijeka za 1 godinu povlači rast zakonske dobi za otprilike 8 mjeseci. U Italiji je mehanizam automatskog prilagođavanja uveden 2010. (Legge Fornero): dob za mirovinu automatski se usklađuje svake 3 godine (a nakon 2021. svake 2 godine) na temelju ISTAT podataka o očekivanom životnom vijeku u dobi od 65 godina ([OECD 2023](https://www.oecd.org/en/publications/pensions-at-a-glance-2023_678055dd-en.html)).
+[^auto-age]: U Italiji je mehanizam automatskog prilagođavanja uveden 2010. (Legge Fornero): dob za mirovinu automatski se usklađuje svake 3 godine (a nakon 2021. svake 2 godine) na temelju ISTAT podataka o očekivanom životnom vijeku u dobi od 65 godina ([OECD 2023](https://www.oecd.org/en/publications/pensions-at-a-glance-2023_678055dd-en.html)). U Finskoj se od 2030. dobni pragovi automatski podižu u skladu s promjenama očekivanog životnog vijeka, pri čemu se rast određuje kao dvije trećine povećanja očekivanog životnog vijeka u dobi od 65 godina, čime se attenuating pritisak na omjer radnog vijeka i razdoblja u mirovini.
 
 ## Dodatak 1. Analitički prikaz izdataka za mirovine u Europskoj uniji i Hrvatskoj
 
-U 2023. Hrvatska je zabilježila snažan rast izdataka za mirovine od 16,1%, što je znatno iznad prosjeka država članica Europske unije (12,3%; Grafikon D1). Takva dinamika odražava istodobno djelovanje nekoliko čimbenika. S jedne strane, povećanje proizlazi iz usklađivanja mirovina s rastom plaća i troškova života te iz novih parametarskih promjena u sustavu, uključujući povećanje obiteljskih mirovina i mogućnost kombiniranja dijela obiteljske i osobne mirovine (HZMO). Rast rashoda djelomično je potaknut i inflacijskim uvjetima te fiskalnim mjerama za ublažavanje rasta troškova života, uključujući jednokratne potpore umirovljenicima.
+U 2023. Hrvatska je zabilježila snažan rast izdataka za mirovine od 16,1%, što je znatno iznad prosjeka država članica Europske unije (12,3%; Grafikon D1). Takva dinamika odražava istodobno djelovanje nekoliko čimbenika. S jedne strane, povećanje proizlazi iz usklađivanja mirovina s rastom plaća i troškova života te iz novih parametarskih promjena u sustavu, uključujući povećanje obiteljskih mirovina i mogućnost kombiniranja dijela obiteljske i osobne mirovine ([HZMO](https://www.mirovinsko.hr/hr/novi-model-obiteljskih-mirovina-od-1-sijecnja-2023-pravo-na-isplatu-dijela-obiteljske-mirovine/2657)). Rast rashoda djelomično je potaknut i inflacijskim uvjetima te fiskalnim mjerama za ublažavanje rasta troškova života, uključujući [jednokratne potpore umirovljenicima](https://vlada.gov.hr/UserDocsImages/Vijesti/2023/O%C5%BEujak/14%20o%C5%BEujka/4.%20paket%20mjera%20Vlade.pdf).
 
 Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8%, što je ispod prosjeka EU-27 (10,2%). Hrvatska tako i dalje izdvaja manji dio svojeg BDP-a za mirovine od prosjeka EU-a.
 
@@ -472,7 +472,7 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
 
 U 2023. zabilježeno je znatno ubrzanje rasta ukupnih izdataka za mirovine, za 16,1% u odnosu na prethodnu godinu, što predstavlja najvišu stopu rasta u promatranom razdoblju. Takvo kretanje prvenstveno je rezultat snažnog povećanja rashoda za ostale mirovine i naknade, a potom i rasta izdataka za starosne te obiteljske mirovine.
 
-U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa obiteljskih mirovina ukupnom rastu rashoda, što je izravno povezano s uvođenjem novog modela isplate dijela obiteljske mirovine. Omogućavanje kombiniranja osobne i dijela obiteljske mirovine, uz povećanje obiteljskih mirovina za 10%, dovelo je do strukturnog pomaka u visini prosječnih isplata, što se već u prvoj godini primjene odrazilo kroz jednokratni skok rashoda (HZMO).
+U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa obiteljskih mirovina ukupnom rastu rashoda, što je izravno povezano s uvođenjem novog modela isplate dijela obiteljske mirovine. Omogućavanje kombiniranja osobne i dijela obiteljske mirovine, uz povećanje obiteljskih mirovina za 10%, dovelo je do strukturnog pomaka u visini prosječnih isplata, što se već u prvoj godini primjene odrazilo kroz jednokratni skok rashoda ([HZMO](https://www.mirovinsko.hr/hr/novi-model-obiteljskih-mirovina-od-1-sijecnja-2023-pravo-na-isplatu-dijela-obiteljske-mirovine/2657)).
 
 **Grafikon D2.** Doprinosi godišnjoj stopi promjene izdataka za mirovine u Hrvatskoj (lijevo) i EU-27 (desno).
 
@@ -576,8 +576,6 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
 })();
 </script>
 <p style="font-size:0.95em;margin-top:-12px;">Izvor: Eurostat (ilc_p_np1)</p>
-
-
 
 
 
