@@ -614,6 +614,34 @@ a:hover, a:focus {
   text-decoration: underline;
 }
 
+.post-flex-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.header-image {
+  max-width: 520px;
+  width: 100%;
+  height: auto;
+  max-height: 420px;
+  object-fit: contain;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.06);
+}
+
+@media (max-width: 768px) {
+  .post-flex-row {
+    flex-direction: column;
+  }
+
+  .header-image {
+    max-width: 100%;
+    max-height: 360px;
+  }
+}
+
 @media (max-width: 600px) {
   .publication {
     flex-direction: column;
