@@ -42,3 +42,7 @@ gem "nokogiri", ">= 1.18.9"
 
 gem "jekyll-scholar", "~> 7.1"
 gem "observer", "~> 0.1"
+
+group :development do
+  gem "bundler-audit", require: false
+end
