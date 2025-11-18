@@ -103,7 +103,7 @@ layout: null
   top: 100%; /* Postavi ispod dropdown triggera */
   left: 0; /* Poravnaj s lijevom stranom triggera */
   background-color: #ffffff; /* Bijela pozadina */
-  min-width: 118px; /* Minimalna širina dropdowna */
+   min-width: 118px; /* Minimalna širina dropdowna */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Lagana sjena za isticanje */
   z-index: 1; /* Osiguraj da dropdown bude iznad drugih elemenata */
   opacity: 0; /* Početno nevidljiv za tranziciju */
@@ -128,7 +128,8 @@ layout: null
 
 /* Prikazivanje dropdown sadržaja na hover ili fokus na trigger element */
 .dropdown:hover .dropdown-content,
-.dropdown:focus-within .dropdown-content {
+.dropdown:focus-within .dropdown-content,
+.dropdown.is-open .dropdown-content {
   display: block;
   opacity: 1; /* Učini vidljivim */
 }
@@ -154,10 +155,10 @@ layout: null
 }
 
 .publications img {
-  width: 100%; /* Podesi širinu prema kontejneru */
-  height: auto; /* Održava proporcije slike */
-  max-width: 200px; /* Postavlja maksimalnu širinu */
-  max-height: 280px; /* Postavlja maksimalnu visinu */
+  width: 100%;
+  height: auto;
+  max-width: 200px;
+  max-height: 280px;
   display: block;
   margin: 0 auto;
 }
@@ -172,34 +173,32 @@ table img {
 }
 
 .table-title {
-  max-width: 150px; /* Ograničava širinu teksta */
-  word-wrap: break-word; /* Omogućava prelamanje riječi */
-  text-align: center; /* Poravnanje teksta */
-  margin: 0 auto; /* Centriranje teksta */
-  font-size: 14px; /* Prilagodba veličine fonta */
+  max-width: 150px;
+  word-wrap: break-word;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 14px;
 }
-
 
 .portfolio-img {
   max-width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
-  object-fit: contain; /* Ensures images maintain their aspect ratio */
-  width: 400px; /* Set to desired width for consistency */
-  height: 300px; /* Optional: Set to maintain consistent dimensions */
+  object-fit: contain;
+  width: 400px;
+  height: 300px;
 }
 
 .wrapper,
 .site-container,
 .page-content,
 .container {
-  max-width: 1150px !important;   // ili više, npr. 1200px
+  max-width: 1150px !important;
   width: 97vw;
   margin-left: auto;
   margin-right: auto;
 }
-
 
 .publications-list {
   margin: 0;
@@ -247,16 +246,16 @@ table img {
 }
 
 .publications {
-  width: 140px;         /* možeš slobodno staviti 120-160px */
+  width: 140px;
   min-width: 120px;
-  max-width: 160px;     /* povisi prema ukusu */
+  max-width: 160px;
   height: auto;
   object-fit: contain;
   border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
   background: #fff;
   display: block;
-  margin-right: 0;      /* ili po potrebi */
+  margin-right: 0;
 }
 
 a {
@@ -264,6 +263,7 @@ a {
   color: #2262ad;
   transition: color 0.2s;
 }
+
 a:hover, a:focus {
   color: #005f99;
   text-decoration: underline;
@@ -275,6 +275,7 @@ a:hover, a:focus {
     align-items: flex-start;
     gap: 8px;
   }
+
   .publications {
     margin: 0 0 7px 0;
     width: 70px;
@@ -292,15 +293,16 @@ a:hover, a:focus {
 .pub-tile {
   background: #fff;
   border-radius: 16px;
-  box-shadow: 0 2px 8px rgba(70,80,100,0.08);
+  box-shadow: 0 2px 8px rgba(70, 80, 100, 0.08);
   text-align: center;
   padding: 18px 10px 10px 10px;
   transition: box-shadow 0.2s, transform 0.2s;
   min-width: 0;
 }
 
-.pub-tile:hover, .pub-tile:focus-within {
-  box-shadow: 0 4px 16px rgba(50,80,120,0.18);
+.pub-tile:hover,
+.pub-tile:focus-within {
+  box-shadow: 0 4px 16px rgba(50, 80, 120, 0.18);
   transform: translateY(-3px) scale(1.025);
 }
 
@@ -331,7 +333,6 @@ a:hover, a:focus {
   }
 }
 
-
 .dropdown-title {
   background: none;
   border: none;
@@ -343,8 +344,12 @@ a:hover, a:focus {
   text-decoration: none;
   transition: background 0.15s;
   box-shadow: none;
-  outline: none;
   display: inline-block;
+}
+
+.dropdown-title:focus-visible {
+  outline: 2px solid #007acc;
+  outline-offset: 2px;
 }
 
 .blog-list {

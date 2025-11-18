@@ -1,3 +1,12 @@
+.visually-hidden {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap;
+}
+
 // Site header styling
 .site-header {
   border-top: 10px solid $grey-color-dark;
@@ -17,8 +26,8 @@
 }
 
 .language-switcher {
-  margin-left: 20px; /* Dodaje razmak između "English" i prethodnih stavki */
-  display: inline-block; 
+  margin-left: 20px; /* Razmak izmedu "English" i prethodnih stavki */
+  display: inline-block;
 
   .dropdown-button {
     background-color: #007acc;
@@ -29,17 +38,17 @@
     border-radius: 10px;
     padding: 10px 15px;
     transition: all 0.3s ease;
+  }
 
-    &:hover {
-      background-color: #005f99;
-    }
+  .dropdown-button:hover {
+    background-color: #005f99;
   }
 
   .dropdown-content {
-    display: none; /* Sakriveno dok nije aktivno */
-    position: absolute; /* Koristite apsolutno pozicioniranje */
-    top: 100%; /* Postavite ispod gumba */
-    right: 0; /* Poravnanje s desnom stranom gumba */
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
     background-color: white;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     min-width: 150px;
@@ -47,10 +56,10 @@
 
     a {
       color: #007acc;
-      padding: 12px 15px; // Comfortable padding
+      padding: 12px 15px;
       text-decoration: none;
       display: block;
-      transition: background-color 0.3s ease; // Smooth background color transition
+      transition: background-color 0.3s ease;
 
       &:hover {
         background-color: rgba(0, 122, 204, 0.1);
@@ -59,7 +68,7 @@
   }
 
   &:hover .dropdown-content {
-    display: block; // Displays the dropdown on hover
+    display: block;
   }
 }
 
@@ -67,8 +76,16 @@
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
-  .nav-trigger {
+  .menu-toggle {
     display: none;
+    background: none;
+    border: 0;
+    padding: 0;
+
+    &:focus-visible {
+      outline: 2px solid $grey-color-dark;
+      outline-offset: 2px;
+    }
   }
 
   .menu-icon {
@@ -91,18 +108,10 @@
     right: $spacing-unit;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
-    border-radius: 5px;
+    border-radius: 8px;
     text-align: right;
     margin-left: 20px;
-
-    label[for="nav-trigger"] {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 36px;
-      z-index: 2;
-      cursor: pointer;
-    }
+    z-index: 30;
 
     .menu-icon {
       display: block;
@@ -118,22 +127,63 @@
       }
     }
 
-    input ~ .trigger {
-      clear: both;
-      display: none;
+    .menu-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      float: right;
+      width: 36px;
+      height: 36px;
+      cursor: pointer;
     }
 
-    input:checked ~ .trigger {
-      display: block;
-      padding-bottom: 5px;
+    .trigger {
+      clear: both;
+      display: none;
+      background: #ffffff;
+      padding: 10px 14px 12px 14px;
+      border-radius: 8px;
+      box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+      width: calc(100vw - 48px);
+      max-width: 400px;
+      margin-top: 8px;
+    }
+
+    &.is-open {
+      .trigger {
+        display: block;
+        padding-bottom: 5px;
+      }
     }
 
     .page-link {
-      display: inline-block;
+      display: block;
       text-align: left;
+      padding: 7px 4px;
+      border-radius: 4px;
 
       &:not(:last-child) {
         margin-right: 0;
+        margin-bottom: 4px;
+      }
+    }
+
+    .dropdown {
+      display: block;
+      text-align: left;
+      margin: 4px 0 6px 0;
+
+      .dropdown-title {
+        padding-left: 0;
+        padding-right: 0;
+      }
+
+      .dropdown-content {
+        position: relative;
+        box-shadow: none;
+        border: 1px solid $grey-color-light;
+        border-radius: 6px;
+        margin-top: 6px;
       }
     }
   }

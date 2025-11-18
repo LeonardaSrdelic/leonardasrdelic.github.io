@@ -3,8 +3,6 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.4"
 gem "minima", "~> 2.5.1"
 gem "webrick"
-
-gem "jekyll-scholar"
 gem "jekyll-redirect-from"
 gem "unicode"
 gem "jgd"
@@ -41,6 +39,5 @@ gem "csv"
 gem "base64"
 gem "nokogiri", ">= 1.18.9"
 
+gem "jekyll-scholar", "~> 7.1"
 gem "observer", "~> 0.1"
-
-gem "ostruct", "~> 0.6.3"

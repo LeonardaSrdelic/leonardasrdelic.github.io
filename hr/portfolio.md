@@ -11,18 +11,7 @@ permalink: /hr/portfolio/
 
 ## 1. Prostorne i požarne analize
 
-<div style="color:#b45212; margin-bottom:22px; background:#fff5e6; padding:12px 18px; border-radius:8px;">
-  <strong>Napomena:</strong> Karta se učitava iz vanjskog izvora i zbog veličine datoteke može trebati do <strong>jedne minute</strong> da se prikaže. Za najbolje iskustvo preporučujemo pregledavanje na desktop ili laptop računalu. Na mobilnim uređajima učitavanje može trajati znatno dulje.
-</div>
-
-
-
-## Rizik od požara po katastarskim općinama
-
-<div style="margin:24px 0;">
-  <iframe src="https://687e32c8f2e31f28e314a0d1--pozar.netlify.app/" width="100%" height="750" style="border:1px solid #ccc; border-radius:12px;"></iframe>
-</div>
-
+> Karta rizika od požara po katastarskim općinama trenutno nije uključena zbog veličine datoteke i ograničenja hostinga. Ako trebaš poslati HTML/GeoJSON datoteku ili statičnu sliku, javi pa ću dodati manju verziju.
 
 <!-- PRIKAZ GEOREFERENCIRANJA (ostaje vidljiv) -->
 <div style="margin-bottom:2.5rem;">

@@ -150,7 +150,6 @@ GEM
     nokogiri (1.18.9-x64-mingw-ucrt)
       racc (~> 1.4)
     observer (0.1.2)
-    ostruct (0.6.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.1)
@@ -201,7 +200,7 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-redirect-from
   jekyll-regex-replace
-  jekyll-scholar
+  jekyll-scholar (~> 7.1)
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tabs
@@ -212,7 +211,6 @@ DEPENDENCIES
   minima (~> 2.5.1)
   nokogiri (>= 1.18.9)
   observer (~> 0.1)
-  ostruct (~> 0.6.3)
   tzinfo (>= 1, < 3)
   tzinfo-data
   unicode

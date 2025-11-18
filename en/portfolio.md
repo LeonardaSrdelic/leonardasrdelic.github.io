@@ -11,16 +11,8 @@ permalink: /portfolio/
 
 ## 1. Spatial and Wildfire Risk Analyses
 
-<div style="color:#b45212; margin-bottom:22px; background:#fff5e6; padding:12px 18px; border-radius:8px;">
-  <strong>Note:</strong> The map loads from an external source and, due to its size, it may take up to <strong>one minute</strong> to appear. For best experience, please view on a desktop or laptop. On mobile devices, loading may take significantly longer.
-</div>
+> The wildfire risk map by cadastral municipalities isn’t embedded right now because the HTML is too large for our hosting limits. If you want the file (HTML/GeoJSON) or a static image, tell me and I’ll add a lightweight version.
 
-
-## Wildfire risk by cadastral municipalities
-
-<div style="margin:24px 0;">
-  <iframe src="https://687e32c8f2e31f28e314a0d1--pozar.netlify.app/" width="100%" height="750" style="border:1px solid #ccc; border-radius:12px;"></iframe>
-</div>
 
 
 <!-- GEOREFERENCING EXAMPLE (still visible) -->
