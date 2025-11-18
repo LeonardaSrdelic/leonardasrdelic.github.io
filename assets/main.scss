@@ -622,10 +622,12 @@ a:hover, a:focus {
 }
 
 .header-image {
+  display: block;
+  margin: 0 auto 14px auto;
   max-width: 520px;
-  width: 100%;
+  width: min(520px, 100%);
   height: auto;
-  max-height: 420px;
+  max-height: 380px;
   object-fit: contain;
   border-radius: 12px;
   box-shadow: 0 6px 24px rgba(0, 0, 0, 0.06);
@@ -638,7 +640,8 @@ a:hover, a:focus {
 
   .header-image {
     max-width: 100%;
-    max-height: 360px;
+    width: 100%;
+    max-height: 320px;
   }
 }
 
