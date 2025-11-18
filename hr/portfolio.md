@@ -11,7 +11,7 @@ permalink: /hr/portfolio/
 
 ## 1. Prostorne i požarne analize
 
-> Karta rizika od požara po katastarskim općinama trenutno nije uključena zbog veličine datoteke i ograničenja hostinga. Ako trebaš poslati HTML/GeoJSON datoteku ili statičnu sliku, javi pa ću dodati manju verziju.
+>
 
 <!-- PRIKAZ GEOREFERENCIRANJA (ostaje vidljiv) -->
 <div style="margin-bottom:2.5rem;">

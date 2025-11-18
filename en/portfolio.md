@@ -11,8 +11,6 @@ permalink: /portfolio/
 
 ## 1. Spatial and Wildfire Risk Analyses
 
-> The wildfire risk map by cadastral municipalities isn’t embedded right now because the HTML is too large for our hosting limits. If you want the file (HTML/GeoJSON) or a static image, tell me and I’ll add a lightweight version.
-
 
 
 <!-- GEOREFERENCING EXAMPLE (still visible) -->
