@@ -3,8 +3,8 @@ layout: post
 title: "Fiskalni izazovi starenja i reforme mirovinskog sustava"
 lang: hr
 date: 2025-11-18
-image: /assets/blog/pensions_gdp_share_2023_A4.png
-header_image: /assets/blog/pensions_gdp_share_2023_A4.png
+image: /assets/blog/kolaz_2x3.png
+header_image: /assets/blog/kolaz_2x3.png
 author:
   name: Leonarda Srdelić
   url: https://leonardasrdelic.github.io/hr/cv/
@@ -576,7 +576,6 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
 })();
 </script>
 <p style="font-size:0.95em;margin-top:-12px;">Izvor: Eurostat (ilc_p_np1)</p>
-
 
 
 
