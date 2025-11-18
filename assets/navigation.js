@@ -26,6 +26,34 @@
       dropdownButton.setAttribute('aria-expanded', 'false');
     }
 
+    function setActiveLink() {
+      var links = siteNav.querySelectorAll('.page-link');
+      if (!links.length) return;
+
+      var currentPath = window.location.pathname.replace(/\/+$/, '/');
+      var bestMatch = null;
+
+      links.forEach(function (link) {
+        var linkPath = new URL(link.href, window.location.origin).pathname.replace(/\/+$/, '/');
+        if (currentPath === linkPath || currentPath.startsWith(linkPath)) {
+          if (!bestMatch || linkPath.length > bestMatch.path.length) {
+            bestMatch = { el: link, path: linkPath };
+          }
+        }
+      });
+
+      if (bestMatch) {
+        bestMatch.el.classList.add('is-active');
+        var dropdownParent = bestMatch.el.closest('.dropdown');
+        if (dropdownParent) {
+          var dropdownTitle = dropdownParent.querySelector('.dropdown-title');
+          dropdownTitle && dropdownTitle.classList.add('is-active');
+        }
+      }
+    }
+
+    setActiveLink();
+
     if (menuToggle && menu) {
       function closeMenu() {
         siteNav.classList.remove('is-open');
