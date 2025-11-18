@@ -9,7 +9,7 @@ permalink: /hr/portfolio/
 
 ---
 
-## 1. Prostorne i požarne analize
+## 1. Prostorne analize
 
 >
 
