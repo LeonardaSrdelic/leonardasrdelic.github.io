@@ -23,7 +23,7 @@ U rizičnom scenariju, koji razmatra moguće nepovoljne ishode u slučaju promje
 
 S obzirom na projekcije demografskih kretanja i očekivane pritiske na javne financije, određena prilagodba postojećih politika bit će neizbježna. Glavni cilj je pritom očuvati fiskalnu održivost uz istodobno osiguravanje primjerene razine mirovina, kako bi se postigla ravnoteža između dugoročne stabilnosti mirovinskog sustava i njegove socijalne funkcije te smanjio rizik od siromaštva među starijim osobama.
 
-Naime, potreba za prilagodbom politika već je sada izražena, ako uzmemo u obzir da Hrvatska ima treću najveću stopu rizika od siromaštva među umirovljenicima u EU (nakon Estonije i Latvije; Grafikon 1). Udio osoba u dobi od 65 i više godina u riziku od siromaštva u 2023. iznosio je 29,3% za muškarce i 38,8% za žene, što je znatno iznad prosjeka EU-a (16,3% za muškarce i 22,6% za žene). Promotri li se duža vremenska serija (2013. - 2024.), može se primijetiti kako se posljednje dvije godine rizik od siromaštva u Hrvatskoj povećao za oba spola, dok se na razini EU-a u prosjeku bilježi suprotan trend (Grafikon 2). Time se dodatno produbljuje jaz u adekvatnosti mirovina između Hrvatske i ostatka EU-a. Ovi pokazatelji ukazuju na to da izazovi adekvatnosti mirovina i rizika od siromaštva već sada zahtijevaju pažnju, neovisno o dugoročnim demografskim pritiscima koji će dodatno pojačati opterećenje mirovinskog sustava.
+Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činjenicu da Hrvatska ima treću najvišu stopu rizika od siromaštva među muškim umirovljenicima i četvrtu među ženama u Europskoj uniji (Grafikon 1). Udio osoba u dobi od 65 i više godina u riziku od siromaštva u 2023. iznosio je 29,3% za muškarce i 38,8% za žene, što je znatno iznad prosjeka EU-a (16,3% za muškarce i 22,6% za žene). Promotri li se duža vremenska serija (2013. - 2024.), može se primijetiti kako se posljednje dvije godine rizik od siromaštva u Hrvatskoj povećao za oba spola, dok se na razini EU-a u prosjeku bilježi suprotan trend (Grafikon 2). Time se dodatno produbljuje jaz u adekvatnosti mirovina između Hrvatske i ostatka EU-a. Ovi pokazatelji ukazuju na to da izazovi adekvatnosti mirovina i rizika od siromaštva već sada zahtijevaju pažnju, neovisno o dugoročnim demografskim pritiscima koji će dodatno pojačati opterećenje mirovinskog sustava.
 
 <p style="font-size:1.05em; font-weight:600; margin:18px 0 6px 0;">
   Grafikon 1. <span style="font-weight:400;">Osobe u dobi od 65 i više godina u riziku od siromaštva u državama EU-a prema spolu, 2023.</span>
@@ -241,9 +241,7 @@ gdje su:
 ΔCPI – stopa promjene indeksa potrošačkih cijena (inflacija)  
 α – ponder koji određuje udio rasta plaća u formuli usklađivanja
 
-Međutim, univerzalna povećanja mirovina znatno bi povećala trajni proračunski teret te dugoročno smanjila fiskalni prostor. Prema procjenama Europske komisije, scenarij usklađivanja usmjeren na očuvanje omjera mirovine i plaće povećao bi javni dug mirovinskog sustava za dodatnih 0,9% BDP-a do 2070. godine, čime bi se povećala osjetljivost javnih financija na buduće šokove.
-
-Isto tako, univerzalno povećanje mirovina ne uzima u obzir razlike među umirovljenicima. Iako bi snažnija indeksacija mogla ublažiti rizik od siromaštva u starijoj dobi, njezini bi učinci bili neravnomjerno raspodijeljeni među umirovljenicima, budući da bi korist ostvarile i skupine s iznadprosječnim primanjima. Dodatno, dio starijih osoba ostvaruje prihode iz financijske imovine, nekretnina ili turističkog najma, što pridonosi većoj neujednačenosti dohodaka unutar populacije starije dobi, odnosno univerzalno povećanje plaća mirovina pogoduje visokoprimateljima. Uvođenje imovinskog ili dohodovnog cenzusa moglo bi omogućiti pravednije ciljanje mjera i učinkovitije korištenje javnih sredstava.
+Međutim, univerzalna povećanja mirovina znatno bi povećala trajni proračunski teret te dugoročno smanjila fiskalni prostor. Prema procjenama Europske komisije, scenarij usklađivanja usmjeren na očuvanje omjera mirovine i plaće povećao bi javni dug mirovinskog sustava za dodatnih 0,9% BDP-a do 2070. godine, čime bi se povećala osjetljivost javnih financija na buduće šokove. Isto tako, univerzalno povećanje mirovina ne uzima u obzir razlike među umirovljenicima. Iako bi snažnija indeksacija mogla ublažiti rizik od siromaštva u starijoj dobi, njezini bi učinci bili neravnomjerno raspodijeljeni među umirovljenicima, budući da bi korist ostvarile i skupine s iznadprosječnim primanjima. Naime, dio starijih osoba ostvaruje prihode iz financijske imovine, nekretnina ili turističkog najma, što pridonosi većoj neujednačenosti dohodaka unutar populacije starije dobi. Stoga bi univerzalno povećanje plaća mirovina više pogodovalo visokoprimateljima. U tom smislu, uvođenje imovinskog ili dohodovnog cenzusa moglo bi omogućiti pravednije ciljanje mjera i učinkovitije korištenje javnih sredstava.
 
 ## Dohodovni/imovinski cenzus i ciljano usmjeravanje mirovinskih potpora
 
@@ -583,7 +581,6 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
 })();
 </script>
 <p style="font-size:0.95em;margin-top:-12px;">Izvor: Eurostat (spr_exp_pens)</p>
-
 
 
 
