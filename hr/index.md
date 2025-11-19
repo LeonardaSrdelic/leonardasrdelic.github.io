@@ -17,13 +17,10 @@ description: Dobrodošli na moju početnu stranicu!
     <div style="background:#f9f9f9; border-radius:12px; padding:1.5rem 1.7rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
       <h2 style="margin-top:0; font-size:1.4rem;">O meni</h2>
       <p>
-        U svom profesionalnom radu bavim se politikama ublažavanja i prilagodbe klimatskim promjenama (EU ETS, CBAM, okolišni porezi, redistribucija, EU fondovi). Modeliram klimatske stres testove i procjenjujem utjecaj prirodnih katastrofa na javne financije, fiskalnu održivost i ekonomske tokove.
+        U svom profesionalnom radu bavim se širim područjem klimatskih i održivih javnih politika, uključujući alate za upravljanje emisijama, instrumente zelene tranzicije i mehanizme koji oblikuju prilagodbu gospodarstva klimatskim rizicima. Radim na modeliranju klimatskih stres-testova te procjenjujem kako prirodne katastrofe i klimatski trendovi utječu na javne financije, fiskalnu održivost i ekonomske tokove.
       </p>
       <p>
-        Koristim geoprostorne i ekonometrijske alate za procjenu klimatskih rizika – od izračuna ugljičnog otiska i georeferenciranja imovine do izrade analitičkih modela.
-      </p>
-      <p>
-        Kad ne radim, najčešće sam negdje vani – na planini, u trčanju, rolanju, odbojci na pijesku ili za stolnim tenisom. Obožavam i skijanje i fotografiju. Ravnotežu nalazim u prirodi i kretanju, a inspiraciju u krajolicima koje nastojim štititi kroz svoj rad.
+        Posebno uživam u osmišljavanju rješenja koja automatiziraju ažuriranje podataka i izradu izvještaja. U radu koristim R i Quarto za povlačenje podataka, analize i automatiziranu izradu izvještaja te GitHub za upravljanje inačicama, što mi omogućuje da se podaci automatski osvježavaju. I ovu sam internetsku stranicu sama izradila koristeći Jekyll i Ruby, uz Visual Studio Code, Git i GitHub.
       </p>
     </div>
   </div>

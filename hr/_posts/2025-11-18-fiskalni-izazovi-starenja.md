@@ -23,7 +23,7 @@ U rizičnom scenariju, koji razmatra moguće nepovoljne ishode u slučaju promje
 
 S obzirom na projekcije demografskih kretanja i očekivane pritiske na javne financije, određena prilagodba postojećih politika bit će neizbježna. Glavni cilj je pritom očuvati fiskalnu održivost uz istodobno osiguravanje primjerene razine mirovina, kako bi se postigla ravnoteža između dugoročne stabilnosti mirovinskog sustava i njegove socijalne funkcije te smanjio rizik od siromaštva među starijim osobama.
 
-Naime, potreba za prilagodbom politika već je sada izražena, ako uzmemo u obzir da Hrvatska ima treću najveću stopu rizika od siromaštva među umirovljenicima u EU (nakon Estonije i Latvije; Grafikon 1). Udio osoba u dobi od 65 i više godina u riziku od siromaštva u 2023. iznosio je 29,3% za muškarce i 38,8% za žene, što je znatno iznad prosjeka EU-a (16,3% za muškarce i 22,6% za žene). Promotri li se duža vremenska serija (2013. - 2023.), može se primijetiti kako se posljednje dvije godine rizik od siromaštva u Hrvatskoj povećao za oba spola, dok se na razini EU-a u prosjeku bilježi suprotan trend (Grafikon 2). Time se dodatno produbljuje jaz u adekvatnosti mirovina između Hrvatske i ostatka EU-a. Ovi pokazatelji ukazuju na to da izazovi adekvatnosti mirovina i rizika od siromaštva već sada zahtijevaju pažnju, neovisno o dugoročnim demografskim pritiscima koji će dodatno pojačati opterećenje mirovinskog sustava.
+Naime, potreba za prilagodbom politika već je sada izražena, ako uzmemo u obzir da Hrvatska ima treću najveću stopu rizika od siromaštva među umirovljenicima u EU (nakon Estonije i Latvije; Grafikon 1). Udio osoba u dobi od 65 i više godina u riziku od siromaštva u 2023. iznosio je 29,3% za muškarce i 38,8% za žene, što je znatno iznad prosjeka EU-a (16,3% za muškarce i 22,6% za žene). Promotri li se duža vremenska serija (2013. - 2024.), može se primijetiti kako se posljednje dvije godine rizik od siromaštva u Hrvatskoj povećao za oba spola, dok se na razini EU-a u prosjeku bilježi suprotan trend (Grafikon 2). Time se dodatno produbljuje jaz u adekvatnosti mirovina između Hrvatske i ostatka EU-a. Ovi pokazatelji ukazuju na to da izazovi adekvatnosti mirovina i rizika od siromaštva već sada zahtijevaju pažnju, neovisno o dugoročnim demografskim pritiscima koji će dodatno pojačati opterećenje mirovinskog sustava.
 
 <p style="font-size:1.05em; font-weight:600; margin:18px 0 6px 0;">
   Grafikon 1. <span style="font-weight:400;">Osobe u dobi od 65 i više godina u riziku od siromaštva u državama EU-a prema spolu, 2023.</span>
@@ -110,19 +110,6 @@ Naime, potreba za prilagodbom politika već je sada izražena, ako uzmemo u obzi
       ],
       graphic: [
         {
-          type: "rect",
-          right: 24,
-          top: 8,
-          shape: { width: 140, height: 40 },
-          style: {
-            fill: "#ffffff",
-            stroke: "#c5cdd9",
-            lineWidth: 1,
-            shadowBlur: 4,
-            shadowColor: "rgba(0,0,0,0.08)"
-          }
-        },
-        {
           type: "text",
           right: 32,
           top: 18,
@@ -130,7 +117,14 @@ Naime, potreba za prilagodbom politika već je sada izražena, ako uzmemo u obzi
             text: `EU27 – žene ${fmt(data.female_mean)}\nEU27 – muškarci ${fmt(data.male_mean)}`,
             fill: "#111",
             fontWeight: 700,
-            lineHeight: 16, fontSize: 12, backgroundColor: '#fff', padding: [2, 4], borderColor: '#c5cdd9', borderWidth: 1
+            lineHeight: 16,
+            fontSize: 12,
+            backgroundColor: "#fff",
+            padding: [4, 8],
+            borderColor: "#c5cdd9",
+            borderWidth: 1,
+            shadowBlur: 4,
+            shadowColor: "rgba(0,0,0,0.08)"
           }
         }
       ]
@@ -230,7 +224,7 @@ Naime, potreba za prilagodbom politika već je sada izražena, ako uzmemo u obzi
   });
 })();
 </script>
-<p style="font-size:0.95em;margin-top:-8px;">Napomena: Pokazatelj „rizika od siromaštva“ (Eurostat, kod: ilc_pnp1) odnosi se na osobe u dobi od 65 i više godina, neovisno o njihovu mirovinskom statusu. Mjeri udio osoba čiji je ekvivalentni raspoloživi dohodak manji od 60% nacionalnog medijana ekvivalentnog raspoloživog dohotka nakon socijalnih transfera, te time prikazuje relativni rizik od siromaštva u odnosu na prosječne dohodovne razine u pojedinoj zemlji.</p>
+<p style="font-size:0.95em;margin-top:-8px;">Napomena: Pokazatelj „rizika od siromaštva“ odnosi se na osobe u dobi od 65 i više godina, neovisno o njihovu mirovinskom statusu. Mjeri udio osoba čiji je ekvivalentni raspoloživi dohodak manji od 60% nacionalnog medijana ekvivalentnog raspoloživog dohotka nakon socijalnih transfera, te time prikazuje relativni rizik od siromaštva u odnosu na prosječne dohodovne razine u pojedinoj zemlji.</p>
 <p style="font-size:0.95em;margin-top:-12px;">Izvor: Eurostat (ilc_pnp1)</p>
 
 ## Kako postići fiskalnu održivost i smanjiti rizik od siromaštva u starijoj dobi
@@ -261,27 +255,38 @@ Istodobno, za dugoročnu održivost sustava nužno je da svako povećanje mirovi
 
 ## Empirijska potpora institucionalnim preporukama
 
-Preporuke međunarodnih institucija o potrebi kombiniranja mjera za očuvanje fiskalne održivosti i socijalne adekvatnosti mirovinskih sustava potkrijepljene su i znanstvenim istraživanjima. [Morgavi (2025)](https://www.pse-journal.hr/upload/files/pse/2025/3/morgavi.pdf) u svojem istraživanju naglašava važnost kvantifikacije njihovih učinaka na tržište rada primjenom modela koji uzima u obzir nacionalne specifičnosti, uključujući demografska obilježja, mirovinsku strukturu i postojeće alternativne oblike izlaska iz radne snage.
+Preporuke međunarodnih institucija o potrebi usklađivanja mjera za fiskalnu održivost i socijalnu primjerenost mirovinskih sustava podupiru i nalazi nedavnih istraživanja. [Morgavi (2025)](https://www.pse-journal.hr/upload/files/pse/2025/3/morgavi.pdf) u svojem istraživanju naglašava važnost procjene njihovih učinaka na tržište rada primjenom modela koji uzima u obzir nacionalne posebnosti kao što su demografska obilježja, mirovinska struktura i postojeće oblike ranijeg izlaska iz radne snage.
 
-Rezultati pokazuju da svako godišnje povećanje normalne mirovinske dobi povezano je s rastom stope zaposlenosti osoba u dobi od 55 do 74 godine za približno 1,5 do 2,3 postotna boda. Time se povećava broj osoba koje dulje ostaju u svijetu rada, čime se istodobno povećavaju javni prihodi od doprinosa i smanjuje pritisak na rashodnu stranu proračuna.
+Rezultati pokazuju da je svako godišnje povećanje propisane dobi za umirovljenje povezano s rastom stope zaposlenosti osoba u dobi od 55 do 74 godine za približno 1,5 do 2,3 postotna boda. Time se povećava broj osoba koje dulje ostaju u svijetu rada, što istodobno podiže javne prihode od doprinosa i smanjuje pritisak na rashode proračuna.
 
 ## Dodatni izazovi
 
 ### Dvije dobne granice
 
-Međutim, u mnogim zemljama mirovinski sustavi razlikuju dvije dobne granice. Minimalna dob označava trenutak kada se može ostvariti pravo na mirovinu uz trajno umanjenje iznosa, dok normalna (puna) dob predstavlja uvjet za ostvarivanje pune mirovine bez umanjenja. Kada je razlika između tih dviju granica velika, primjerice pet ili više godina, mnogi radnici odlučuju se za ranije umirovljenje, jer im sustav to omogućuje uz prihvatljivo smanjenje primanja. Zbog toga reforme koje povećavaju zakonsku, odnosno normalnu, dob često imaju ograničen stvarni učinak – prosječna dob izlaska s tržišta rada u praksi se ne mijenja značajno. Drugim riječima, ako postoji mogućnost odlaska u prijevremenu mirovinu uz blaže sankcije, formalno podizanje dobne granice neće automatski dovesti do duljeg radnog vijeka.
+Međutim, u mnogim zemljama mirovinski sustavi razlikuju dvije dobne granice. **Minimalna dob** označava trenutak kada se može ostvariti pravo na mirovinu uz trajno umanjenje iznosa, dok **normalna (puna) dob** predstavlja uvjet za ostvarivanje pune mirovine bez umanjenja. Kada je razlika između tih dviju granica velika, primjerice pet ili više godina, mnogi radnici odlučuju se za ranije umirovljenje, jer im sustav to omogućuje uz prihvatljivo smanjenje primanja. Zbog toga reforme koje povećavaju zakonsku, odnosno normalnu dob, često imaju ograničen stvarni učinak jer se prosječna dob izlaska s tržišta rada u praksi ne mijenja značajno. Drugim riječima, ako postoji mogućnost odlaska u prijevremenu mirovinu uz blaže sankcije, formalno podizanje dobne granice neće automatski dovesti do duljeg radnog vijeka.
 
-Istraživanja pokazuju da reforme imaju veći učinak kada se razlika između minimalne i normalne dobi smanji, odnosno kada se te dvije granice postupno približe ([Morgavi, 2025](https://www.pse-journal.hr/upload/files/pse/2025/3/morgavi.pdf)). Tada radnici imaju manje poticaja za rano povlačenje i dulje ostaju zaposleni. Dakle, ako se poveća samo normalna dob, dok minimalna ostane ista, učinak reforme ostaje slab jer radnici i dalje mogu ranije napustiti tržište rada. Kada se obje granice podignu ili se razlika među njima smanji, zaposlenost starijih raste brže, a reforma postaje učinkovitija i socijalno pravednija.
+Istraživanja pokazuju da reforme imaju veći učinak kada se **razlika između minimalne i normalne dobi smanji**, odnosno kada se te dvije granice postupno približe ([Morgavi, 2025](https://www.pse-journal.hr/upload/files/pse/2025/3/morgavi.pdf)). Tada radnici imaju manje poticaja za rano povlačenje i dulje ostaju zaposleni. Dakle, ako se poveća samo normalna dob, dok minimalna ostane ista, učinak reforme ostaje slab jer radnici i dalje mogu ranije napustiti tržište rada. Kada se obje granice podignu ili se razlika među njima smanji, zaposlenost starijih raste brže, a reforma postaje učinkovitija i socijalno pravednija.
+
+To otvara pitanje kakvu ulogu zapravo ima sama arhitektura dobnih granica u mirovinskom sustavu.
 
 Kad bi država uvela univerzalno podizanje dobi za umirovljenje, svi bi radnici morali ostati na tržištu rada dulje, bez obzira na svoje mogućnosti. Međutim, takva bi mjera posebno teško pogodila radnike s nižim obrazovanjem, najčešće one s osnovnom ili srednjom školom, koji u pravilu ranije napuštaju tržište rada. Razlozi za to često su fizički zahtjevniji poslovi, lošije zdravstveno stanje, manjak prilika za prekvalifikaciju ili ograničene mogućnosti zapošljavanja na manje zahtjevnim poslovima u starijoj dobi. Sličan obrazac vrijedi i kod razlika između muškaraca i žena. U zemljama u kojima žene imaju nižu dob za ostvarivanje prava na mirovinu, one u prosjeku ranije napuštaju tržište rada, što dodatno smanjuje ukupnu zaposlenost starijih osoba.
 
-Ako bi se zakonska dob za umirovljenje podigla, a dio radnika ne bi mogao raditi do te dobi, oni bi ostali izvan tržišta rada, ali bez prava na mirovinu. U tom bi razdoblju često primali niže naknade iz sustava socijalne zaštite, poput naknade za nezaposlene ili invalidnine, umjesto redovite plaće ili mirovine. Time bi poraslo opterećenje socijalnih fondova i produbile bi se razlike među skupinama radnika, posebno između onih koji mogu ostati zaposleni do zakonske granice i onih koji to ne mogu. Dostupne domaće analize pokazuju da se produljenje radnog vijeka u Hrvatskoj ne može postići samo formalnim povećanjem dobi za odlazak u mirovinu, nego i mjerama koje poboljšavaju uvjete rada te nude prilike za prekvalifikaciju starijim radnicima. Takav pristup uz fiskalnu održivost osigurava i socijalnu pravednost.
+Uvođenje univerzalne dobi za umirovljenje značilo bi da radnici koji ne mogu raditi do te dobi ostaju izvan tržišta rada i bez prava na mirovinu. U tom bi razdoblju često primali niže naknade iz sustava socijalne zaštite, poput naknade za nezaposlene ili invalidnine, umjesto redovite plaće ili mirovine. Time bi poraslo opterećenje socijalnih fondova i produbile bi se razlike među skupinama radnika. 
 
-Umjesto univerzalnog produljenja radnog vijeka, država bi trebala uvesti mjere koje uzimaju u obzir različite mogućnosti i potrebe radnika. To uključuje prekvalifikacije i dodatne edukacije za starije i slabije obrazovane radnike, kako bi se povećala njihova zapošljivost u kasnijoj dobi. Nadalje, važno je omogućiti lakši prelazak na manje zahtjevne poslove ili kraće radno vrijeme, što bi radnicima s težim uvjetima rada olakšalo ostanak na tržištu rada. Na taj bi se način produljio radni vijek bez prisile, uz istodobno očuvanje socijalne pravednosti i smanjenje rizika od isključivanja starijih radnika.
+Stoga, kako bi se očuvala fiskalna održivost i osigurala socijalna pravednost, potrebno je uvesti mjere koje uzimaju u obzir različite mogućnosti i potrebe radnika. To uključuje prekvalifikacije i dodatne edukacije za starije i slabije obrazovane radnike, kako bi se povećala njihova zapošljivost u kasnijoj dobi. Potom, omogućiti jednostavniji prelazak na manje zahtjevne poslove ili kraće radno vrijeme, što bi radnicima s težim uvjetima rada olakšalo ostanak na tržištu rada. Na taj bi se način produljio radni vijek bez prisile.
+
+<details style="border:1px solid #d8dee9; border-radius:10px; padding:14px 18px; margin:18px 0;">
+  <summary style="font-weight:700; cursor:pointer;">Fokus: Hrvatska (aktivne politike i rad uz mirovinu)</summary>
+  <div style="margin-top:10px;">
+    <p>U hrvatskom kontekstu produljenje radnog vijeka podupire se kombinacijom mjera aktivne politike zapošljavanja i promjena u mirovinskom zakonodavstvu. Hrvatski zavod za zapošljavanje putem <a href="https://mjere.hzz.hr/">kataloga mjera aktivne politike zapošljavanja</a> te programa <a href="https://mjere.hzz.hr/mjere/obrazovanje-nezaposlenih-osoba-i-ostalih-trazitelja-zaposlenja-2024/">Obrazovanje nezaposlenih osoba i ostalih tražitelja zaposlenja</a> nastoji povećati zapošljivost starijih i slabije obrazovanih radnika, uključujući potpore za zapošljavanje osoba starijih od pedeset godina. Dosadašnje procjene pokazuju da ove intervencije donekle povećavaju vjerojatnost zapošljavanja, ali i da sudjelovanje starijih ostaje ispod prosjeka, što upućuje na potrebu za dodatnim prilagodbama kako bi se bolje adresirale njihove specifične potrebe.</p>
+    <p>U mirovinskom sustavu proširene su mogućnosti rada uz mirovinu. Korisnicima je omogućeno raditi do polovice punog radnog vremena uz isplatu pune mirovine, a izmjene propisa predviđene novim <a href="https://www.sabor.hr/sites/default/files/uploads/sabor/2025-05-15/130902/PZE_155.pdf">Zakonom o mirovinskom osiguranju</a> omogućit će dijelu umirovljenika rad u punom radnom vremenu uz isplatu polovine mirovine. Ove institucionalne promjene otvaraju kanale za postupniji izlazak s tržišta rada i jačaju slobodu izbora starijih radnika. Ipak, njihov stvarni doprinos zaposlenosti starijih te raspodjeli opterećenja između mirovinskog i socijalnog sustava moći će se procijeniti tek nakon duljeg razdoblja primjene i novih ocjena učinkovitosti mjera aktivne politike zapošljavanja.</p>
+  </div>
+</details>
+
 
 ### Privatni fondovi i ponašanje radnika
 
-Na kraju, u zemljama s razvijenim obveznim privatnim mirovinskim sustavima, poput drugog stupa utemeljenog na individualnoj štednji, radnici u većoj mjeri prate pravila tih fondova, jer im upravo ta štednja određuje visinu buduće mirovine. Ti fondovi često nagrađuju dulji radni vijek, primjerice većim akumuliranim kapitalom ili dodatnim doprinosima ako se dulje radi. Zbog toga se ponašanje radnika u tim zemljama manje mijenja kada država poveća „službenu“ (javnu) dob za umirovljenje. Oni odluke donose prema pravilima fonda, pa državna reforma ima slabiji učinak na njihovo ponašanje. Empirijski, [Morgavi pokazuje](https://www.pse-journal.hr/upload/files/pse/2025/3/morgavi.pdf) da u zemljama s razvijenim privatnim fondovima povećanje javne dobi za jednu godinu dovodi do otprilike 1,3 postotna boda više zaposlenih starijih radnika, dok je u zemljama s dominantnim javnim sustavima učinak oko 1,8 postotnih bodova. Drugim riječima, privatni fondovi preuzimaju dio utjecaja na odluke o umirovljenju, pa državne reforme u takvom okruženju imaju slabiji efekt. Stoga bi zemlje s većim udjelom privatnih stupova trebale bolje usklađivati javna i privatna pravila, kako bi reforme doista postigle očekivani učinak na zaposlenost i fiskalnu održivost.
+U zemljama s razvijenim obveznim privatnim mirovinskim sustavima, poput drugog stupa utemeljenog na individualnoj štednji, radnici u većoj mjeri prate pravila tih fondova, jer im upravo ta štednja određuje visinu buduće mirovine. Ti fondovi često nagrađuju dulji radni vijek, primjerice većim akumuliranim kapitalom ili dodatnim doprinosima ako se dulje radi. Zbog toga se ponašanje radnika u tim zemljama manje mijenja kada država poveća zakonsku (punu) dob za umirovljenje. Oni odluke donose prema pravilima fonda, pa državna reforma ima slabiji učinak na njihovo ponašanje. Empirijski, [Morgavi (2025.)](https://www.pse-journal.hr/upload/files/pse/2025/3/morgavi.pdf) pokazuje da u zemljama s razvijenim privatnim fondovima povećanje javne dobi za jednu godinu dovodi do otprilike 1,3 postotna boda više zaposlenih starijih radnika, dok je u zemljama s dominantnim javnim sustavima učinak jači (oko 1,8 postotnih bodova). Drugim riječima, privatni fondovi preuzimaju dio utjecaja na odluke o umirovljenju, pa državne reforme u takvom okruženju imaju slabiji efekt.
 
 ### Pronatalitetne i migracijske politike
 
@@ -299,7 +304,7 @@ Očuvanje fiskalne održivosti uz istodobno osiguravanje primjerene razine mirov
 
 Iako su navedene mjere politički i društveno osjetljive, neka kombinacija će biti nužna za očuvanje dugoročne fiskalne održivosti i jačanje otpornosti mirovinskog sustava, uz istodobno smanjenje rizika od siromaštva u starijoj dobi.
 
-[^auto-age]: U Italiji je mehanizam automatskog prilagođavanja uveden 2010. (Legge Fornero): dob za mirovinu automatski se usklađuje svake 3 godine (a nakon 2021. svake 2 godine) na temelju ISTAT podataka o očekivanom životnom vijeku u dobi od 65 godina ([OECD 2023](https://www.oecd.org/en/publications/pensions-at-a-glance-2023_678055dd-en.html)). U Finskoj se od 2030. dobni pragovi automatski podižu u skladu s promjenama očekivanog životnog vijeka, pri čemu se rast određuje kao dvije trećine povećanja očekivanog životnog vijeka u dobi od 65 godina, čime se attenuating pritisak na omjer radnog vijeka i razdoblja u mirovini.
+[^auto-age]: U Italiji je mehanizam automatskog prilagođavanja uveden 2010. (Legge Fornero): dob za mirovinu automatski se usklađuje svake 3 godine (a nakon 2021. svake 2 godine) na temelju ISTAT podataka o očekivanom životnom vijeku u dobi od 65 godina ([OECD 2023](https://www.oecd.org/en/publications/pensions-at-a-glance-2023_678055dd-en.html)). U Finskoj se od 2030. granica dobi za umirovljenje automatski povećava tako da iznosi dvije trećine rasta očekivanog životnog vijeka u dobi od 65 godina, što dodatno pojačava pritisak na odnos između razdoblja rada i vremena provedenog u mirovini.
 
 ## Dodatak 1. Analitički prikaz izdataka za mirovine u Europskoj uniji i Hrvatskoj
 
@@ -577,12 +582,7 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
   });
 })();
 </script>
-<p style="font-size:0.95em;margin-top:-12px;">Izvor: Eurostat (ilc_p_np1)</p>
-
-
-
-
-
+<p style="font-size:0.95em;margin-top:-12px;">Izvor: Eurostat (spr_exp_pens)</p>
 
 
 

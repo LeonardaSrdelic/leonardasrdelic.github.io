@@ -11,8 +11,6 @@ permalink: /hr/portfolio/
 
 ## 1. Prostorne analize
 
->
-
 <!-- PRIKAZ GEOREFERENCIRANJA (ostaje vidljiv) -->
 <div style="margin-bottom:2.5rem;">
   <h2 style="margin-bottom:0.7em;">Primjer georeferenciranja</h2>
