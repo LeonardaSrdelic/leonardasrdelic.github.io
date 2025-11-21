@@ -57,11 +57,13 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
         : v;
 
     const w = el.clientWidth || 400;
-    const barWidth = Math.max(6, Math.min(14, Math.floor(w / (data.categories.length * 2.4))));
-    const rotate = w < 640 ? 40 : 0;
-    const gridLeft = w < 480 ? 60 : 86;
-    const gridRight = w < 480 ? 32 : 60;
-    const gridBottom = w < 640 ? 110 : 80;
+    const isNarrow = w < 560;
+    const barWidth = Math.max(7, Math.min(16, Math.floor(w / (data.categories.length * 2.1))));
+    const rotate = w < 760 ? 55 : 0;
+    const gridLeft = isNarrow ? 64 : 86;
+    const gridRight = isNarrow ? 34 : 60;
+    const gridBottom = w < 560 ? 140 : w < 760 ? 110 : 80;
+    el.style.height = isNarrow ? "460px" : "400px";
 
     const hrIndex = data.categories.indexOf("HR");
     const seriesWithHr = data.series.map(s => ({
@@ -80,7 +82,9 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
         bottom: 20,
         data: [
           ...data.series.map(s => s.name)
-        ]
+        ],
+        textStyle: { fontSize: isNarrow ? 11 : 12 },
+        itemGap: 20
       },
       xAxis: {
         type: "category",
@@ -88,6 +92,7 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
         axisLabel: {
           interval: 0,
           rotate,
+          fontSize: isNarrow ? 11 : 12,
           formatter: (value) => (value === "HR" ? `{hr|${value}}` : value),
           rich: {
             hr: {
@@ -103,7 +108,8 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
         nameLocation: "middle",
         nameGap: 50,
         nameRotate: 90,
-        nameTextStyle: { color: "#111", fontWeight: 700, fontSize: 12 }
+        nameTextStyle: { color: "#111", fontWeight: 700, fontSize: 12 },
+        axisLabel: { fontSize: isNarrow ? 11 : 12 }
       },
       series: [
         ...seriesWithHr.map(s => ({ ...s, barWidth }))
@@ -129,6 +135,7 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
         }
       ]
     });
+    chart.resize();
   };
 
   render();
@@ -335,24 +342,27 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
   const chart = echarts.init(el);
   const render = () => {
     const w = el.clientWidth || 400;
-    const rotate = w < 720 ? 60 : 40;
-    const barWidth = Math.max(4, Math.min(12, Math.floor(w / (data.yoy.geo.length * 3))));
-    const gridLeftPad = w < 600 ? 46 : 64;
-    const gridRightPad = w < 600 ? 10 : 24;
-    const gridTop = w < 600 ? 125 : 105;
+    const isStacked = w < 700;
+    const rotate = isStacked ? 60 : 40;
+    const barWidth = Math.max(isStacked ? 6 : 4, Math.min(13, Math.floor(w / (data.yoy.geo.length * (isStacked ? 2.4 : 3)))));
+    const gridLeftPad = isStacked ? 54 : (w < 600 ? 46 : 64);
+    const gridRightPad = isStacked ? 16 : (w < 600 ? 10 : 24);
+    const gridTop = isStacked ? 120 : (w < 600 ? 125 : 105);
+    const bottomGap = isStacked ? 42 : 30;
     const totalWidth = el.clientWidth || w;
-    const firstWidthFrac = w < 720 ? 0.46 : 0.48;
-    const secondLeftFrac = w < 720 ? 0.58 : 0.56;
+    const firstWidthFrac = isStacked ? 1 : (w < 720 ? 0.46 : 0.48);
+    const secondLeftFrac = isStacked ? 0 : (w < 720 ? 0.58 : 0.56);
     const firstWidth = `${firstWidthFrac * 100}%`;
     const secondLeft = `${secondLeftFrac * 100}%`;
-    const secondWidthFrac = 1 - secondLeftFrac - (gridRightPad / totalWidth);
     const firstLeft = gridLeftPad / totalWidth;
-    const secondLeftAbs = secondLeftFrac;
-    const bottomGap = w < 640 ? 30 : 30;
-    const legendBottom = w < 640 ? 6 : 12;
+    const secondLeftAbs = isStacked ? gridLeftPad / totalWidth : secondLeftFrac;
+    const subtitleTop = isStacked ? 64 : (w < 480 ? 52 : 48);
+    const secondSubtitleTop = isStacked ? '47%' : (w < 480 ? 52 : 48);
     const valueFmt = v => (typeof v === 'number'
       ? v.toLocaleString('hr-HR', { minimumFractionDigits: 1, maximumFractionDigits: 1 })
       : v);
+
+    el.style.height = isStacked ? '560px' : '440px';
 
     const hrIndexYoy = data.yoy.geo.indexOf('HR');
     const hrIndexShare = data.share.geo.indexOf('HR');
@@ -362,6 +372,16 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
     const shareData = data.share.values.map((v, idx) =>
       idx === hrIndexShare ? { value: v, itemStyle: { borderColor: '#111', borderWidth: 2, color: '#BFBFBF' } } : { value: v }
     );
+
+    const gridConfig = isStacked
+      ? [
+          { left: gridLeftPad, right: gridRightPad, top: gridTop, height: '32%', containLabel: true },
+          { left: gridLeftPad, right: gridRightPad, top: '58%', bottom: bottomGap, containLabel: true }
+        ]
+      : [
+          { left: gridLeftPad, width: firstWidth, top: gridTop, bottom: bottomGap, containLabel: true },
+          { left: secondLeft, right: gridRightPad, top: gridTop, bottom: bottomGap, containLabel: true }
+        ];
 
     chart.setOption({
       tooltip: {
@@ -385,22 +405,19 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
         {
           text: 'a) Godišnja stopa promjene 2023 / 2022 (%)',
           left: `${(firstLeft * 100).toFixed(1)}%`,
-          top: w < 480 ? 52 : 48,
+          top: subtitleTop,
           textAlign: 'left',
           textStyle: {fontSize: 14, fontWeight: 600, color: '#111'}
         },
         {
           text: 'b) Udio u BDP-u (%)',
           left: `${(secondLeftAbs * 100).toFixed(1)}%`,
-          top: w < 480 ? 52 : 48,
+          top: secondSubtitleTop,
           textAlign: 'left',
           textStyle: {fontSize: 14, fontWeight: 600, color: '#111'}
         }
       ],
-      grid: [
-        {left: gridLeftPad, width: firstWidth, top: gridTop, bottom: bottomGap, containLabel: true},
-        {left: secondLeft, right: gridRightPad, top: gridTop, bottom: bottomGap, containLabel: true}
-      ],
+      grid: gridConfig,
       xAxis: [
         {
           type: 'category',
@@ -408,7 +425,7 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
           axisLabel: {
             interval: 0,
             rotate,
-            fontSize: 10,
+            fontSize: isStacked ? 9 : 10,
             formatter: value => (value === 'HR' ? '{hr|' + value + '}' : value),
             rich: {
               hr: {
@@ -425,7 +442,7 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
           axisLabel: {
             interval: 0,
             rotate,
-            fontSize: 10,
+            fontSize: isStacked ? 9 : 10,
             formatter: value => (value === 'HR' ? '{hr|' + value + '}' : value),
             rich: {
               hr: {
@@ -438,8 +455,8 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
         }
       ],
       yAxis: [
-        {type: 'value', gridIndex: 0},
-        {type: 'value', gridIndex: 1}
+        {type: 'value', gridIndex: 0, axisLabel: { fontSize: isStacked ? 11 : 12 }},
+        {type: 'value', gridIndex: 1, axisLabel: { fontSize: isStacked ? 11 : 12 }}
       ],
       series: [
         {
@@ -499,6 +516,7 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
       ],
       graphic: []
     });
+    chart.resize();
   };
   render();
   window.addEventListener('resize', () => {
@@ -640,6 +658,7 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
         ...makeSeries(eu, 1).map(s => ({ ...s, barWidth }))
       ]
     });
+    chart.resize();
   };
   render();
   window.addEventListener('resize', () => {
