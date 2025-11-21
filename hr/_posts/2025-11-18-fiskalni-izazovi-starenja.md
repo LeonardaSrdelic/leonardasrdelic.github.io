@@ -358,6 +358,8 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
     const secondLeftAbs = isStacked ? gridLeftPad / totalWidth : secondLeftFrac;
     const subtitleTop = isStacked ? 64 : (w < 480 ? 52 : 48);
     const secondSubtitleTop = isStacked ? '47%' : (w < 480 ? 52 : 48);
+    const titleWidth = Math.max(200, w - (isStacked ? 24 : 40));
+    const subTitleWidth = Math.max(140, isStacked ? w - 32 : Math.floor(w * 0.5));
     const valueFmt = v => (typeof v === 'number'
       ? v.toLocaleString('hr-HR', { minimumFractionDigits: 1, maximumFractionDigits: 1 })
       : v);
@@ -400,21 +402,21 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
           text: 'Grafikon D1. Izdaci za mirovine po državama članicama',
           left: 'left',
           top: 10,
-          textStyle: {fontSize: 16, fontWeight: 700, color: '#111'}
+          textStyle: {fontSize: isStacked ? 14 : 16, fontWeight: 700, color: '#111', width: titleWidth, overflow: 'break'}
         },
         {
           text: 'a) Godišnja stopa promjene 2023 / 2022 (%)',
           left: `${(firstLeft * 100).toFixed(1)}%`,
           top: subtitleTop,
           textAlign: 'left',
-          textStyle: {fontSize: 14, fontWeight: 600, color: '#111'}
+          textStyle: {fontSize: isStacked ? 13 : 14, fontWeight: 600, color: '#111', width: subTitleWidth, overflow: 'break'}
         },
         {
           text: 'b) Udio u BDP-u (%)',
           left: `${(secondLeftAbs * 100).toFixed(1)}%`,
           top: secondSubtitleTop,
           textAlign: 'left',
-          textStyle: {fontSize: 14, fontWeight: 600, color: '#111'}
+          textStyle: {fontSize: isStacked ? 13 : 14, fontWeight: 600, color: '#111', width: subTitleWidth, overflow: 'break'}
         }
       ],
       grid: gridConfig,
@@ -594,15 +596,20 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
   const chart = echarts.init(el);
   const render = () => {
     const w = el.clientWidth || 400;
+    const isNarrow = w < 560;
     const rotate = w < 720 ? 30 : 0;
     const barWidth = Math.max(8, Math.min(14, Math.floor(w / 40)));
     const gridLeft = w < 600 ? 50 : 70;
     const gridRight = w < 600 ? 10 : 30;
     const gridSplitFrac = w < 720 ? 0.50 : 0.52;
     const gridSplit = `${gridSplitFrac * 100}%`;
-    const gridTop = w < 600 ? 110 : 90;
+    const gridTop = isNarrow ? 128 : w < 720 ? 110 : 95;
     const bottomGap = w < 640 ? 80 : 70;
     const valueFmt = v => (typeof v === "number" ? v.toLocaleString("hr-HR", { minimumFractionDigits: 1, maximumFractionDigits: 1 }) : v);
+    const titleFont = isNarrow ? 14 : 16;
+    const subTitleFont = isNarrow ? 13 : 14;
+    const titleWidth = Math.max(220, w - 24);
+    const subTitleWidth = Math.max(140, Math.floor((w / 2) - 20));
 
     const firstTitleLeft = (gridLeft / w) * 100;
     const secondTitleLeft = gridSplitFrac * 100;
@@ -613,21 +620,21 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
           text: "Grafikon D2. Doprinosi godišnjoj stopi promjene izdataka za mirovine (2023.)",
           left: "left",
           top: 10,
-          textStyle: { fontSize: 16, fontWeight: 700, color: "#111" }
+          textStyle: { fontSize: titleFont, fontWeight: 700, color: "#111", width: titleWidth, overflow: "break" }
         },
         {
           text: "a) Hrvatska",
           left: `${firstTitleLeft.toFixed(1)}%`,
           top: w < 480 ? 52 : 48,
           textAlign: "left",
-          textStyle: { fontSize: 14, fontWeight: 600, color: "#111" }
+          textStyle: { fontSize: subTitleFont, fontWeight: 600, color: "#111", width: subTitleWidth, overflow: "break" }
         },
         {
           text: "b) Europska Unija",
           left: `${secondTitleLeft.toFixed(1)}%`,
           top: w < 480 ? 52 : 48,
           textAlign: "left",
-          textStyle: { fontSize: 14, fontWeight: 600, color: "#111" }
+          textStyle: { fontSize: subTitleFont, fontWeight: 600, color: "#111", width: subTitleWidth, overflow: "break" }
         }
       ],
       tooltip: {
