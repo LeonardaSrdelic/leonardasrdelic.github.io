@@ -57,8 +57,8 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
         : v;
 
     const w = el.clientWidth || 400;
-    const isNarrow = w < 620;
-    const barWidth = Math.max(8, Math.min(18, Math.floor(w / (data.categories.length * (isNarrow ? 1.7 : 2.2)))));
+    const isNarrow = w < 680;
+    const barWidth = Math.max(5, Math.min(12, Math.floor(w / (data.categories.length * (isNarrow ? 2.9 : 2.2)))));
     const rotate = w < 820 ? 60 : 0;
     const gridLeft = isNarrow ? 64 : 86;
     const gridRight = isNarrow ? 36 : 60;
@@ -92,7 +92,7 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
         axisLabel: {
           interval: 0,
           rotate,
-          fontSize: isNarrow ? 11 : 12,
+          fontSize: isNarrow ? 10 : 12,
           formatter: (value) => (value === "HR" ? `{hr|${value}}` : value),
           rich: {
             hr: {
@@ -109,10 +109,10 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
         nameGap: 50,
         nameRotate: 90,
         nameTextStyle: { color: "#111", fontWeight: 700, fontSize: 12 },
-        axisLabel: { fontSize: isNarrow ? 11 : 12 }
+        axisLabel: { fontSize: isNarrow ? 10 : 12 }
       },
       series: [
-        ...seriesWithHr.map(s => ({ ...s, barWidth, barCategoryGap: isNarrow ? "45%" : "35%" }))
+        ...seriesWithHr.map(s => ({ ...s, barWidth, barCategoryGap: isNarrow ? "55%" : "35%", barGap: "0%" }))
       ],
       graphic: [
         {
