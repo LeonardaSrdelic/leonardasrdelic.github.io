@@ -348,7 +348,7 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
     const gridLeftPad = isStacked ? 54 : (w < 600 ? 46 : 64);
     const gridRightPad = isStacked ? 16 : (w < 600 ? 10 : 24);
     const gridTop = isStacked ? 120 : (w < 600 ? 125 : 105);
-    const bottomGap = isStacked ? 42 : 30;
+    const bottomGap = isStacked ? 46 : 30;
     const totalWidth = el.clientWidth || w;
     const firstWidthFrac = isStacked ? 1 : (w < 720 ? 0.46 : 0.48);
     const secondLeftFrac = isStacked ? 0 : (w < 720 ? 0.58 : 0.56);
@@ -356,8 +356,10 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
     const secondLeft = `${secondLeftFrac * 100}%`;
     const firstLeft = gridLeftPad / totalWidth;
     const secondLeftAbs = isStacked ? gridLeftPad / totalWidth : secondLeftFrac;
+    const firstGridHeight = isStacked ? '34%' : null;
+    const secondGridTopPerc = isStacked ? 60 : null;
     const subtitleTop = isStacked ? 64 : (w < 480 ? 52 : 48);
-    const secondSubtitleTop = isStacked ? '47%' : (w < 480 ? 52 : 48);
+    const secondSubtitleTop = isStacked ? `${(secondGridTopPerc - 4).toFixed(1)}%` : (w < 480 ? 52 : 48);
     const titleWidth = Math.max(200, w - (isStacked ? 24 : 40));
     const subTitleWidth = Math.max(140, isStacked ? w - 32 : Math.floor(w * 0.5));
     const valueFmt = v => (typeof v === 'number'
@@ -377,8 +379,8 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
 
     const gridConfig = isStacked
       ? [
-          { left: gridLeftPad, right: gridRightPad, top: gridTop, height: '32%', containLabel: true },
-          { left: gridLeftPad, right: gridRightPad, top: '58%', bottom: bottomGap, containLabel: true }
+          { left: gridLeftPad, right: gridRightPad, top: gridTop, height: firstGridHeight, containLabel: true },
+          { left: gridLeftPad, right: gridRightPad, top: `${secondGridTopPerc}%`, bottom: bottomGap, containLabel: true }
         ]
       : [
           { left: gridLeftPad, width: firstWidth, top: gridTop, bottom: bottomGap, containLabel: true },
