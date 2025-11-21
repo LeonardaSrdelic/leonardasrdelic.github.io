@@ -11,22 +11,22 @@ author:
   image: /assets/IMG_1517_LS.jpg
 ---
 
-Demografski trendovi upućuju na ubrzano starenje stanovništva Hrvatske u idućim desetljećima. Očekuje se da će se nakon 2040. godine pojačati pritisci povezani sa starenjem, kada u mirovinu počnu ulaziti velike poslijeratne generacije i baby-boom generacije 1980-ih, dok će zbog dugotrajno niskog nataliteta broj mlađih radnika opadati. Time će se nastaviti pogoršavati omjer radno sposobnog stanovništva i umirovljenika (tzv. **old-age dependency ratio**), što će povećavati opterećenje mirovinskog, zdravstvenog sustava i sustava dugotrajne skrbi.
+Demografski pokazatelji ukazuju na ubrzano starenje stanovništva u desetljećima pred nama, što će postupno oblikovati ekonomske i fiskalne izglede Hrvatske. Očekuje se da će se nakon 2040. godine intenzivirati pritisci vezani uz starenje, kada u mirovinu počnu ulaziti brojne poslijeratne kohorte te baby boom generacije 1980-ih, dok će zbog dugotrajno niskog nataliteta baza mlađih radnika nastaviti slabiti. Posljedično će se dodatno pogoršavati odnos radno sposobnog stanovništva i broja umirovljenika (old age dependency ratio), čime raste opterećenje mirovinskog, zdravstvenog sustava i sustava dugotrajne skrbi.
 
-[Projekcije Europske komisije](https://economy-finance.ec.europa.eu/publications/2021-ageing-report-economic-and-budgetary-projections-eu-member-states-2019-2070_en)izrađene u osnovnom (referentnom) i rizičnom (alternativnom) scenariju, podupiru ove trendove. Prema osnovnom scenariju, udio osoba starijih od 65 godina u odnosu na populaciju dobi 20–64 godina u Hrvatskoj mogao bi se povisiti s oko 34,8% u 2019. na 64,6% do 2070. Usporedno, na razini Europske unije očekuje se rast s 34,4% na oko 59,2%. To znači da će Hrvatska biti među demografski najstarijim državama EU. Tako snažno starenje stanovništva, uz rastući pritisak na mirovinski sustav, zdravstvo i dugotrajnu skrb, može dugoročno nepovoljno utjecati i na raspoloživu radnu snagu, ukupnu produktivnost te gospodarski rast ([Srdelić i Davila-Fernandez 2025.](https://academic.oup.com/cje/article/49/4/755/8160795)).
+[Projekcije Europske komisije](https://economy-finance.ec.europa.eu/publications/2021-ageing-report-economic-and-budgetary-projections-eu-member-states-2019-2070_en) izrađene u osnovnom (referentnom) i rizičnom (alternativnom) scenariju, podupiru ova očekivanja. Prema osnovnom scenariju, udio osoba starijih od 65 godina (umirovljenici) u odnosu na populaciju dobi 20–64 godina (radno spodsobno stanivništvo) mogao bi se u Hrvatskoj povisiti s oko 34,8% u 2019. na 64,6% do 2070., dok se na razini Europske unije predviđa rast s 34,4% na oko 59,2%. Time bi Hrvatska postala jedna od demografski najstarijih članica EU. Takva demografska kretanja, uz rastuću opterećenost mirovinskog sustava, zdravstva i dugotrajne skrbi, mogu dugoročno ograničiti raspoloživu radnu snagu, ukupnu produktivnost i potencijalni gospodarski rast ([Srdelić i Davila-Fernandez 2025.](https://academic.oup.com/cje/article/49/4/755/8160795)).
 
-U osnovnom se scenariju očekuje da će ukupni javni rashodi povezani sa starenjem (uključujući izdatke za mirovine, zdravstvenu zaštitu, dugotrajnu skrb, obrazovanje i naknade za nezaposlene) na razini EU porasti s oko 24% BDP-a u 2019. na 25,9% BDP-a do 2070., dok bi se u Hrvatskoj zadržali oko 21% BDP-a. Dakle, iako se u osnovnom scenariju projicira znatno brže starenje stanovništva Hrvatske nego u prosjeku EU, udio rashoda povezanih sa starenjem ostaje stabilan oko 21% BDP-a. Razlog je taj što projekcije pretpostavljaju pad relativne vrijednosti mirovina, sporo povećanje zdravstvenih izdataka i ograničeno širenje dugotrajne skrbi. Istodobno, smanjenje broja djece djeluje u smjeru nižih obrazovnih rashoda. U konačnici, strukturne pretpostavke modela poništavaju demografski pritisak, pa ukupni rashodi ne rastu unatoč snažnom starenju.
+U **osnovnom se scenariju** predviđa da će ukupni javni rashodi povezani sa starenjem stanovništva na razini Europske unije porasti s približno 24% BDP-a u 2019. na 25,9% BDP-a do 2070., dok bi se u Hrvatskoj zadržali oko 21% BDP-a. Unatoč tome što se u osnovnom scenariju očekuje osjetno brže starenje stanovništva Hrvatske u odnosu na prosjek EU, udio rashoda povezanih sa starenjem ostaje stabilan oko 21% BDP-a. Takav ishod proizlazi iz pretpostavki o postupnom smanjenju relativne vrijednosti mirovina, umjerenom rastu zdravstvenih izdataka te ograničenom razvoju sustava dugotrajne skrbi. Istodobno, pad broja djece pridonosi nižim rashodima za obrazovanje. U konačnici, strukturne postavke modela ublažavaju demografske pritiske, pa ukupni rashodi ostaju stabilni unatoč izraženom starenju stanovništva.
 
 Svako odstupanje od navedenih pretpostavki, osobito povećanje socijalnih rashoda ili rast relativne vrijednosti mirovina, primjerice bržim usklađivanjem mirovina s plaćama ili uvođenjem povoljnijih pravila izračuna, upućuje na rizik dodatnog rasta ukupnih izdataka u odnosu na osnovnu projekciju.
 
-U rizičnom scenariju, koji pretpostavlja nepovoljne promjene politika ili jače pogoršanje demografskih kretanja, ukupni rashodi u Hrvatskoj do 2070. mogli bi dosegnuti oko 24,4% BDP-a, što je približno tri postotna boda više nego u osnovnom scenariju. To bi, preračunato u današnje cijene, značilo oko dvije milijarde eura dodatnog godišnjeg troška. Do takvog povećanja rashoda moglo bi doći zbog kombinacije sljedećih čimbenika: (1) viših mirovina, (2) većeg opterećenja dugotrajne skrbi i (3) širenja mreže socijalnih usluga.
+U **rizičnom scenariju**, koji pretpostavlja nepovoljne promjene politika ili jače pogoršanje demografskih kretanja, ukupni rashodi u Hrvatskoj do 2070. mogli bi dosegnuti oko 24,4% BDP-a, što je približno tri postotna boda više nego u osnovnom scenariju. To bi, preračunato u današnje cijene, značilo oko dvije milijarde eura dodatnog godišnjeg troška. Do takvog povećanja rashoda moglo bi doći zbog kombinacije sljedećih čimbenika: (1) viših mirovina, (2) većeg opterećenja dugotrajne skrbi i (3) širenja mreže socijalnih usluga.
 
 S obzirom na projekcije demografskih kretanja i očekivane pritiske na javne financije, određena prilagodba postojećih politika bit će neizbježna. Glavni cilj je pritom očuvati fiskalnu održivost uz istodobno osiguravanje primjerene razine mirovina, kako bi se postigla ravnoteža između dugoročne stabilnosti mirovinskog sustava i njegove socijalne funkcije te smanjio rizik od siromaštva među starijim osobama.
 
-Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činjenicu da Hrvatska ima treću najvišu stopu rizika od siromaštva među muškim umirovljenicima i četvrtu među ženama u Europskoj uniji (Grafikon 1). Udio osoba u dobi od 65 i više godina u riziku od siromaštva u 2023. iznosio je 29,3% za muškarce i 38,8% za žene, što je znatno iznad prosjeka EU-a (16,3% za muškarce i 22,6% za žene). Promotri li se duža vremenska serija (2013. - 2024.), može se primijetiti kako se posljednje dvije godine rizik od siromaštva u Hrvatskoj povećao za oba spola, dok se na razini EU-a u prosjeku bilježi suprotan trend (Grafikon 2). Time se dodatno produbljuje jaz u adekvatnosti mirovina između Hrvatske i ostatka EU-a. Ovi pokazatelji ukazuju na to da izazovi adekvatnosti mirovina i rizika od siromaštva već sada zahtijevaju pažnju, neovisno o dugoročnim demografskim pritiscima koji će dodatno pojačati opterećenje mirovinskog sustava.
+Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činjenicu da Hrvatska ima **treću najvišu stopu rizika od siromaštva među muškim umirovljenicima i četvrtu među ženama u Europskoj uniji** (Grafikon 1). Udio osoba u dobi od 65 i više godina u riziku od siromaštva u 2024. iznosio je 32,7% za muškarce i 40,1% za žene, što je znatno iznad prosjeka EU-a (16,5% za muškarce i 22,5% za žene). Promotri li se duža vremenska serija (2013. - 2024.), može se primijetiti kako se posljednje dvije godine rizik od siromaštva u Hrvatskoj povećao za oba spola, dok se na razini EU-a u prosjeku bilježi suprotan trend (Grafikon 2). Time se dodatno produbljuje jaz u prikladnosti mirovina između Hrvatske i ostatka EU-a. Ovi pokazatelji ukazuju na to da izazovi adekvatnosti mirovina i rizika od siromaštva već sada zahtijevaju pažnju, neovisno o dugoročnim demografskim pritiscima koji će dodatno pojačati opterećenje mirovinskog sustava.
 
 <p style="font-size:1.05em; font-weight:600; margin:18px 0 6px 0;">
-  Grafikon 1. <span style="font-weight:400;">Osobe u dobi od 65 i više godina u riziku od siromaštva u državama EU-a prema spolu, 2023.</span>
+  Grafikon 1. <span style="font-weight:400;">Osobe u dobi od 65 i više godina u riziku od siromaštva u državama EU-a prema spolu, 2024.</span>
 </p>
 <div id="chart-grafikon-1" style="width:100%;max-width:1100px;height:380px;margin:12px 0 0 0;"></div>
 <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
@@ -38,11 +38,11 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
   const data = {
     categories: ["EE","LV","LT","HR","MT","CY","BG","SI","DE","ES","AT","HU","PT","CZ","PL","IT","RO","IE","FI","SE","BE","FR","NL","DK","LU","SK"],
     series: [
-      {"name":"žene","type":"bar","data":[52.5,44.8,43.2,38.8,30.2,28.3,25.2,22.5,20.6,20.3,20.0,19.3,19.3,19.0,18.9,18.6,18.5,18.3,16.9,16.5,16.2,13.5,12.9,12.1,11.5,11.0],"itemStyle":{"color":"#8B1C1C"}},
-      {"name":"muškarci","type":"bar","data":[36.2,30.4,23.0,29.3,27.7,25.4,17.7,15.1,15.7,15.8,13.2,12.5,14.1,8.0,13.0,14.7,11.0,15.0,9.3,11.0,15.1,10.9,12.4,9.9,9.5,7.6],"itemStyle":{"color":"#BFBFBF"}}
+      {"name":"žene","type":"bar","barGap":"0%","barCategoryGap":"35%","data":[46.3,45.4,41.9,40.1,32.6,33.7,28.7,25.8,21.4,18.9,19.4,18.8,23.4,11.0,17.7,19.7,19.0,23.2,15.4,11.3,12.6,13.4,12.7,12.2,9.1,10.0],"itemStyle":{"color":"#ad1a1aff"}},
+      {"name":"muškarci","type":"bar","barGap":"0%","barCategoryGap":"35%","data":[26.8,33.2,27.5,32.7,26.6,28.2,20.7,18.4,17.0,14.4,12.4,11.9,18.1,4.5,11.5,14.9,12.6,17.5,7.9,10.4,11.9,11.0,12.1,9.8,9.6,7.2],"itemStyle":{"color":"#bfbfbfff"}}
     ],
-    female_mean: 22.6,
-    male_mean: 16.3
+    female_mean: 22.5,
+    male_mean: 16.5
   };
 
   const chart = echarts.init(el);
@@ -139,7 +139,7 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
 })();
 </script>
 
-<p style="font-size:0.95em;margin-top:-8px;">Izvor: Eurostat (ilc_pnp1)</p>
+<p style="font-size:0.85em;margin-top:-8px;">Izvor: Eurostat (ilc_pnp1)</p>
 
 
 
@@ -224,23 +224,20 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
   });
 })();
 </script>
-<p style="font-size:0.95em;margin-top:-8px;">Napomena: Pokazatelj „rizika od siromaštva“ odnosi se na osobe u dobi od 65 i više godina, neovisno o njihovu mirovinskom statusu. Mjeri udio osoba čiji je ekvivalentni raspoloživi dohodak manji od 60% nacionalnog medijana ekvivalentnog raspoloživog dohotka nakon socijalnih transfera, te time prikazuje relativni rizik od siromaštva u odnosu na prosječne dohodovne razine u pojedinoj zemlji.</p>
-<p style="font-size:0.95em;margin-top:-12px;">Izvor: Eurostat (ilc_pnp1)</p>
+<p style="font-size:0.85em;margin-top:-8px;">Napomena: Pokazatelj „rizika od siromaštva“ odnosi se na osobe u dobi od 65 i više godina, neovisno o njihovu mirovinskom statusu. Mjeri udio osoba čiji je ekvivalentni raspoloživi dohodak manji od 60% nacionalnog medijana ekvivalentnog raspoloživog dohotka nakon socijalnih transfera, te time prikazuje relativni rizik od siromaštva u odnosu na prosječne dohodovne razine u pojedinoj zemlji.</p>
+<p style="font-size:0.85em;margin-top:-12px;">Izvor: Eurostat (ilc_pnp1)</p>
 
 ## Kako postići fiskalnu održivost i smanjiti rizik od siromaštva u starijoj dobi
 
 Zemlje se u suočavanju s demografskim pritiscima najčešće oslanjaju na prilagodbu formule usklađivanja mirovina, koja određuje u kojoj se mjeri mirovine povećavaju u skladu s rastom plaća i inflacije:
 
-<p class="formula" style="font-family:'Times New Roman', serif; font-size:1.05em; margin: 10px 0;">
-  ΔP = α · ΔW + (1 − α) · ΔCPI   (1)
-</p>
-
-gdje su:  
-ΔP – stopa rasta mirovina (postotna promjena mirovina)  
-ΔW – stopa rasta prosječne bruto plaće  
-ΔCPI – stopa promjene indeksa potrošačkih cijena (inflacija)  
-α – ponder koji određuje udio rasta plaća u formuli usklađivanja
-
+<details style="border:1px solid #d8dee9; border-radius:10px; padding:14px 18px; margin:18px 0;">
+  <summary style="font-weight:700; cursor:pointer;">Formula usklađivanja mirovina</summary>
+  <div style="margin-top:10px;">
+    <p class="formula" style="font-family:'Times New Roman', serif; font-size:1.05em; margin:10px 0;">P = Δ · W + (1 – Δ) · CPI</p>
+    <p style="margin:0;"><strong>P</strong> – stopa rasta mirovina (postotna promjena mirovina)<br><strong>W</strong> – stopa rasta prosječne bruto plaće<br><strong>CPI</strong> – stopa promjene indeksa potrošačkih cijena (inflacija)<br><strong>Δ</strong> – ponder koji određuje udio rasta plaća u formuli usklađivanja</p>
+  </div>
+</details>
 Međutim, univerzalna povećanja mirovina znatno bi povećala trajni proračunski teret te dugoročno smanjila fiskalni prostor. Prema procjenama Europske komisije, scenarij usklađivanja usmjeren na očuvanje omjera mirovine i plaće povećao bi javni dug mirovinskog sustava za dodatnih 0,9% BDP-a do 2070. godine, čime bi se povećala osjetljivost javnih financija na buduće šokove. Isto tako, univerzalno povećanje mirovina ne uzima u obzir razlike među umirovljenicima. Iako bi snažnija indeksacija mogla ublažiti rizik od siromaštva u starijoj dobi, njezini bi učinci bili neravnomjerno raspodijeljeni među umirovljenicima, budući da bi korist ostvarile i skupine s iznadprosječnim primanjima. Naime, dio starijih osoba ostvaruje prihode iz financijske imovine, nekretnina ili turističkog najma, što pridonosi većoj neujednačenosti dohodaka unutar populacije starije dobi. Stoga bi univerzalno povećanje plaća mirovina više pogodovalo visokoprimateljima. U tom smislu, uvođenje imovinskog ili dohodovnog cenzusa moglo bi omogućiti pravednije ciljanje mjera i učinkovitije korištenje javnih sredstava.
 
 ## Dohodovni/imovinski cenzus i ciljano usmjeravanje mirovinskih potpora
@@ -284,11 +281,20 @@ Stoga, kako bi se očuvala fiskalna održivost i osigurala socijalna pravednost,
 
 ### Privatni fondovi i ponašanje radnika
 
-U zemljama s razvijenim obveznim privatnim mirovinskim sustavima, poput drugog stupa utemeljenog na individualnoj štednji, radnici u većoj mjeri prate pravila tih fondova, jer im upravo ta štednja određuje visinu buduće mirovine. Ti fondovi često nagrađuju dulji radni vijek, primjerice većim akumuliranim kapitalom ili dodatnim doprinosima ako se dulje radi. Zbog toga se ponašanje radnika u tim zemljama manje mijenja kada država poveća zakonsku (punu) dob za umirovljenje. Oni odluke donose prema pravilima fonda, pa državna reforma ima slabiji učinak na njihovo ponašanje. Empirijski, [Morgavi (2025.)](https://www.pse-journal.hr/upload/files/pse/2025/3/morgavi.pdf) pokazuje da u zemljama s razvijenim privatnim fondovima povećanje javne dobi za jednu godinu dovodi do otprilike 1,3 postotna boda više zaposlenih starijih radnika, dok je u zemljama s dominantnim javnim sustavima učinak jači (oko 1,8 postotnih bodova). Drugim riječima, privatni fondovi preuzimaju dio utjecaja na odluke o umirovljenju, pa državne reforme u takvom okruženju imaju slabiji efekt.
+U zemljama s razvijenim obveznim privatnim mirovinskim sustavima, poput drugog stupa utemeljenog na individualnoj štednji, radnici u većoj mjeri prate pravila tih fondova, jer im upravo ta štednja određuje visinu buduće mirovine. Ti fondovi često nagrađuju dulji radni vijek, primjerice većim akumuliranim kapitalom ili dodatnim doprinosima ako se dulje radi. Zbog toga se ponašanje radnika u tim zemljama manje mijenja kada država poveća zakonsku (punu) dob za umirovljenje. Oni **odluke donose prema pravilima fonda, pa državna reforma ima slabiji učinak na njihovo ponašanje**. Empirijski, [Morgavi (2025.)](https://www.pse-journal.hr/upload/files/pse/2025/3/morgavi.pdf) pokazuje da u zemljama s razvijenim privatnim fondovima povećanje javne dobi za jednu godinu dovodi do otprilike 1,3 postotna boda više zaposlenih starijih radnika, dok je u zemljama s dominantnim javnim sustavima učinak jači (oko 1,8 postotnih bodova). Drugim riječima, privatni fondovi preuzimaju dio utjecaja na odluke o umirovljenju, pa državne reforme u takvom okruženju imaju slabiji efekt.
 
 ### Pronatalitetne i migracijske politike
 
 Ublažavanje demografskih pritisaka moguće je i kroz pronatalitetne i migracijske politike usmjerene na privlačenje radno sposobnog i kvalificiranog stanovništva. To uključuje mjere za olakšano priznavanje kvalifikacija, učenje jezika i integraciju na tržište rada.
+
+<details style="border:1px solid #d8dee9; border-radius:10px; padding:14px 18px; margin:18px 0;">
+  <summary style="font-weight:700; cursor:pointer;">Fokus: Hrvatska (pronatalitetna i migracijska politika)</summary>
+  <div style="margin-top:10px;">
+    <p>U hrvatskom se institucionalnom okviru demografska politika sve jasnije promatra kao horizontalno pitanje koje oblikuje i fiskalne i razvojne izglede zemlje. Okosnicu čini <a href="https://mdu.gov.hr/strategija-demografske-revitalizacije-republike-hrvatske-do-2033-godine/7020" target="_blank">Strategija demografske revitalizacije Republike Hrvatske do 2033. godine</a>, kojom se utvrđuje cilj stvaranja povoljnijeg okruženja za obitelji i mlade te uravnoteženje migracijskih tokova, uz naglašen naglasak na suradnju s iseljeništvom i povratne migracije (<a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2024_03_36_580.html" target="_blank">NN 36/2024</a>).</p>
+    <p>Na strani pronatalitetnih i obiteljskih mjera presudnu ulogu imaju izmjene <a href="https://mdu.gov.hr/vijesti-4693/novine-u-zakonu-o-rodiljnim-i-roditeljskim-potporama/7212" target="_blank">Zakona o rodiljnim i roditeljskim potporama</a> koje su stupile na snagu početkom ožujka 2025. godine. One značajno povećavaju naknade za roditeljski dopust, produžuju očinski dopust i podižu jednokratne naknade za rođenje djeteta, a maksimalni iznosi sve se snažnije vežu uz proračunsku osnovicu (<a href="https://narodne-novine.nn.hr/clanci/sluzbeni/2025_02_34_384.html" target="_blank">NN 34/2025</a>). Istodobno je proširen obuhvat i povećana razina doplatka za djecu, jer se pravo sada ostvaruje do dohodovnog cenzusa od 140% proračunske osnovice, uz dodatke za treće i četvrto dijete, čime se jača redistributivna i pronatalitetna uloga obiteljskih naknada (<a href="https://mdu.gov.hr/doplatak-za-djecu-5914/5914" target="_blank">MDU</a>, <a href="https://www.mirovinsko.hr/hr/dohodovni-cenzus-i-svote-doplatka-za-djecu-za-2025/272" target="_blank">HZMO</a>).</p>
+    <p>U području migracijske politike i politika usmjerenih na povratnike, Hrvatska kombinira ciljane financijske potpore i porezne poticaje. Mjera <a href="https://mdu.gov.hr/mjera-biram-hrvatsku-mjera-za-povratnike/7253" target="_blank">Biram Hrvatsku</a>, koju provode resorno ministarstvo i Hrvatski zavod za zapošljavanje, omogućuje povratnicima i osobama koje pokreću poslovanje u slabije razvijenim područjima dobivanje znatnih potpora za samozapošljavanje i relokaciju (<a href="https://mjere.hzz.hr/mjere/biram-hrvatsku-mobilnost-radne-snage-povratak-u-rh/" target="_blank">HZZ</a>). Dodatno, od početka 2025. uvedena je porezna olakšica kojom se povratnici, hrvatski iseljenici i njihovi potomci pod određenim uvjetima oslobađaju plaćanja poreza na dohodak od rada u razdoblju od pet godina, što povećava privlačnost povratka i može pridonijeti ponudi rada (<a href="https://porezna-uprava.gov.hr/hr/umanjenja-povratnicima/4818" target="_blank">Porezna uprava</a>, <a href="https://mvep.gov.hr/oslobodjenje-od-poreza-na-dohodak-na-pet-godina-nova-mjera-za-povratnike/274946" target="_blank">MVEP</a>, <a href="https://mojposao.hr/en/advice/a46eb5f9-0e42-11f0-af75-02e598dfa48d/oslobodjenje-od-poreza-na-dohodak-za-hrvatske-iseljenike-i-njihove-potomke" target="_blank">pregled olakšice</a>).</p>
+  </div>
+</details>
 
 ## Zaključak i preporuke
 
@@ -310,9 +316,8 @@ U 2023. Hrvatska je zabilježila snažan rast izdataka za mirovine od 16,1%, št
 
 Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8%, što je ispod prosjeka EU-27 (10,2%). Hrvatska tako i dalje izdvaja manji dio svojeg BDP-a za mirovine od prosjeka EU-a.
 
-**Grafikon D1.** Izdaci za mirovine u EU-27: godišnja promjena 2023./2022. (lijevo) i u % BDP-a (desno).
 
-<div id="chart-grafikon-d1" style="width:100%;max-width:1100px;height:520px;margin:24px 0;"></div>
+<div id="chart-grafikon-d1" style="width:100%;max-width:1100px;height:440px;margin:12px 0;"></div>
 <script>
 (function() {
   const el = document.getElementById('chart-grafikon-d1');
@@ -334,9 +339,16 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
     const barWidth = Math.max(4, Math.min(12, Math.floor(w / (data.yoy.geo.length * 3))));
     const gridLeftPad = w < 600 ? 46 : 64;
     const gridRightPad = w < 600 ? 10 : 24;
-    const firstWidth = w < 720 ? '46%' : '48%';
-    const secondLeft = w < 720 ? '54%' : '54%';
-    const bottomGap = w < 640 ? 120 : 90;
+    const gridTop = w < 600 ? 125 : 105;
+    const totalWidth = el.clientWidth || w;
+    const firstWidthFrac = w < 720 ? 0.46 : 0.48;
+    const secondLeftFrac = w < 720 ? 0.58 : 0.56;
+    const firstWidth = `${firstWidthFrac * 100}%`;
+    const secondLeft = `${secondLeftFrac * 100}%`;
+    const secondWidthFrac = 1 - secondLeftFrac - (gridRightPad / totalWidth);
+    const firstLeft = gridLeftPad / totalWidth;
+    const secondLeftAbs = secondLeftFrac;
+    const bottomGap = w < 640 ? 30 : 30;
     const legendBottom = w < 640 ? 6 : 12;
     const valueFmt = v => (typeof v === 'number'
       ? v.toLocaleString('hr-HR', { minimumFractionDigits: 1, maximumFractionDigits: 1 })
@@ -345,7 +357,7 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
     const hrIndexYoy = data.yoy.geo.indexOf('HR');
     const hrIndexShare = data.share.geo.indexOf('HR');
     const yoyData = data.yoy.values.map((v, idx) =>
-      idx === hrIndexYoy ? { value: v, itemStyle: { borderColor: '#111', borderWidth: 2, color: '#8B1C1C' } } : { value: v }
+      idx === hrIndexYoy ? { value: v, itemStyle: { borderColor: '#111', borderWidth: 2, color: '#ef2727ff' } } : { value: v }
     );
     const shareData = data.share.values.map((v, idx) =>
       idx === hrIndexShare ? { value: v, itemStyle: { borderColor: '#111', borderWidth: 2, color: '#BFBFBF' } } : { value: v }
@@ -363,9 +375,31 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
         }
       },
       legend: {show: false},
+      title: [
+        {
+          text: 'Grafikon D1. Izdaci za mirovine po državama članicama',
+          left: 'left',
+          top: 10,
+          textStyle: {fontSize: 16, fontWeight: 700, color: '#111'}
+        },
+        {
+          text: 'a) Godišnja stopa promjene 2023 / 2022 (%)',
+          left: `${(firstLeft * 100).toFixed(1)}%`,
+          top: w < 480 ? 52 : 48,
+          textAlign: 'left',
+          textStyle: {fontSize: 14, fontWeight: 600, color: '#111'}
+        },
+        {
+          text: 'b) Udio u BDP-u (%)',
+          left: `${(secondLeftAbs * 100).toFixed(1)}%`,
+          top: w < 480 ? 52 : 48,
+          textAlign: 'left',
+          textStyle: {fontSize: 14, fontWeight: 600, color: '#111'}
+        }
+      ],
       grid: [
-        {left: gridLeftPad, width: firstWidth, top: 20, bottom: bottomGap, containLabel: true},
-        {left: secondLeft, right: gridRightPad, top: 20, bottom: bottomGap, containLabel: true}
+        {left: gridLeftPad, width: firstWidth, top: gridTop, bottom: bottomGap, containLabel: true},
+        {left: secondLeft, right: gridRightPad, top: gridTop, bottom: bottomGap, containLabel: true}
       ],
       xAxis: [
         {
@@ -404,15 +438,15 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
         }
       ],
       yAxis: [
-        {type: 'value', name: '%', gridIndex: 0, nameGap: 22, nameLocation: 'middle', nameRotate: 90, nameTextStyle: {color: '#111', fontWeight: 700, fontSize: 12}},
-        {type: 'value', name: '% BDP-a', gridIndex: 1, nameGap: 22, nameLocation: 'middle', nameRotate: 90, nameTextStyle: {color: '#111', fontWeight: 700, fontSize: 12}}
+        {type: 'value', gridIndex: 0},
+        {type: 'value', gridIndex: 1}
       ],
       series: [
         {
-          name: 'Godišnja promjena 2023./2022.',
+          name: '',
           type: 'bar',
           data: yoyData,
-          itemStyle: {color: '#8B1C1C'},
+          itemStyle: {color: '#A62828'},
           barWidth,
           xAxisIndex: 0,
           yAxisIndex: 0,
@@ -422,7 +456,7 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
             lineStyle: {color: 'rgba(0,0,0,0.6)', width: 1.4},
             label: {
               show: true,
-              formatter: params => `EU27 ${valueFmt(params.value)}`,
+              formatter: params => `EU-27: ${valueFmt(params.value)} %`,
               position: 'insideEndTop',
               distance: 8,
               color: '#111',
@@ -436,7 +470,7 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
           }
         },
         {
-          name: 'Izdaci za mirovine u % BDP-a (2023)',
+          name: '',
           type: 'bar',
           data: shareData,
           itemStyle: {color: '#BFBFBF'},
@@ -449,7 +483,7 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
             lineStyle: {color: 'rgba(0,0,0,0.6)', width: 1.4, type: 'dashed'},
             label: {
               show: true,
-              formatter: params => `EU27 ${valueFmt(params.value)}`,
+              formatter: params => `EU-27: ${valueFmt(params.value)} %`,
               position: 'insideEndTop',
               distance: 8,
               color: '#111',
@@ -473,13 +507,14 @@ Unatoč iznadprosječnom rastu, udio mirovinskih izdataka u BDP-u iznosio je 8,8
   });
 })();
 </script>
-<p style="font-size:0.95em;margin-top:-12px;margin-bottom:6px;">Izvor: Eurostat (spr_exp_pens)</p>
+<p style="font-size:0.85em;margin-top:-12px;">Napomena: 2023. je posljednji dostupni podatak.<br>
+Izvor: Eurostat (spr_exp_pens)</p>
+
 
 U 2023. zabilježeno je znatno ubrzanje rasta ukupnih izdataka za mirovine, za 16,1% u odnosu na prethodnu godinu, što predstavlja najvišu stopu rasta u promatranom razdoblju. Takvo kretanje prvenstveno je rezultat snažnog povećanja rashoda za ostale mirovine i naknade, a potom i rasta izdataka za starosne te obiteljske mirovine.
 
 U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa obiteljskih mirovina ukupnom rastu rashoda, što je izravno povezano s uvođenjem novog modela isplate dijela obiteljske mirovine. Omogućavanje kombiniranja osobne i dijela obiteljske mirovine, uz povećanje obiteljskih mirovina za 10%, dovelo je do strukturnog pomaka u visini prosječnih isplata, što se već u prvoj godini primjene odrazilo kroz jednokratni skok rashoda ([HZMO](https://www.mirovinsko.hr/hr/novi-model-obiteljskih-mirovina-od-1-sijecnja-2023-pravo-na-isplatu-dijela-obiteljske-mirovine/2657)).
 
-**Grafikon D2.** Doprinosi godišnjoj stopi promjene izdataka za mirovine u Hrvatskoj (lijevo) i EU-27 (desno).
 
 <div id="chart-grafikon-d2" style="width:100%;max-width:1100px;height:520px;margin:24px 0;"></div>
 <script>
@@ -487,31 +522,31 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
   const el = document.getElementById('chart-grafikon-d2');
   if (!el) return;
   const colors = {
-    "Starosne mirovine": "#8B1C1C",
-    "Prijevremene starosne mirovine": "#7F7F7F",
-    "Invalidske mirovine": "#1F4E79",
-    "Obiteljske mirovine": "#2E75B6",
-    "Ostale mirovine i naknade": "#C9C9C9"
+  "Starosne": "#CC4F3F",
+  "Prijevremene starosne": "#E06F5A",
+  "Invalidske": "#3B6AA8",
+  "Obiteljske": "#5B8BC5",
+  "Ostale": "#D6D6D6"
   };
   const hr = {
     years: ["2014.","2015.","2016.","2017.","2018.","2019.","2020.","2021.","2022.","2023."],
     series: {
-      "Starosne mirovine": [0.31,-0.20,1.33,0.98,1.57,1.53,0.86,0.96,1.89,4.08],
-      "Prijevremene starosne mirovine": [0.50,0.63,0.36,0.48,0.59,0.60,0.26,0.36,0.60,1.27],
-      "Invalidske mirovine": [-0.65,0.03,-0.75,0.08,-0.04,-0.20,-0.36,-0.26,-0.03,0.62],
-      "Obiteljske mirovine": [-0.17,-0.11,0.03,0.13,0.31,0.19,-0.01,0.09,0.37,2.07],
-      "Ostale mirovine i naknade": [-0.01,0.35,0.97,1.67,2.43,2.13,0.75,1.15,2.83,8.05]
+      "Starosne": [0.31,-0.20,1.33,0.98,1.57,1.53,0.86,0.96,1.89,4.08],
+      "Prijevremene starosne": [0.50,0.63,0.36,0.48,0.59,0.60,0.26,0.36,0.60,1.27],
+      "Invalidske": [-0.65,0.03,-0.75,0.08,-0.04,-0.20,-0.36,-0.26,-0.03,0.62],
+      "Obiteljske": [-0.17,-0.11,0.03,0.13,0.31,0.19,-0.01,0.09,0.37,2.07],
+      "Ostale": [-0.01,0.35,0.97,1.67,2.43,2.13,0.75,1.15,2.83,8.05]
     },
     total: [-0.02,0.70,1.93,3.34,4.86,4.25,1.49,2.31,5.66,16.09]
   };
   const eu = {
     years: ["2014.","2015.","2016.","2017.","2018.","2019.","2020.","2021.","2022.","2023."],
     series: {
-      "Starosne mirovine": [1.27,1.34,0.96,1.22,1.27,1.15,1.49,1.24,1.95,3.07],
-      "Prijevremene starosne mirovine": [-0.23,-0.15,-0.11,-0.11,0.00,0.37,0.00,-0.01,-0.02,0.01],
-      "Invalidske mirovine": [0.00,-0.00,0.06,0.05,0.04,0.08,0.06,0.06,0.11,0.24],
-      "Obiteljske mirovine": [0.06,0.07,0.04,0.08,0.09,0.16,0.07,0.08,0.19,0.36],
-      "Ostale mirovine i naknade": [1.15,1.30,1.01,1.32,1.45,1.83,1.68,1.44,2.30,3.80]
+      "Starosne": [1.27,1.34,0.96,1.22,1.27,1.15,1.49,1.24,1.95,3.07],
+      "Prijevremene starosne": [-0.23,-0.15,-0.11,-0.11,0.00,0.37,0.00,-0.01,-0.02,0.01],
+      "Invalidske": [0.00,-0.00,0.06,0.05,0.04,0.08,0.06,0.06,0.11,0.24],
+      "Obiteljske": [0.06,0.07,0.04,0.08,0.09,0.16,0.07,0.08,0.19,0.36],
+      "Ostale": [1.15,1.30,1.01,1.32,1.45,1.83,1.68,1.44,2.30,3.80]
     },
     total: [2.25,2.55,1.96,2.56,2.85,3.59,3.31,2.82,4.53,7.49]
   };
@@ -527,7 +562,7 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
       yAxisIndex: gridIdx
     }));
     const line = {
-      name: "Ukupna stopa promjene",
+      name: "Ukupno",
       type: "line",
       data: data.total,
       yAxisIndex: gridIdx,
@@ -545,19 +580,52 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
     const barWidth = Math.max(8, Math.min(14, Math.floor(w / 40)));
     const gridLeft = w < 600 ? 50 : 70;
     const gridRight = w < 600 ? 10 : 30;
-    const gridSplit = w < 720 ? "50%" : "52%";
-    const bottomGap = w < 640 ? 110 : 90;
+    const gridSplitFrac = w < 720 ? 0.50 : 0.52;
+    const gridSplit = `${gridSplitFrac * 100}%`;
+    const gridTop = w < 600 ? 110 : 90;
+    const bottomGap = w < 640 ? 80 : 70;
     const valueFmt = v => (typeof v === "number" ? v.toLocaleString("hr-HR", { minimumFractionDigits: 1, maximumFractionDigits: 1 }) : v);
 
+    const firstTitleLeft = (gridLeft / w) * 100;
+    const secondTitleLeft = gridSplitFrac * 100;
+
     chart.setOption({
+      title: [
+        {
+          text: "Grafikon D2. Doprinosi godišnjoj stopi promjene izdataka za mirovine (2023.)",
+          left: "left",
+          top: 10,
+          textStyle: { fontSize: 16, fontWeight: 700, color: "#111" }
+        },
+        {
+          text: "a) Hrvatska",
+          left: `${firstTitleLeft.toFixed(1)}%`,
+          top: w < 480 ? 52 : 48,
+          textAlign: "left",
+          textStyle: { fontSize: 14, fontWeight: 600, color: "#111" }
+        },
+        {
+          text: "b) Europska Unija",
+          left: `${secondTitleLeft.toFixed(1)}%`,
+          top: w < 480 ? 52 : 48,
+          textAlign: "left",
+          textStyle: { fontSize: 14, fontWeight: 600, color: "#111" }
+        }
+      ],
       tooltip: {
         trigger: "axis",
         valueFormatter: valueFmt
       },
-      legend: { bottom: 10, data: [...Object.keys(colors), "Ukupna stopa promjene"] },
+      legend: {
+        bottom: 0,
+        data: [...Object.keys(colors), "Ukupno"],
+        textStyle: { fontSize: 14, color: "#111" },
+        itemWidth: 18,
+        itemHeight: 12
+      },
       grid: [
-        { left: gridLeft, right: gridSplit, top: 20, bottom: bottomGap, containLabel: true },
-        { left: gridSplit, right: gridRight, top: 20, bottom: bottomGap, containLabel: true }
+        { left: gridLeft, right: gridSplit, top: gridTop, bottom: bottomGap, containLabel: true },
+        { left: gridSplit, right: gridRight, top: gridTop, bottom: bottomGap, containLabel: true }
       ],
       xAxis: [
         { type: "category", data: hr.years, axisLabel: { interval: 0, rotate, fontSize: 11 }, gridIndex: 0 },
@@ -580,7 +648,4 @@ U odnosu na prethodna razdoblja, u 2023. godini vidljivo je povećanje doprinosa
   });
 })();
 </script>
-<p style="font-size:0.95em;margin-top:-12px;">Izvor: Eurostat (spr_exp_pens)</p>
-
-
-
+<p style="font-size:0.85em;margin-top:-12px;">Izvor: Eurostat (spr_exp_pens)</p>

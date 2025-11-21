@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Početna
+title: Leonarda Srdelić - Personal Webpage
 lang: hr
 permalink: /hr/
 description: Dobrodošli na moju početnu stranicu!
