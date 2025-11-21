@@ -227,7 +227,7 @@ Naime, potreba za prilagodbom politika već je sada izražena, osobito uz činje
 <p style="font-size:0.85em;margin-top:-8px;">Napomena: Pokazatelj „rizika od siromaštva“ odnosi se na osobe u dobi od 65 i više godina, neovisno o njihovu mirovinskom statusu. Mjeri udio osoba čiji je ekvivalentni raspoloživi dohodak manji od 60% nacionalnog medijana ekvivalentnog raspoloživog dohotka nakon socijalnih transfera, te time prikazuje relativni rizik od siromaštva u odnosu na prosječne dohodovne razine u pojedinoj zemlji.</p>
 <p style="font-size:0.85em;margin-top:-12px;">Izvor: Eurostat (ilc_pnp1)</p>
 
-## Kako postići fiskalnu održivost i smanjiti rizik od siromaštva u starijoj dobi
+## Kako postići fiskalnu održivost i smanjiti rizik od siromaštva u starijoj dobi?
 
 Zemlje se u suočavanju s demografskim pritiscima najčešće oslanjaju na prilagodbu formule usklađivanja mirovina, koja određuje u kojoj se mjeri mirovine povećavaju u skladu s rastom plaća i inflacije:
 
@@ -240,7 +240,7 @@ Zemlje se u suočavanju s demografskim pritiscima najčešće oslanjaju na prila
 </details>
 Međutim, univerzalna povećanja mirovina znatno bi povećala trajni proračunski teret te dugoročno smanjila fiskalni prostor. Prema procjenama Europske komisije, scenarij usklađivanja usmjeren na očuvanje omjera mirovine i plaće povećao bi javni dug mirovinskog sustava za dodatnih 0,9% BDP-a do 2070. godine, čime bi se povećala osjetljivost javnih financija na buduće šokove. Isto tako, univerzalno povećanje mirovina ne uzima u obzir razlike među umirovljenicima. Iako bi snažnija indeksacija mogla ublažiti rizik od siromaštva u starijoj dobi, njezini bi učinci bili neravnomjerno raspodijeljeni među umirovljenicima, budući da bi korist ostvarile i skupine s iznadprosječnim primanjima. Naime, dio starijih osoba ostvaruje prihode iz financijske imovine, nekretnina ili turističkog najma, što pridonosi većoj neujednačenosti dohodaka unutar populacije starije dobi. Stoga bi univerzalno povećanje plaća mirovina više pogodovalo visokoprimateljima. U tom smislu, uvođenje imovinskog ili dohodovnog cenzusa moglo bi omogućiti pravednije ciljanje mjera i učinkovitije korištenje javnih sredstava.
 
-## Dohodovni/imovinski cenzus i ciljano usmjeravanje mirovinskih potpora
+### Dohodovni/imovinski cenzus i ciljano usmjeravanje mirovinskih potpora
 
 Ciljano usmjeravanje mirovinskih potpora prema dohotku ili imovini može povećati učinkovitost sustava i ograničiti rast rashoda, uz istodobno jaču zaštitu najugroženijih skupina. [U većini država članica Europske unije](https://www.europarl.europa.eu/RegData/etudes/BRIE/2023/753953/EPRS_BRI%282023%29753953_EN.pdf) postoje mehanizmi minimalnih mirovina ili doplataka koji se isplaćuju na temelju dohodovnog ili imovinskog cenzusa.
 
@@ -248,7 +248,7 @@ Ciljano usmjeravanje mirovinskih potpora prema dohotku ili imovini može poveća
 
 Istodobno, za dugoročnu održivost sustava nužno je da svako povećanje mirovina bude praćeno mjerama koje jačaju fiskalnu otpornost, poput postupnog produljenja radnog vijeka, ograničavanja prijevremenog umirovljenja i poticanja duljeg ostanka na tržištu rada kroz fleksibilnije oblike zapošljavanja, primjerice rad uz djelomičnu mirovinu. Bez provedbe takvih reformi, rast mirovinskih izdataka mogao bi dugoročno ugroziti stabilnost javnih financija (Vidi preporuke [Europske komisije](https://economy-finance.ec.europa.eu/document/download/15851ac1-873c-4121-a30c-63e5c7d600b0_en?filename=2024-ageing-report-country-fiche-Croatia.pdf#:~:text=d,the%20projected%20wage%20growth%20rate), [Međunarodnog monetarnog fonda](https://www.imf.org/en/news/articles/2025/11/03/cs-republic-of-croatia-staff-concluding-statement-of-the-2025-article-iv-mission) i [Svjetske banke](https://www.worldbank.org/en/country/croatia/brief/analysis-and-proposals-for-improvement-of-long-run-adequacy-and-sustainability-of-croatian-pension-system#:~:text=would%20help%20to%20reverse%20the%20trend%20of%20the%20eroding%20pension%20adequacy%2C%20support%20fiscal%20sustainability%20of%20the%20pension%20system%20and%20ensure%20intergenerational%20sustainability.%C2%A0).)
 
-## Empirijska potpora institucionalnim preporukama
+### Empirijska potpora institucionalnim preporukama
 
 Preporuke međunarodnih institucija o potrebi usklađivanja mjera za fiskalnu održivost i socijalnu primjerenost mirovinskih sustava podupiru i nalazi nedavnih istraživanja. [Morgavi (2025)](https://www.pse-journal.hr/upload/files/pse/2025/3/morgavi.pdf) u svojem istraživanju naglašava važnost procjene njihovih učinaka na tržište rada primjenom modela koji uzima u obzir nacionalne posebnosti kao što su demografska obilježja, mirovinska struktura i postojeće oblike ranijeg izlaska iz radne snage.
 
@@ -302,9 +302,9 @@ Određena prilagodba politika bit će neizbježna. Povećanje mirovina može kra
 
 Očuvanje fiskalne održivosti uz istodobno osiguravanje primjerene razine mirovina zahtijeva kombinaciju strukturnih mjera koje istodobno adresiraju demografske, fiskalne i socijalne izazove:
 
-- Automatsko prilagođavanje dobi za umirovljenje demografskim trendovima. Povezivanje zakonske dobi za mirovinu s očekivanim trajanjem života omogućilo bi dugoročno uravnoteženje rashoda i prihoda sustava bez čestih političkih intervencija te povećalo predvidivost fiskalnog okvira.[^auto-age] Istodobno, usklađivanje mirovina prema kombinaciji rasta plaća i inflacije pridonijelo bi očuvanju njihove realne vrijednosti uz kontroliran rast udjela u BDP-u. Takav bi pristup osigurao održivost sustava i predvidljiv fiskalni okvir.
-- Ciljano usmjeravanje potpora prema dohotku ili imovini. Uvođenje ili jačanje minimalnih doplataka uz dohodovni cenzus može bolje zaštititi najugroženije skupine umirovljenika, uz ograničen fiskalni učinak i manji pritisak na proračun.
-- Diverzifikacija izvora financiranja. Širenje/preusmjeravanje poreznih osnovica i/ili uvođenje dodatnih doprinosa, poput onih za dugotrajnu skrb, moglo bi ojačati prihodnu stranu sustava i smanjiti oslanjanje na proračunske transfere.
+- **Automatsko prilagođavanje dobi za umirovljenje demografskim trendovima.** Povezivanje zakonske dobi za mirovinu s očekivanim trajanjem života omogućilo bi dugoročno uravnoteženje rashoda i prihoda sustava bez čestih političkih intervencija te povećalo predvidivost fiskalnog okvira.[^auto-age] Istodobno, usklađivanje mirovina prema kombinaciji rasta plaća i inflacije pridonijelo bi očuvanju njihove realne vrijednosti uz kontroliran rast udjela u BDP-u. Takav bi pristup osigurao održivost sustava i predvidljiv fiskalni okvir.
+- **Ciljano usmjeravanje potpora prema dohotku ili imovini**. Uvođenje ili jačanje minimalnih doplataka uz dohodovni cenzus može bolje zaštititi najugroženije skupine umirovljenika, uz ograničen fiskalni učinak i manji pritisak na proračun.
+- **Diverzifikacija izvora financiranja.** Širenje/preusmjeravanje poreznih osnovica i/ili uvođenje dodatnih doprinosa, poput onih za dugotrajnu skrb, moglo bi ojačati prihodnu stranu sustava i smanjiti oslanjanje na proračunske transfere.
 
 Iako su navedene mjere politički i društveno osjetljive, neka kombinacija će biti nužna za očuvanje dugoročne fiskalne održivosti i jačanje otpornosti mirovinskog sustava, uz istodobno smanjenje rizika od siromaštva u starijoj dobi.
 
