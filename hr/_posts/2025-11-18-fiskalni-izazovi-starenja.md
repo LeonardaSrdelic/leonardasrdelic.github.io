@@ -13,6 +13,14 @@ author:
 
 Demografski pokazatelji ukazuju na ubrzano starenje stanovništva u desetljećima pred nama, što će postupno oblikovati ekonomske i fiskalne izglede Hrvatske. Očekuje se da će se nakon 2040. godine intenzivirati pritisci vezani uz starenje, kada u mirovinu počnu ulaziti brojne poslijeratne kohorte te baby boom generacije 1980-ih, dok će zbog dugotrajno niskog nataliteta baza mlađih radnika nastaviti slabiti. Posljedično će se dodatno pogoršavati odnos radno sposobnog stanovništva i broja umirovljenika (old age dependency ratio), čime raste opterećenje mirovinskog, zdravstvenog sustava i sustava dugotrajne skrbi.
 
+<div class="media-mention-box" aria-label="Preneseno u medijima">
+  <div class="media-mention-eyebrow">Preneseno u medijima</div>
+  <a class="media-mention-link" href="https://lidermedia.hr/biznis-i-politika/u-mirovinskoj-reformi-treba-razmisliti-o-talijanskom-modelu-duzeg-rada/" target="_blank" rel="noopener noreferrer">
+    Lider: U mirovinskoj reformi treba razmisliti o talijanskom modelu dužeg rada
+  </a>
+  <p class="media-mention-note">Tekst je prenesen u Lideru u kontekstu rasprave o reformi mirovinskog sustava.</p>
+</div>
+
 [Projekcije Europske komisije](https://economy-finance.ec.europa.eu/publications/2021-ageing-report-economic-and-budgetary-projections-eu-member-states-2019-2070_en) izrađene u osnovnom (referentnom) i rizičnom (alternativnom) scenariju, podupiru ova očekivanja. Prema osnovnom scenariju, udio osoba starijih od 65 godina (umirovljenici) u odnosu na populaciju dobi 20–64 godina (radno spodsobno stanivništvo) mogao bi se u Hrvatskoj povisiti s oko 34,8% u 2019. na 64,6% do 2070., dok se na razini Europske unije predviđa rast s 34,4% na oko 59,2%. Time bi Hrvatska postala jedna od demografski najstarijih članica EU. Takva demografska kretanja, uz rastuću opterećenost mirovinskog sustava, zdravstva i dugotrajne skrbi, mogu dugoročno ograničiti raspoloživu radnu snagu, ukupnu produktivnost i potencijalni gospodarski rast ([Srdelić i Davila-Fernandez 2025.](https://academic.oup.com/cje/article/49/4/755/8160795)).
 
 U **osnovnom se scenariju** predviđa da će ukupni javni rashodi povezani sa starenjem stanovništva na razini Europske unije porasti s približno 24% BDP-a u 2019. na 25,9% BDP-a do 2070., dok bi se u Hrvatskoj zadržali oko 21% BDP-a. Unatoč tome što se u osnovnom scenariju očekuje osjetno brže starenje stanovništva Hrvatske u odnosu na prosjek EU, udio rashoda povezanih sa starenjem ostaje stabilan oko 21% BDP-a. Takav ishod proizlazi iz pretpostavki o postupnom smanjenju relativne vrijednosti mirovina, umjerenom rastu zdravstvenih izdataka te ograničenom razvoju sustava dugotrajne skrbi. Istodobno, pad broja djece pridonosi nižim rashodima za obrazovanje. U konačnici, strukturne postavke modela ublažavaju demografske pritiske, pa ukupni rashodi ostaju stabilni unatoč izraženom starenju stanovništva.
