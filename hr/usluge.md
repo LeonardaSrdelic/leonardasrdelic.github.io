@@ -19,15 +19,60 @@ Nudim stručnu podršku i mentoriranje pri pisanju diplomskih i doktorskih radov
 - Priprema materijala za obranu (prezentacije, sažeci, tablice)  
 - Kontinuirana e-mail i Zoom komunikacija  
 
-## 💡 Paket usluga i orijentacijske cijene
+## 💡 Paket usluga
 
-| Usluga | Opis | Cijena |
-|--------|------|--------|
-| **Mentoriranje pri pisanju diplomskog rada** | Savjetovanje kroz 3–5 susreta, pomoć pri metodologiji, podrška u pisanju i tehnička dorada | Po dogovoru |
-| **Mentoriranje pri pisanju doktorskog rada** | Višefazna suradnja – strukturiranje rada, analiza podataka, uređivanje i priprema za obranu | Po dogovoru |
-| **Mentorski paket (1 mjesec)** | Kontinuirana podrška putem e-maila i Zooma, komentari i pregled verzija rada | Po dogovoru |
+<style>
+  .services-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 0 1.5rem 0;
+  }
+  .services-table th,
+  .services-table td {
+    padding: 0.6rem 0.4rem;
+    text-align: left;
+    vertical-align: top;
+  }
+  .services-table th {
+    font-weight: 700;
+  }
+  .services-table td.price {
+    white-space: nowrap;
+    text-align: right;
+  }
+  .services-table tr + tr {
+    border-top: 1px solid #ddd;
+  }
+</style>
 
-*Cijena se dogovara prema složenosti rada, opsegu podataka i dogovorenom opsegu suradnje. Svaki projekt je individualan.*
+<table class="services-table">
+  <thead>
+    <tr>
+      <th>Usluga</th>
+      <th>Opis</th>
+      <th class="price">Cijena</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Mentoriranje pri pisanju diplomskog rada</strong></td>
+      <td>Savjetovanje kroz 3–5 susreta, pomoć pri metodologiji, podrška u pisanju i tehnička dorada</td>
+      <td class="price">Po dogovoru</td>
+    </tr>
+    <tr>
+      <td><strong>Mentoriranje pri pisanju doktorskog rada</strong></td>
+      <td>Višefazna suradnja – strukturiranje rada, analiza podataka, uređivanje i priprema za obranu</td>
+      <td class="price">Po dogovoru</td>
+    </tr>
+    <tr>
+      <td><strong>Mentorski paket (1 mjesec)</strong></td>
+      <td>Kontinuirana podrška putem e-maila i Zooma, komentari i pregled verzija rada</td>
+      <td class="price">Po dogovoru</td>
+    </tr>
+  </tbody>
+</table>
+
+<em>Cijena se dogovara prema složenosti rada, opsegu podataka i dogovorenom opsegu suradnje. Svaki projekt je individualan.</em>
 
 ## 🗂️ Kako surađujemo
 
