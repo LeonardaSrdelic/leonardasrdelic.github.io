@@ -23,11 +23,11 @@ Nudim stručnu podršku i mentoriranje pri pisanju diplomskih i doktorskih radov
 
 | Usluga | Opis | Cijena |
 |--------|------|--------|
-| **Mentoriranje pri pisanju diplomskog rada** | Savjetovanje kroz 3–5 susreta, pomoć pri metodologiji, podrška u pisanju i tehnička dorada | od 500 € |
-| **Mentoriranje pri pisanju doktorskog rada** | Višefazna suradnja – strukturiranje rada, analiza podataka, uređivanje i priprema za obranu | od 3.000 € |
-| **Mentorski paket (1 mjesec)** | Kontinuirana podrška putem e-maila i Zooma, komentari i pregled verzija rada | 800–1.200 € |
+| **Mentoriranje pri pisanju diplomskog rada** | Savjetovanje kroz 3–5 susreta, pomoć pri metodologiji, podrška u pisanju i tehnička dorada | Po dogovoru |
+| **Mentoriranje pri pisanju doktorskog rada** | Višefazna suradnja – strukturiranje rada, analiza podataka, uređivanje i priprema za obranu | Po dogovoru |
+| **Mentorski paket (1 mjesec)** | Kontinuirana podrška putem e-maila i Zooma, komentari i pregled verzija rada | Po dogovoru |
 
-*Cijene ovise o složenosti rada, opsegu podataka i dogovorenom opsegu suradnje. Svaki projekt je individualan.*
+*Cijena se dogovara prema složenosti rada, opsegu podataka i dogovorenom opsegu suradnje. Svaki projekt je individualan.*
 
 ## 🗂️ Kako surađujemo
 
