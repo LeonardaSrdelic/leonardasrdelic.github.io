@@ -21,7 +21,7 @@ permalink: /hr/blog/
         <div class="blog-list-text">
           <a href="{{ post.url | relative_url }}" class="blog-list-title">{{ post.title }}</a>
           <div class="blog-list-date">
-            {{ post.date | date: "%d.%m.%Y." }} • 
+            {{ post.date | date: "%d.%m.%Y." }} •
             {% assign words = post.content | number_of_words %}
             {% assign minutes = words | divided_by: 220 | plus: 1 %}
             {{ minutes }} min čitanja
@@ -42,7 +42,6 @@ permalink: /hr/blog/
               {% endif %}
             </span>
           </div>
-          <!-- MINI PREVIEW TEKSTA -->
           <div class="blog-list-excerpt">
             {% if post.description %}
               {{ post.description }}
@@ -50,11 +49,9 @@ permalink: /hr/blog/
               {{ post.excerpt | strip_html | truncate: 150 }}
             {% endif %}
           </div>
-          <!-- GUMB PROČITAJ VIŠE -->
           <div style="margin-top: 8px;">
             <a href="{{ post.url | relative_url }}" class="blog-list-readmore">Pročitaj više →</a>
           </div>
-          <!-- TAGOVI -->
           {% if post.tags %}
             <div class="blog-list-tags" style="margin-top: 6px;">
               {% for tag in post.tags %}
@@ -68,4 +65,69 @@ permalink: /hr/blog/
       </div>
     {% endif %}
   {% endfor %}
+
+  <!-- Ručno dodani PDF/vanjski sadržaji -->
+  <div class="blog-list-item">
+    <div class="blog-list-thumb">
+      <a href="https://repozitorij.ijf.hr/articles/ijf:1154/show-file/0" target="_blank" rel="noopener">
+        <img src="/assets/blog/subvencije.png" alt="Subvencije cijena energenata">
+      </a>
+    </div>
+    <div class="blog-list-text">
+      <a href="https://repozitorij.ijf.hr/articles/ijf:1154/show-file/0" target="_blank" rel="noopener" class="blog-list-title">Subvencije cijena energenata</a>
+      <div class="blog-list-date">PDF • Otvara se vanjski link</div>
+      <div class="blog-list-excerpt">Analiza subvencija cijena energenata i njihov utjecaj na tranziciju.</div>
+      <div style="margin-top: 8px;">
+        <a href="https://repozitorij.ijf.hr/articles/ijf:1154/show-file/0" target="_blank" rel="noopener" class="blog-list-readmore">Otvori PDF →</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="blog-list-item">
+    <div class="blog-list-thumb">
+      <a href="https://hrcak.srce.hr/file/465846" target="_blank" rel="noopener">
+        <img src="/assets/blog/fiscus.png" alt="Analiza EU ETS">
+      </a>
+    </div>
+    <div class="blog-list-text">
+      <a href="https://hrcak.srce.hr/file/465846" target="_blank" rel="noopener" class="blog-list-title">Analiza EU ETS</a>
+      <div class="blog-list-date">PDF • Otvara se vanjski link</div>
+      <div class="blog-list-excerpt">Analiza učinaka EU ETS sustava.</div>
+      <div style="margin-top: 8px;">
+        <a href="https://hrcak.srce.hr/file/465846" target="_blank" rel="noopener" class="blog-list-readmore">Otvori PDF →</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="blog-list-item">
+    <div class="blog-list-thumb">
+      <a href="https://arhivanalitika.hr/blog/financira-li-se-prihodima-od-prodaje-emisijskih-dozvola-energetska-tranzicija-ili-odrzava-status-quo/" target="_blank" rel="noopener">
+        <img src="/assets/blog/emisijske-dozvole.png" alt="Prihodi od emisijskih dozvola">
+      </a>
+    </div>
+    <div class="blog-list-text">
+      <a href="https://arhivanalitika.hr/blog/financira-li-se-prihodima-od-prodaje-emisijskih-dozvola-energetska-tranzicija-ili-odrzava-status-quo/" target="_blank" rel="noopener" class="blog-list-title">Prihodi od emisijskih dozvola i tranzicija</a>
+      <div class="blog-list-date">Eksterni članak • Otvara se vanjski link</div>
+      <div class="blog-list-excerpt">Analiza korištenja prihoda od prodaje emisijskih dozvola.</div>
+      <div style="margin-top: 8px;">
+        <a href="https://arhivanalitika.hr/blog/financira-li-se-prihodima-od-prodaje-emisijskih-dozvola-energetska-tranzicija-ili-odrzava-status-quo/" target="_blank" rel="noopener" class="blog-list-readmore">Otvori članak →</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="blog-list-item">
+    <div class="blog-list-thumb">
+      <a href="https://repozitorij.ijf.hr/articles/ijf:965/show-file/0" target="_blank" rel="noopener">
+        <img src="/assets/blog/porezi.png" alt="Okolišni porezi">
+      </a>
+    </div>
+    <div class="blog-list-text">
+      <a href="https://repozitorij.ijf.hr/articles/ijf:965/show-file/0" target="_blank" rel="noopener" class="blog-list-title">Okolišni porezi</a>
+      <div class="blog-list-date">PDF • Otvara se vanjski link</div>
+      <div class="blog-list-excerpt">Osvrt na okolišne poreze i implikacije za fiskalnu politiku.</div>
+      <div style="margin-top: 8px;">
+        <a href="https://repozitorij.ijf.hr/articles/ijf:965/show-file/0" target="_blank" rel="noopener" class="blog-list-readmore">Otvori PDF →</a>
+      </div>
+    </div>
+  </div>
 </div>

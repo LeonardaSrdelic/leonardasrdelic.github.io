@@ -14,7 +14,7 @@
   </head>
   <body>
 
-
+    {%- include cookie-consent.html -%}
     {%- include header.html -%}
     <main class="page-content">
       <div class="wrapper">
@@ -24,7 +24,72 @@
     </main>
     {%- include footer.html -%}
     <script src="{{ '/assets/navigation.js' | relative_url }}" defer></script>
+    <script>
+      (function() {
+        var GA_ID = 'G-MNWHH06E2E';
+        var CONSENT_COOKIE = 'cookie_consent_accepted=';
+        var MAX_AGE = 365 * 24 * 60 * 60;
+
+        function hasConsent() {
+          return document.cookie.split(';').some(function(item) {
+            return item.trim().indexOf(CONSENT_COOKIE) === 0;
+          });
+        }
+
+        function setConsentCookie() {
+          document.cookie = CONSENT_COOKIE + 'true; path=/; max-age=' + MAX_AGE;
+        }
+
+        function ensureGtag() {
+          window.dataLayer = window.dataLayer || [];
+          window.gtag = window.gtag || function(){ dataLayer.push(arguments); };
+        }
+
+        function loadGoogleAnalytics() {
+          if (window.__gaLoaded) return;
+          var gaScript = document.createElement('script');
+          gaScript.async = true;
+          gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+          document.head.appendChild(gaScript);
+          ensureGtag();
+          gtag('js', new Date());
+          gtag('config', GA_ID);
+          window.__gaLoaded = true;
+        }
+
+        function showBanner() {
+          var banner = document.getElementById('cookie-banner');
+          if (banner) banner.style.display = 'block';
+        }
+
+        function hideBanner() {
+          var banner = document.getElementById('cookie-banner');
+          if (banner) banner.style.display = 'none';
+        }
+
+        window.acceptCookies = function() {
+          setConsentCookie();
+          ensureGtag();
+          gtag('consent', 'update', { analytics_storage: 'granted' });
+          loadGoogleAnalytics();
+          hideBanner();
+        };
+
+        function init() {
+          ensureGtag();
+          if (hasConsent()) {
+            gtag('consent', 'update', { analytics_storage: 'granted' });
+            loadGoogleAnalytics();
+            hideBanner();
+          } else {
+            gtag('consent', 'default', { analytics_storage: 'denied' });
+            showBanner();
+          }
+        }
+
+        document.addEventListener('DOMContentLoaded', init);
+      })();
+    </script>
   </body>
 </html>
-
 

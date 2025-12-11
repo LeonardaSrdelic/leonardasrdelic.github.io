@@ -2,5 +2,8 @@ home: "Home"
 cv: "CV"
 publications: "Publications"
 nav:
-  mediji: Media
-
+  mediji: "Media"
+cookie_consent:
+  text: "This website uses cookies to ensure you get the best experience on our website."
+  button: "Got it!"
+  privacy_link: "Privacy Policy"

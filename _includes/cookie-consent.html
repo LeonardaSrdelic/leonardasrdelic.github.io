@@ -1,0 +1,20 @@
+{%- assign current_lang = page.lang | default: site.lang | default: 'hr' -%}
+{%- if current_lang == 'hr' -%}
+  {%- assign policy_path = '/policy.html' -%}
+  {%- assign banner_text = 'Ova stranica koristi nužne i analitičke kolačiće (Google Analytics) radi funkcionalnosti i analize posjećenosti.' -%}
+  {%- assign accept_label = 'Prihvaćam' -%}
+  {%- assign more_label = 'Više informacija' -%}
+{%- else -%}
+  {%- assign policy_path = '/policy.html' -%}
+  {%- assign banner_text = 'This site uses essential and analytics cookies (Google Analytics) for functionality and traffic analysis.' -%}
+  {%- assign accept_label = 'Accept' -%}
+  {%- assign more_label = 'More info' -%}
+{%- endif -%}
+
+<div id="cookie-banner" class="cookie-banner" role="region" aria-label="Obavijest o kolačićima">
+  <span>{{ banner_text }}</span>
+  <div class="cookie-banner-actions">
+    <button type="button" class="cookie-btn-accept" onclick="acceptCookies()">{{ accept_label }}</button>
+    <a href="{{ policy_path | relative_url }}" class="cookie-link">{{ more_label }}</a>
+  </div>
+</div>

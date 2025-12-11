@@ -2,6 +2,8 @@ home: "Početna"
 cv: "Životopis"
 publications: "Publikacije"
 nav:
-  mediji: Iz medija
-
-
+  mediji: "Iz medija"
+cookie_consent:
+  text: "Ova web stranica koristi kolačiće kako bi osigurala najbolje iskustvo na našoj web stranici."
+  button: "Prihvaćam"
+  privacy_link: "Politika privatnosti"
