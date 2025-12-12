@@ -10,7 +10,7 @@ header_image: /assets/blog/imf-vlog-logo.png
 tags: ["video", "MMF", "članak IV", "fiskalna politika"]
 ---
 
-Iako hrvatsko gospodarstvo nastavlja bilježiti jedan od najsnažnijih rasta u eurozoni, izvješće MMF-a za 2025. skreće pozornost na pojavu makroekonomskih neravnoteža koje je potrebno pravovremeno adresirati. Temeljna poruka je da se ekonomske politike moraju preusmjeriti s poticanja potrošnje na **očuvanje stabilnosti**, **izgradnju fiskalnih rezervi** (engl. *fiscal buffers*) i **povećanje produktivnosti** kako bi se osigurala dugoročna održivost.
+Iako hrvatsko gospodarstvo nastavlja bilježiti jednu od najsnažnijih stopa rasta u eurozoni, izvješće MMF-a za 2025. skreće pozornost na pojavu makroekonomskih neravnoteža koje je potrebno pravovremeno adresirati. Temeljna poruka je da se ekonomske politike moraju preusmjeriti s poticanja potrošnje na **očuvanje stabilnosti**, **izgradnju fiskalnih rezervi** (engl. *fiscal buffers*) i **povećanje produktivnosti** kako bi se osigurala dugoročna održivost.
 
 U prvom planu je **fiskalna politika** i njezina veza s inflacijom, gdje MMF zagovara potrebu za konsolidacijom. Analiza je pokazala da je ekspanzivna politika, vođena prvenstveno **rastom javnih plaća**, utjecala na inflacijske pritiske, pridonijevši stopi inflacije s procijenjenih 0,8 postotnih bodova. Zbog toga se kratkoročno preporučuje suzdržavanje od daljnjeg snažnog rasta plaća, postupno ukidanje potpora za troškove života i bolja naplata PDV-a, dok se srednjoročno savjetuje razmatranje **poreza na nekretnine** temeljenog na vrijednosti te racionalizacija sniženih stopa PDV-a.
 
