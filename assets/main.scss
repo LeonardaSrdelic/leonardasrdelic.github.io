@@ -160,6 +160,7 @@ layout: null
   border-top: 0;
   box-shadow: 0 4px 14px rgba(0,0,0,0.04);
   padding: 8px 0 4px;
+  overflow: visible;
 }
 
 .site-header .wrapper {
@@ -176,6 +177,8 @@ layout: null
   gap: 16px;
   position: relative;
   padding: 0 16px; /* dodaj malo uvlake da sadržaj ne sjeda na rub */
+  max-width: 100%;
+  overflow: visible;
 }
 
 .site-title {
@@ -213,6 +216,8 @@ layout: null
   align-items: center;
   gap: 10px;
   flex-wrap: wrap;
+  position: relative;
+  z-index: 500;
 }
 
 .site-nav .page-link,
@@ -325,7 +330,9 @@ layout: null
     gap: 10px;
     align-items: center;
     position: relative;
-    justify-content: space-between;
+    justify-content: space-between !important;
+    max-width: 100%;
+    overflow: visible;
   }
 
   .site-nav {
@@ -343,15 +350,20 @@ layout: null
   .menu-toggle {
     order: 0;
     margin-right: 0;
-    margin-left: auto;
+    margin-left: 0 !important;
     display: inline-flex !important;
+    visibility: visible !important;
     align-items: center;
     justify-content: center;
     position: relative;
-    margin-left: auto;
     min-width: 44px;
+    flex-shrink: 0;
     z-index: 360;
     box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  }
+
+  .site-nav .menu-icon {
+    display: block !important;
   }
 
   .site-nav .trigger {
@@ -374,7 +386,7 @@ layout: null
     overflow-y: auto;
     overflow-x: hidden;
     box-sizing: border-box;
-    z-index: 200;
+    z-index: 600;
     background-clip: padding-box;
   }
 
