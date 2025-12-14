@@ -320,7 +320,7 @@ layout: null
 }
 
 /* Mobilni/suženi prikaz: hamburger vidljiv, linkovi sakriveni dok se ne otvori */
-@media (max-width: 1000px) {
+@media (max-width: 2000px) {
   .site-header-inner {
     gap: 10px;
     align-items: center;
@@ -420,7 +420,7 @@ layout: null
   }
 }
 
-@media (max-width: 1000px) and (min-width: 769px) {
+@media (max-width: 2000px) and (min-width: 769px) {
   .site-nav .trigger {
     width: min(420px, calc(100vw - 24px));
   }

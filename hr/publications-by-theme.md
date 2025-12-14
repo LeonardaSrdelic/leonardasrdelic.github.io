@@ -16,7 +16,7 @@ permalink: /hr/publications-by-theme/
   <div class="pub-tile">
     <a href="https://hrcak.srce.hr/file/479113" target="_blank">
       <img src="/assets/ekc.png" class="publications" alt="EKC">
-      <div class="pub-caption"><i>Srdelić & Barišić (2025.)</i><br>Okolišna Kuznetsova krivulja</div>
+      <div class="pub-caption"><i>Srdelić &amp; Barišić (2025.)</i><br>Okolišna Kuznetsova krivulja</div>
     </a>
   </div>
   <div class="pub-tile">
@@ -28,7 +28,7 @@ permalink: /hr/publications-by-theme/
   <div class="pub-tile">
     <a href="https://hrcak.srce.hr/file/465846" target="_blank">
       <img src="/assets/eu_ets.png" class="publications" alt="EU ETS">
-      <div class="pub-caption"><i>Srdelić & Švaljek (2024.)</i><br>EU ETS</div>
+      <div class="pub-caption"><i>Srdelić &amp; Švaljek (2024.)</i><br>EU ETS</div>
     </a>
   </div>
   <div class="pub-tile">
@@ -61,37 +61,29 @@ permalink: /hr/publications-by-theme/
 
 <h3>Gospodarski rast u otvorenoj ekonomiji</h3>
 <div class="pub-theme-gallery">
-
-  <!-- SCED s SCImago widgetom -->
   <div class="pub-tile">
-    <a href="https://www.sciencedirect.com/science/article/pii/S0954349X23001492?via%3Dihub" target="_blank">
-      <span style="display:block; margin:0 auto 8px auto; max-width:85px;">
-        <a href="https://www.scimagojr.com/journalsearch.php?q=29487&amp;tip=sid&amp;exact=no" 
-           title="SCImago Journal &amp; Country Rank" 
-           style="display:inline-block;">
-          <img border="0" src="https://www.scimagojr.com/journal_img.php?id=29487" 
-               alt="SCImago Journal &amp; Country Rank" 
-               style="width:130px; height:auto;"/>
-        </a>
-      </span>
-      <div class="pub-caption">
-        <i>Srdelić & Dávila-Fernández (2024.)</i><br>
-        Međunarodna razmjena i rast
-      </div>
+    <a href="https://www.scimagojr.com/journalsearch.php?q=29487&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank" target="_blank">
+      <img border="0" src="https://www.scimagojr.com/journal_img.php?id=29487"
+           alt="SCImago Journal &amp; Country Rank" />
     </a>
+    <div class="pub-caption">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0954349X23001492?via%3Dihub" target="_blank" style="color:inherit; text-decoration:none;">
+        <i>Srdelić &amp; Dávila-Fernández (2024.)</i><br>
+        Međunarodna razmjena i rast
+      </a>
+    </div>
   </div>
 
-<!-- Drugi rad -->
-<div class="pub-tile">
-  <a href="https://academic.oup.com/cje/article/49/4/755/8160795?login=true" target="_blank">
-    <!-- SCImago widget -->
-    <img border="0" src="https://www.scimagojr.com/journal_img.php?id=21366"
-         alt="SCImago Journal & Country Rank"
-         style="width:130px; display:block; margin:0 auto 14px auto;" />
+  <div class="pub-tile">
+    <a href="https://www.scimagojr.com/journalsearch.php?q=29487&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank" target="_blank">
+      <img border="0" src="https://www.scimagojr.com/journal_img.php?id=29487"
+           alt="SCImago Journal &amp; Country Rank" />
+    </a>
     <div class="pub-caption">
-      <i>Srdelić & Dávila-Fernández (2025.)</i><br>
-      Demografska tranzicija i rast
+      <a href="https://academic.oup.com/cje/article/49/4/755/8160795?login=true" target="_blank" style="color:inherit; text-decoration:none;">
+        <i>Srdelić &amp; Dávila-Fernández (2025.)</i><br>
+        Demografska tranzicija i rast
+      </a>
     </div>
-  </a>
+  </div>
 </div>
-

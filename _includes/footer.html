@@ -5,18 +5,205 @@
   {%- assign copyright_line = '© Leonarda Srdelić. Sva prava pridržana.' -%}
   {%- assign privacy_label = 'Kolačići i privatnost' -%}
   {%- assign legal_label = 'Pravne napomene' -%}
+  {%- assign newsletter_text = 'Pratite novosti, analize i stručne komentare izravno na e-mail.' -%}
+  {%- assign newsletter_placeholder = 'Vaša e-mail adresa' -%}
+  {%- assign newsletter_button = 'Pretplati se' -%}
+  {%- assign newsletter_title = 'Pretplatite se' -%}
+  {%- assign newsletter_note = 'Nema spama. Odjava jednim klikom.' -%}
 {%- else -%}
   {%- assign copyright_line = '© Leonarda Srdelić. All rights reserved.' -%}
   {%- assign privacy_label = 'Cookies & Privacy' -%}
   {%- assign legal_label = 'Legal notice' -%}
+  {%- assign newsletter_text = 'Get new analyses and updates straight to your inbox.' -%}
+  {%- assign newsletter_placeholder = 'Your email address' -%}
+  {%- assign newsletter_button = 'Subscribe' -%}
+  {%- assign newsletter_title = 'Subscribe' -%}
+  {%- assign newsletter_note = 'No spam. Unsubscribe anytime.' -%}
 {%- endif -%}
 
-<footer class="site-footer h-card" style="font-size: 0.9em; color: #555; margin-top: 60px; background:none; padding: 16px 0 10px 0;">
-  <div class="wrapper" style="text-align:left;">
-    <p style="margin:0 0 6px 0;">{{ copyright_line }}</p>
-    <p style="margin:0;">
+<style>
+  .site-footer {
+    background: none;
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 32px;
+    padding: 12px 0 14px 0;
+  }
+  .footer-center {
+    text-align: center;
+    font-size: 0.97em;
+  }
+  .footer-center p {
+    margin: 0 0 6px 0;
+  }
+  /* Floating subscribe */
+  .newsletter-floater {
+    position: fixed;
+    right: 22px;
+    bottom: 24px;
+    z-index: 900;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 10px;
+  }
+  .newsletter-toggle {
+    background: #f37726;
+    color: #fff;
+    border: none;
+    border-radius: 999px;
+    padding: 12px 18px;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+    transition: transform 0.15s ease, box-shadow 0.2s ease;
+  }
+  .newsletter-toggle:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 10px 22px rgba(0,0,0,0.16);
+  }
+  .newsletter-panel {
+    display: none;
+    width: 320px;
+    max-width: calc(100vw - 32px);
+    background: #fff;
+    border: 1px solid #e2e7ef;
+    border-radius: 12px;
+    box-shadow: 0 12px 32px rgba(0,0,0,0.14);
+    padding: 14px 14px 12px 14px;
+  }
+  .newsletter-panel.is-open {
+    display: block;
+  }
+  .newsletter-panel header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 8px;
+  }
+  .newsletter-panel h4 {
+    margin: 0;
+    font-size: 1.05em;
+    font-weight: 700;
+    color: #0f172a;
+  }
+  .newsletter-panel button.close {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: #555;
+    padding: 0 4px;
+    line-height: 1;
+  }
+  .newsletter-panel p {
+    margin: 0 0 10px 0;
+    font-size: 0.95em;
+    color: #4b5563;
+  }
+  .newsletter-panel form {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .newsletter-panel input[type="email"] {
+    padding: 8px 11px;
+    border-radius: 7px;
+    border: 1px solid #cbd5e1;
+    font-size: 0.98em;
+    flex: 1 0 180px;
+    min-width: 0;
+  }
+  .newsletter-panel button.submit {
+    padding: 9px 16px;
+    background: #f37726;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .newsletter-panel .note {
+    font-size: 0.85em;
+    color: #6b7280;
+    margin-top: 6px;
+  }
+  @media (max-width: 640px) {
+    .newsletter-floater { right: 12px; bottom: 16px; }
+    .newsletter-toggle { padding: 11px 16px; }
+  }
+</style>
+
+<footer class="site-footer h-card">
+  <div class="wrapper footer-center">
+    <p>{{ copyright_line }}</p>
+    <p>
       <a href="{{ policy_path | relative_url }}" style="color:#246db6;">{{ privacy_label }}</a> |
       <a href="{{ policy_path | relative_url }}#legal" style="color:#246db6;">{{ legal_label }}</a>
     </p>
   </div>
 </footer>
+
+<div class="newsletter-floater" aria-live="polite">
+  <button class="newsletter-toggle" type="button" aria-expanded="false" aria-controls="newsletter-panel">
+    {{ newsletter_button }}
+  </button>
+  <div class="newsletter-panel" id="newsletter-panel" role="dialog" aria-modal="false" aria-label="{{ newsletter_title }}">
+    <header>
+      <h4>{{ newsletter_title }}</h4>
+      <button class="close" type="button" aria-label="Close">×</button>
+    </header>
+    <p>{{ newsletter_text }}</p>
+    <form action="https://formspree.io/f/mldljwde" method="POST">
+      <input type="email" name="email" placeholder="{{ newsletter_placeholder }}" required>
+      <button class="submit" type="submit">{{ newsletter_button }}</button>
+    </form>
+    <div class="note">{{ newsletter_note }}</div>
+  </div>
+</div>
+
+<script>
+  (function() {
+    var toggle = document.querySelector('.newsletter-toggle');
+    var panel = document.querySelector('.newsletter-panel');
+    var closeBtn = panel ? panel.querySelector('.close') : null;
+
+    function openPanel() {
+      if (!panel) return;
+      panel.classList.add('is-open');
+      toggle.setAttribute('aria-expanded', 'true');
+    }
+
+    function closePanel() {
+      if (!panel) return;
+      panel.classList.remove('is-open');
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+
+    if (toggle && panel) {
+      toggle.addEventListener('click', function() {
+        if (panel.classList.contains('is-open')) {
+          closePanel();
+        } else {
+          openPanel();
+        }
+      });
+    }
+
+    if (closeBtn) {
+      closeBtn.addEventListener('click', closePanel);
+    }
+
+    document.addEventListener('keydown', function(ev) {
+      if (ev.key === 'Escape') closePanel();
+    });
+
+    document.addEventListener('click', function(ev) {
+      if (!panel || !panel.classList.contains('is-open')) return;
+      var isClickInside = panel.contains(ev.target) || toggle.contains(ev.target);
+      if (!isClickInside) closePanel();
+    });
+  })();
+</script>
