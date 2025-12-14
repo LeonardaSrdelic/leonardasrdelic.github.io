@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: hr
-title: "Vlog: KLJUČNE PORUKE IZVJEŠĆA MMF-a O HRVATSKOM GOSPODARSTVU (2025. Godišnje konzultacije, Članak IV.)"
+title: "Video-sažetak: Ključne poruke izvješća MMF-a o hrvatskom gospodarstvu (2025.)"
 permalink: /hr/vlog-konzultacije-mmf-2025/
 description: Video prikaz ključnih nalaza MMF-a o javnim financijama i fiskalnim izgledima Hrvatske za 2025., uz poveznicu na službeno IMF priopćenje.
 author: "Leonarda Srdelić"
