@@ -1,9 +1,7 @@
-﻿<header class="site-header" role="banner">
+<header class="site-header" role="banner">
   <div class="wrapper site-header-inner">
-    <!-- Naslov stranice -->
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
-    <!-- Navigacijski izbornik -->
     <nav class="site-nav" aria-label="Glavni izbornik">
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-menu" aria-label="Otvori navigaciju">
         <span class="menu-icon" aria-hidden="true">
@@ -14,26 +12,28 @@
         <span class="menu-label">{% if page.lang == 'hr' %}Izbornik{% else %}Menu{% endif %}</span>
         <span class="visually-hidden">Izbornik</span>
       </button>
+
       <div id="primary-menu" class="trigger">
-        <!-- Lokalizirani linkovi -->
         <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Početna{% else %}Home{% endif %}">
           {% if page.lang == 'hr' %}Početna{% else %}Home{% endif %}
         </a>
-        <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/cv/' | relative_url }}{% else %}{{ '/cv/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Životopis{% else %}CV{% endif %}">
-          {% if page.lang == 'hr' %}Životopis{% else %}CV{% endif %}
-        </a>
 
-        <!-- Dropdown za publikacije -->
         <div class="dropdown">
-          <button class="dropdown-title" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="publications-menu">
-            {% if page.lang == 'hr' %}Publikacije{% else %}Publications{% endif %}
+          <button class="dropdown-title" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="about-menu">
+            {% if page.lang == 'hr' %}O meni{% else %}About me{% endif %}
           </button>
-          <div id="publications-menu" class="dropdown-content">
-            <a href="{% if page.lang == 'hr' %}{{ '/hr/publications-by-theme/' | relative_url }}{% else %}{{ '/publications-by-theme/' | relative_url }}{% endif %}">
-              {% if page.lang == 'hr' %}Po temama{% else %}By Theme{% endif %}
+          <div id="about-menu" class="dropdown-content">
+            <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/cv/' | relative_url }}{% else %}{{ '/cv/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Životopis{% else %}CV{% endif %}">
+              {% if page.lang == 'hr' %}Životopis{% else %}CV{% endif %}
             </a>
-            <a href="{% if page.lang == 'hr' %}{{ '/hr/publications-by-date/' | relative_url }}{% else %}{{ '/publications-by-date/' | relative_url }}{% endif %}">
-              {% if page.lang == 'hr' %}Kronološki{% else %}By Date{% endif %}
+            <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/publications-by-theme/' | relative_url }}{% else %}{{ '/publications-by-theme/' | relative_url }}{% endif %}">
+              {% if page.lang == 'hr' %}Publikacije po temama{% else %}Publications by theme{% endif %}
+            </a>
+            <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/publications-by-date/' | relative_url }}{% else %}{{ '/publications-by-date/' | relative_url }}{% endif %}">
+              {% if page.lang == 'hr' %}Publikacije kronološki{% else %}Publications by date{% endif %}
+            </a>
+            <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/mediji/' | relative_url }}{% else %}{{ '/mediji/' | relative_url }}{% endif %}">
+              {% if page.lang == 'hr' %}Iz medija{% else %}Media{% endif %}
             </a>
           </div>
         </div>
@@ -46,15 +46,20 @@
           {% if page.lang == 'hr' %}Analize{% else %}Analyses{% endif %}
         </a>
 
-        <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/mediji/' | relative_url }}{% else %}{{ '/mediji/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Iz medija{% else %}Media{% endif %}">
-          {% if page.lang == 'hr' %}Iz medija{% else %}Media{% endif %}
-        </a>
+        <div class="dropdown">
+          <button class="dropdown-title" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="services-menu">
+            {% if page.lang == 'hr' %}Usluge{% else %}Services{% endif %}
+          </button>
+          <div id="services-menu" class="dropdown-content">
+            <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/usluge/' | relative_url }}{% else %}{{ '/services/' | relative_url }}{% endif %}">
+              {% if page.lang == 'hr' %}Akademsko mentoriranje{% else %}Academic mentoring{% endif %}
+            </a>
+            <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/usluge/esg-izvjestaj/' | relative_url }}{% else %}{{ '/hr/usluge/esg-izvjestaj/' | relative_url }}{% endif %}">
+              {% if page.lang == 'hr' %}ESG izvještaj{% else %}ESG report{% endif %}
+            </a>
+          </div>
+        </div>
 
-        <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/usluge/' | relative_url }}{% else %}{{ '/services/' | relative_url }}{% endif %}" title="{% if page.lang == 'hr' %}Usluge{% else %}Services{% endif %}">
-          {% if page.lang == 'hr' %}Usluge{% else %}Services{% endif %}
-        </a>
-
-        <!-- Jezični prekidač -->
         <div class="language-switcher">
           {% if page.lang == "hr" %}
             <a href="{{ '/en/' | relative_url }}" class="language-link" title="Switch to English">English</a>
