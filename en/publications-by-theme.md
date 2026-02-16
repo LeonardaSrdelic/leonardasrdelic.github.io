@@ -62,15 +62,22 @@ permalink: /publications-by-theme/
 <h3>Open economies and growth</h3>
 <div class="pub-theme-gallery">
   <div class="pub-tile">
-    <a href="https://www.sciencedirect.com/science/article/pii/S0954349X23001492?via%3Dihub" target="_blank">
-      <img src="/assets/sced.png" class="publications" alt="SCED">
-      <div class="pub-caption"><i>Srdelić & Dávila-Fernández (2024)</i><br>International trade & growth</div>
-    </a>
+    <a href="https://www.scimagojr.com/journalsearch.php?q=29487&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=29487" alt="SCImago Journal &amp; Country Rank"  /></a>
+    <div class="pub-caption">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0954349X23001492?via%3Dihub" target="_blank" style="color:inherit; text-decoration:none;">
+        <i>Srdelić &amp; Dávila-Fernández (2024)</i><br>
+        International trade &amp; growth
+      </a>
+    </div>
   </div>
+
   <div class="pub-tile">
-    <a href="https://academic.oup.com/cje/article/49/4/755/8160795?login=true" target="_blank">
-      <img src="/assets/cje.png" class="publications" alt="CJE">
-      <div class="pub-caption"><i>Srdelić & Dávila-Fernández (2025)</i><br>Demographic trans & growth</div>
-    </a>
+    <a href="https://www.scimagojr.com/journalsearch.php?q=21366&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21366" alt="SCImago Journal &amp; Country Rank"  /></a>
+    <div class="pub-caption">
+      <a href="https://academic.oup.com/cje/article/49/4/755/8160795?login=true" target="_blank" style="color:inherit; text-decoration:none;">
+        <i>Srdelić &amp; Dávila-Fernández (2025)</i><br>
+        Demographic transition &amp; growth
+      </a>
+    </div>
   </div>
 </div>

@@ -54,9 +54,11 @@
             <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/usluge/' | relative_url }}{% else %}{{ '/services/' | relative_url }}{% endif %}">
               {% if page.lang == 'hr' %}Akademsko mentoriranje{% else %}Academic mentoring{% endif %}
             </a>
+            {% comment %}
             <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/usluge/esg-izvjestaj/' | relative_url }}{% else %}{{ '/hr/usluge/esg-izvjestaj/' | relative_url }}{% endif %}">
               {% if page.lang == 'hr' %}ESG izvještaj{% else %}ESG report{% endif %}
             </a>
+            {% endcomment %}
           </div>
         </div>
 
