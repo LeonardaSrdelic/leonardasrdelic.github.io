@@ -1,3 +1,11 @@
+/* ── Dark mode toggle ─────────────────────────────── */
+(function () {
+  var saved = localStorage.getItem('theme');
+  if (saved === 'dark') {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+})();
+
 (function () {
   function onReady(callback) {
     if (document.readyState !== 'loading') {
@@ -129,5 +137,20 @@
         closeAllDropdowns();
       }
     });
+
+    /* Dark mode toggle */
+    var darkBtn = document.querySelector('.dark-toggle');
+    if (darkBtn) {
+      darkBtn.addEventListener('click', function () {
+        var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        if (isDark) {
+          document.documentElement.removeAttribute('data-theme');
+          localStorage.setItem('theme', 'light');
+        } else {
+          document.documentElement.setAttribute('data-theme', 'dark');
+          localStorage.setItem('theme', 'dark');
+        }
+      });
+    }
   });
 })();

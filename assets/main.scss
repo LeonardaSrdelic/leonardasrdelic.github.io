@@ -1095,3 +1095,499 @@ a:hover, a:focus {
     font-size: 1.05rem;
   }
 }
+
+/* ───────────────────────────────────────
+   Homepage cards (extracted from inline styles)
+   ─────────────────────────────────────── */
+.home-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 3rem;
+}
+.home-left {
+  flex: 1 1 500px;
+  max-width: 600px;
+}
+.home-right {
+  flex: 1 1 350px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 400px;
+}
+.home-hero-img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  margin-bottom: 1rem;
+}
+.home-caption {
+  color: #666;
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+}
+.home-card {
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+.home-card-about {
+  background: #f9f9f9;
+  padding: 1.5rem 1.7rem;
+}
+.home-card-news {
+  background: #f3f6fb;
+}
+.home-card-blog {
+  background: #e8f5fa;
+}
+.home-card-explore {
+  background: #f5f7f1;
+}
+.home-card-pubs {
+  background: #fff6ed;
+}
+
+/* ───────────────────────────────────────
+   Dark mode
+   ─────────────────────────────────────── */
+
+/* Toggle button in header */
+.dark-toggle {
+  background: none;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  cursor: pointer;
+  font-size: 1.15rem;
+  line-height: 1;
+  transition: background 0.18s ease, border-color 0.18s ease, transform 0.15s ease;
+  color: #64748b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.dark-toggle:hover {
+  background: rgba(0,0,0,0.05);
+  color: #334155;
+  transform: rotate(15deg);
+}
+.dark-toggle .icon-sun  { display: none; }
+.dark-toggle .icon-moon { display: inline; }
+
+/* Dark theme overrides */
+[data-theme="dark"] {
+  /* Toggle icon swap */
+  .dark-toggle .icon-sun  { display: inline; }
+  .dark-toggle .icon-moon { display: none; }
+  .dark-toggle { color: #94a3b8; }
+  .dark-toggle:hover {
+    background: rgba(148, 163, 184, 0.1);
+    color: #fbbf24;
+    transform: rotate(-15deg);
+  }
+
+  /* Base */
+  body {
+    background-color: #0f172a;
+    color: #e2e8f0;
+  }
+
+  /* Header */
+  .site-header {
+    background: rgba(15, 23, 42, 0.92);
+    backdrop-filter: blur(16px) saturate(1.4);
+    border-bottom: 1px solid rgba(148, 163, 184, 0.08);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.15);
+  }
+
+  .site-title,
+  .site-title:link,
+  .site-title:visited {
+    color: #f1f5f9;
+  }
+  .site-title:hover,
+  .site-title:focus {
+    color: #93c5fd;
+    text-decoration: none;
+  }
+
+  /* Nav links */
+  .site-nav .page-link,
+  .dropdown-title {
+    color: #cbd5e1;
+    border: 1px solid transparent;
+  }
+
+  .site-nav .page-link:hover,
+  .site-nav .page-link:focus,
+  .dropdown-title:hover,
+  .dropdown-title:focus {
+    background: rgba(148, 163, 184, 0.08);
+    color: #f1f5f9;
+    border-color: rgba(148, 163, 184, 0.12);
+    box-shadow: none;
+    text-decoration: none;
+  }
+
+  .site-nav .page-link.is-active,
+  .dropdown-title.is-active {
+    background: rgba(59, 130, 246, 0.12);
+    color: #93c5fd;
+    border-color: rgba(59, 130, 246, 0.2);
+    box-shadow: none;
+  }
+
+  .language-switcher .language-link {
+    color: #f59e0b;
+  }
+  .language-switcher .language-link:hover,
+  .language-switcher .language-link:focus {
+    background: rgba(245, 158, 11, 0.1);
+    color: #fbbf24;
+    border-color: rgba(245, 158, 11, 0.15);
+  }
+
+  /* Dropdown */
+  .dropdown-content {
+    background: #1e293b;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    padding: 6px;
+  }
+  .dropdown-content a {
+    color: #cbd5e1;
+    border-radius: 8px;
+    padding: 9px 14px;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .dropdown-content a:hover,
+  .dropdown-content a:focus {
+    background: rgba(148, 163, 184, 0.08);
+    color: #f1f5f9;
+    text-decoration: none;
+  }
+
+  /* Mobile menu */
+  @media (max-width: 992px) {
+    .menu-toggle {
+      background: #1e293b;
+      border-color: rgba(148, 163, 184, 0.15);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .menu-toggle:hover {
+      background: #334155;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+    }
+    .site-nav .trigger {
+      background: #1e293b;
+      border: none;
+      box-shadow: 0 12px 32px rgba(0,0,0,0.5);
+    }
+    .dropdown-content {
+      border: none;
+      background: rgba(30, 41, 59, 0.6);
+    }
+  }
+
+  /* Links */
+  a { color: #60a5fa; }
+  a:visited { color: #818cf8; }
+  a:hover, a:focus { color: #93c5fd; }
+
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 { color: #f1f5f9; }
+
+  /* Post */
+  .post-meta { color: #94a3b8; }
+  .blog-list-title { color: #60a5fa; }
+  .blog-list-date { color: #94a3b8; }
+  .blog-list-excerpt { color: #cbd5e1; }
+  .blog-list-author { color: #94a3b8; }
+  .blog-list-readmore { color: #f59e0b; }
+  .blog-list-readmore:hover { color: #60a5fa; }
+  .blog-list-item { border-bottom-color: #1e293b; }
+
+  .blog-tag {
+    background: #1e3a5f;
+    color: #93c5fd;
+  }
+
+  /* Post disclaimer */
+  .post-disclaimer {
+    background: #1e293b;
+    border-left-color: #475569;
+    color: #94a3b8;
+  }
+
+  /* Tables */
+  table {
+    color: #cbd5e1;
+    border-color: #334155;
+  }
+  table tr:nth-child(even) { background-color: #1e293b; }
+  table th {
+    background-color: #1e293b;
+    border-color: #334155;
+    border-bottom-color: #475569;
+    color: #e2e8f0;
+  }
+  table td { border-color: #334155; }
+
+  /* Code */
+  pre, code {
+    background-color: #1e293b;
+    border-color: #334155;
+    color: #e2e8f0;
+  }
+
+  /* Blockquotes */
+  blockquote {
+    color: #94a3b8;
+    border-left-color: #334155;
+  }
+
+  /* Cards & tiles */
+  .pub-tile {
+    background: #1e293b;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  }
+  .pub-tile:hover,
+  .pub-tile:focus-within {
+    box-shadow: 0 4px 16px rgba(59, 130, 246, 0.2);
+  }
+  .pub-caption { color: #e2e8f0; }
+  .pub-journal { color: #94a3b8; }
+  .pub-year { color: #60a5fa; }
+  .publications { background: #1e293b; }
+  .publication { border-bottom-color: #1e293b; }
+
+  .pdf-tile {
+    background: #1e293b;
+    border-color: #334155;
+    color: #e2e8f0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  }
+  .pdf-tile:hover,
+  .pdf-tile:focus {
+    border-color: #475569;
+    box-shadow: 0 8px 18px rgba(0,0,0,0.4);
+  }
+  .pdf-note { color: #94a3b8; }
+  .pdf-thumb {
+    background: linear-gradient(145deg, #1e3a5f, #1e293b);
+    color: #93c5fd;
+  }
+
+  /* Media mention box */
+  .media-mention-box {
+    background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+    border-color: #334155;
+    border-left-color: #3b82f6;
+  }
+  .media-mention-eyebrow { color: #93c5fd; }
+  .media-mention-link { color: #60a5fa; }
+  .media-mention-link:hover { color: #93c5fd; }
+  .media-mention-note { color: #94a3b8; }
+
+  /* Feedback section */
+  .feedback-section {
+    background: #1e293b;
+    border-color: #334155;
+  }
+  .feedback-title { color: #f1f5f9; }
+  .feedback-form label { color: #e2e8f0; }
+  .feedback-form textarea,
+  .feedback-form input[type="email"] {
+    background: #0f172a;
+    border-color: #334155;
+    color: #e2e8f0;
+  }
+
+  /* Footer */
+  .site-footer {
+    border-top-color: #1e293b;
+    color: #94a3b8;
+  }
+  .footer-center { color: #94a3b8; }
+  .footer-center a { color: #60a5fa; }
+
+  /* Cookie banner */
+  .cookie-banner {
+    background-color: #1e293b;
+    border-top-color: #334155;
+    color: #e2e8f0;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.3);
+  }
+
+  /* Newsletter panel */
+  .newsletter-panel {
+    background: #1e293b;
+    border-color: #334155;
+    box-shadow: 0 12px 32px rgba(0,0,0,0.4);
+  }
+  .newsletter-panel h4 { color: #f1f5f9; }
+  .newsletter-panel p { color: #94a3b8; }
+  .newsletter-panel .close { color: #94a3b8; }
+  .newsletter-panel input[type="email"] {
+    background: #0f172a;
+    border-color: #334155;
+    color: #e2e8f0;
+  }
+  .newsletter-panel .note { color: #64748b; }
+
+  /* ── Global inline-style overrides ──
+     Many pages use inline style="background:..." and style="color:..."
+     which have higher specificity than class selectors.
+     We use !important here to ensure dark mode applies everywhere. */
+
+  /* Override ALL inline backgrounds on divs, details, sections inside content */
+  .page-content div[style*="background"],
+  .page-content details[style*="background"],
+  .page-content section[style*="background"] {
+    background: #1e293b !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3) !important;
+  }
+
+  /* Override inline text colors */
+  .page-content [style*="color:#444"],
+  .page-content [style*="color:#555"],
+  .page-content [style*="color:#666"],
+  .page-content [style*="color:#888"],
+  .page-content [style*="color:#333"],
+  .page-content [style*="color:#1f2a3a"] {
+    color: #94a3b8 !important;
+  }
+
+  /* Inline-styled headings inside cards */
+  .page-content h2[style*="color:"] {
+    color: #93c5fd !important;
+  }
+
+  /* Summary/details */
+  .page-content summary[style*="color:"] {
+    color: #f59e0b !important;
+  }
+
+  /* Inline links in footer */
+  .site-footer a[style*="color:"] {
+    color: #60a5fa !important;
+  }
+
+  /* Inline colored spans (e.g. blog tags with inline style) */
+  .page-content span[style*="background:#e0e8ef"] {
+    background: #1e3a5f !important;
+    color: #93c5fd !important;
+  }
+
+  /* Donate QR box */
+  .page-content div[style*="background: #f9f9fc"],
+  .page-content div[style*="background:#f9f9fc"] {
+    background: #1e293b !important;
+  }
+
+  /* ESG card */
+  .page-content .card[style*="background:"] {
+    background: #1e293b !important;
+  }
+
+  /* GoatCounter text in post layout */
+  .post-header p[style*="color: #bbb"] {
+    color: #64748b !important;
+  }
+  .post-header a[style*="color: #bbb"] {
+    color: #64748b !important;
+  }
+
+  /* Borders that use light colors inline */
+  .page-content [style*="border-top: 1px solid #ddd"],
+  .page-content [style*="border:1px solid #d8e2ec"],
+  .page-content [style*="border: 1px solid #ccc"],
+  .page-content [style*="border:1px solid #ccc"] {
+    border-color: #334155 !important;
+  }
+
+  /* Usluge page */
+  .page-content input[style*="border"],
+  .page-content select[style*="border"] {
+    background: #0f172a !important;
+    border-color: #334155 !important;
+    color: #e2e8f0 !important;
+  }
+
+  /* ESG page — cards, gradient backgrounds, pill buttons */
+  .page-content .card {
+    background: #1e293b !important;
+    border-color: #334155 !important;
+  }
+  .page-content .pill {
+    background: #1e3a5f !important;
+    border-color: #3b82f6 !important;
+  }
+
+  /* Box shadows using light grays */
+  .page-content [style*="box-shadow"] {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3) !important;
+  }
+
+  /* Charts/canvas — white backgrounds in JS can't be overridden with CSS,
+     but chart containers/wrappers can */
+  .page-content canvas {
+    border-radius: 8px;
+  }
+
+  /* Homepage cards */
+  .home-caption { color: #94a3b8; }
+  .home-hero-img { box-shadow: 0 2px 6px rgba(0,0,0,0.4); }
+  .home-card {
+    box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+  }
+  .home-card-about { background: #1e293b; }
+  .home-card-news  { background: #172033; }
+  .home-card-blog  { background: #0f2230; }
+  .home-card-explore { background: #1a2218; }
+  .home-card-pubs  { background: #231c12; }
+
+  /* Images — subtle background for transparent PNGs */
+  .header-image { box-shadow: 0 6px 24px rgba(0,0,0,0.3); }
+
+  /* SVG icons in header (share buttons etc.) */
+  .post-header img[src$=".svg"] {
+    filter: brightness(2);
+  }
+
+  /* Catch-all: any paragraph or list item with inline dark color */
+  .page-content p[style*="color:#1f"],
+  .page-content p[style*="color:#33"],
+  .page-content span[style*="color:#1f"],
+  .page-content span[style*="color:#33"],
+  .page-content div[style*="color:#33"] {
+    color: #cbd5e1 !important;
+  }
+
+  /* Details/summary elements */
+  .page-content details {
+    border-color: #334155 !important;
+  }
+  .page-content details[style*="background"] {
+    background: #1e293b !important;
+  }
+
+  /* Horizontal rules */
+  hr {
+    border-color: #334155;
+  }
+
+  /* Selection highlight */
+  ::selection {
+    background: #3b82f6;
+    color: #fff;
+  }
+}

@@ -6,15 +6,15 @@ permalink: /en/
 description: Welcome to my personal website!
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap:2rem; justify-content: center; align-items: flex-start; margin-top: 3rem;">
+<div class="home-grid">
 
   <!-- LEFT COLUMN: Image + About -->
-  <div style="flex: 1 1 500px; max-width: 600px;">
+  <div class="home-left">
 
-    <img src="/assets/IMG_0847.JPG" alt="Nature Exploration" style="width:100%; border-radius:12px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); margin-bottom:1rem;">
-    <p style="color:#666; font-size:0.95rem; margin-bottom:2rem;">Location: Srednji Velebit, Budakovo brdo</p>
+    <img src="/assets/IMG_0847.JPG" alt="Nature Exploration" class="home-hero-img">
+    <p class="home-caption">Location: Srednji Velebit, Budakovo brdo</p>
 
-    <div style="background:#f9f9f9; border-radius:12px; padding:1.5rem 1.7rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
+    <div class="home-card home-card-about">
       <h2 style="margin-top:0; font-size:1.4rem;">About me</h2>
       <p>
         I work on climate change mitigation and adaptation policies (EU ETS, CBAM, environmental taxation, EU funds). I also model climate stress tests and assess the fiscal and macroeconomic impacts of natural disasters.
@@ -30,10 +30,10 @@ description: Welcome to my personal website!
   </div>
 
   <!-- RIGHT COLUMN: News, Links, Publications -->
-  <div style="flex: 1 1 350px; display: flex; flex-direction: column; gap:1.5rem; max-width: 400px;">
+  <div class="home-right">
 
     <!-- NEWS -->
-    <div style="background:#f3f6fb; border-radius:12px; padding:1.5rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
+    <div class="home-card home-card-news">
       <h2 style="margin-top:0; font-size:1.3rem;">📰 News</h2>
       <ul style="padding-left:1em; margin-bottom:0;">
         <li><b>18 Jul 2025</b> – <a href="https://www.glas-slavonije.hr/magazin/2025/07/18/leonarda-srdelic-nema-sektora-koji-nije-pogoden-klimatskim-promjenama-705757/" target="_blank">Interview in Glas Slavonije</a></li>
@@ -47,7 +47,7 @@ description: Welcome to my personal website!
     </div>
 
     <!-- QUICK LINKS -->
-    <div style="background:#f5f7f1; border-radius:12px; padding:1.5rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
+    <div class="home-card home-card-explore">
       <h2 style="margin-top:0; font-size:1.3rem;">🔗 Explore</h2>
       <ul style="list-style:none; padding:0; margin:0;">
         <li><a href="/en/cv/"><b>CV</b></a></li>
@@ -57,7 +57,7 @@ description: Welcome to my personal website!
     </div>
 
     <!-- PUBLICATIONS -->
-    <div style="background:#fff6ed; border-radius:12px; padding:1.5rem; box-shadow:0 1px 4px rgba(0,0,0,0.05);">
+    <div class="home-card home-card-pubs">
       <h2 style="margin-top:0; font-size:1.3rem;">📚 Publications</h2>
       <ul style="padding-left:1em; margin-bottom:0;">
         <li><a href="https://doi.org/10.1093/cje/beaf014" target="_blank"><b>Demographic transition and economic growth</b> (2025)</a></li>

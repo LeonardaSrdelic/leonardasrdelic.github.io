@@ -46,6 +46,7 @@
           {% if page.lang == 'hr' %}Analize{% else %}Analyses{% endif %}
         </a>
 
+        {% comment %}
         <div class="dropdown">
           <button class="dropdown-title" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="services-menu">
             {% if page.lang == 'hr' %}Usluge{% else %}Services{% endif %}
@@ -54,13 +55,9 @@
             <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/usluge/' | relative_url }}{% else %}{{ '/services/' | relative_url }}{% endif %}">
               {% if page.lang == 'hr' %}Akademsko mentoriranje{% else %}Academic mentoring{% endif %}
             </a>
-            {% comment %}
-            <a class="page-link" href="{% if page.lang == 'hr' %}{{ '/hr/usluge/esg-izvjestaj/' | relative_url }}{% else %}{{ '/hr/usluge/esg-izvjestaj/' | relative_url }}{% endif %}">
-              {% if page.lang == 'hr' %}ESG izvještaj{% else %}ESG report{% endif %}
-            </a>
-            {% endcomment %}
           </div>
         </div>
+        {% endcomment %}
 
         <div class="language-switcher">
           {% if page.lang == "hr" %}
@@ -69,6 +66,11 @@
             <a href="{{ '/hr/' | relative_url }}" class="language-link" title="Prebaci na hrvatski">Hrvatski</a>
           {% endif %}
         </div>
+
+        <button class="dark-toggle" type="button" aria-label="Toggle dark mode" title="Dark / Light mode">
+          <span class="icon-moon">&#9789;</span>
+          <span class="icon-sun">&#9788;</span>
+        </button>
       </div>
     </nav>
   </div>
